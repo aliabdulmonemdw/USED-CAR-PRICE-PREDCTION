@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Price Predictor</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Used Car Price Predictor AI Tool</h1>
+            <p>Estimate used car prices Based on Saudi Arabia Market</p>
+        </header>
+
+        <div class="main-content">
+            <div class="form-container">
+                <form id="prediction-form">
+                    <div class="form-grid">
+                        <!-- Car Make -->
+                        <div class="form-group">
+                            <label for="Make">Make</label>
+                            <select id="Make" name="Make" required>
+                                <option value="" disabled selected>Select Make</option>
+                                {% for make in categorical_values['Make'] %}
+                                <option value="{{ make }}">{{ make }}</option>
+                                {% endfor %}
+                            </select>
+                            <div class="form-hint">Brand of the vehicle</div>
+                        </div>
+
+                        <!-- Car Type -->
+                        <div class="form-group">
+                            <label for="Type">Type</label>
+                            <select id="Type" name="Type" required>
+                                <option value="" disabled selected>Select Type</option>
+                                <!-- Types will be populated dynamically based on Make -->
+                            </select>
+                            <div class="form-hint">Model of the vehicle</div>
+                        </div>
+
+                        <!-- Car Year -->
+                        <div class="form-group">
+                            <label for="Year">Year <span id="year-value">2023</span></label>
+                            <input type="range" id="Year" name="Year" min="{{ min_year }}" max="2025" value="2023" required>
+                            <div class="form-hint">Manufacturing year</div>
+                        </div>
+
+                        <!-- Origin -->
+                        <div class="form-group">
+                            <label for="Origin">Origin</label>
+                            <select id="Origin" name="Origin" required>
+                                <option value="" disabled selected>Select Origin</option>
+                                {% for origin in categorical_values['Origin'] %}
+                                <option value="{{ origin }}">{{ origin }}</option>
+                                {% endfor %}
+                            </select>
+                            <div class="form-hint">Country of manufacture</div>
+                        </div>
+
+                        <!-- Color -->
+                        <div class="form-group">
+                            <label for="Color">Color</label>
+                            <select id="Color" name="Color" required>
+                                <option value="" disabled selected>Select Color</option>
+                                {% for color in categorical_values['Color'] %}
+                                <option value="{{ color }}">{{ color }}</option>
+                                {% endfor %}
+                            </select>
+                            <div class="form-hint">Exterior color</div>
+                        </div>
+
+                        <!-- Options -->
+                        <div class="form-group">
+                            <label for="Options">Options</label>
+                            <select id="Options" name="Options" required>
+                                <option value="" disabled selected>Select Options</option>
+                                {% for option in categorical_values['Options'] %}
+                                <option value="{{ option }}">{{ option }}</option>
+                                {% endfor %}
+                            </select>
+                            <div class="form-hint">Trim level and features</div>
+                        </div>
+
+                        <!-- Engine Size -->
+                        <div class="form-group">
+                            <label for="Engine_Size">Engine Size (L)</label>
+                            <input type="number" id="Engine_Size" name="Engine_Size" step="0.1" min="0.5" max="8.0" placeholder="e.g. 2.5" required>
+                            <div class="form-hint">Engine displacement in liters</div>
+                        </div>
+
+                        <!-- Fuel Type -->
+                        <div class="form-group">
+                            <label for="Fuel_Type">Fuel Type</label>
+                            <select id="Fuel_Type" name="Fuel_Type" required>
+                                <option value="" disabled selected>Select Fuel Type</option>
+                                {% for fuel_type in categorical_values['Fuel_Type'] %}
+                                <option value="{{ fuel_type }}">{{ fuel_type }}</option>
+                                {% endfor %}
+                            </select>
+                            <div class="form-hint">Type of fuel used</div>
+                        </div>
+
+                        <!-- Gear Type -->
+                        <div class="form-group">
+                            <label for="Gear_Type">Gear Type</label>
+                            <select id="Gear_Type" name="Gear_Type" required>
+                                <option value="" disabled selected>Select Gear Type</option>
+                                {% for gear_type in categorical_values['Gear_Type'] %}
+                                <option value="{{ gear_type }}">{{ gear_type }}</option>
+                                {% endfor %}
+                            </select>
+                            <div class="form-hint">Transmission type</div>
+                        </div>
+
+                        <!-- Mileage -->
+                        <div class="form-group">
+                            <label for="Mileage">Mileage (km)</label>
+                            <input type="number" id="Mileage" name="Mileage" min="0" max="500000" placeholder="e.g. 50000" required>
+                            <div class="form-hint">Total kilometers driven</div>
+                        </div>
+
+                        <!-- Region -->
+                        <div class="form-group">
+                            <label for="Region">Region</label>
+                            <select id="Region" name="Region" required>
+                                <option value="" disabled selected>Select Region</option>
+                                {% for region in categorical_values['Region'] %}
+                                <option value="{{ region }}">{{ region }}</option>
+                                {% endfor %}
+                            </select>
+                            <div class="form-hint">Area where the car is located</div>
+                        </div>
+                    </div>
+
+                    <div class="form-actions">
+                        <button type="submit" id="predict-button">
+                            Predict Price
+                        </button>
+                        <button type="button" id="reset-button">
+                            Reset
+                        </button>
+                    </div>
+                </form>
+            </div>
+
+            <!-- Results Section (Simplified) -->
+            <div class="results-container" id="results-container" style="display: none;">
+                <h2>Estimated Price</h2>
+                <div class="price-display">
+                    <span id="predicted-price">0</span>
+                    <span class="currency">SAR</span>
+                </div>
+            </div>
+            
+            <!-- Loading Indicator -->
+            <div class="loading" id="loading-indicator" style="display: none;">
+                <div class="spinner"></div>
+                <p>Calculating price...</p>
+            </div>
+            
+            <!-- Error Display -->
+            <div class="error-container" id="error-container" style="display: none;">
+                <div class="error-message">
+                    <span id="error-message">An error occurred</span>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Example Cars Section -->
+        <div class="sample-data" id="sample-data">
+            <h3>Example Cars</h3>
+            <p>Click on any example to fill the form with sample data</p>
+            <div class="samples-container" id="samples-container">
+                <div class="spinner"></div>
+                <p>Loading examples...</p>
+            </div>
+        </div>
+        
+        <!-- Model Info Section (Simplified) -->
+        <div class="model-info" id="model-info">
+            <h3>Model Information</h3>
+            <div class="model-metrics" id="model-metrics">
+                <div class="spinner"></div>
+                <p>Loading model information...</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Pass Make-Type Map to JavaScript -->
+<script>
+// Initialize an empty map - will be populated via API call
+window.makeTypeMap = {};
+</script>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
