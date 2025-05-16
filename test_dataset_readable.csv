@@ -1,0 +1,1068 @@
+Make,Type,Year,Origin,Color,Options,Engine_Size,Fuel_Type,Gear_Type,Mileage,Region,Price,Negotiable,Car_Age,Make_Category,Engine_Category,Mileage_Category,Predicted_Price,Error,Error_Percentage
+Ford,Mustang,2016,Other,Red,Full,2.3,Gas,Automatic,84000,Dammam,97000,FALSE,9,Standard,Medium,Medium,90822.58773,6177.412271,6.368466259
+Nissan,Datsun,1989,Saudi,White,Standard,2.4,Gas,Manual,249,Riyadh,11000,FALSE,36,Standard,Medium,Low,19251.43826,-8251.438259,-75.01307508
+Chrysler,300,2014,Other,Black,Full,5.7,Gas,Automatic,188000,Al-Ahsa,57000,FALSE,11,Standard,Very Large,Very High,62458.41933,-5458.41933,-9.576174264
+Mazda,CX9,2015,Saudi,Brown,Semi Full,3.7,Gas,Automatic,221000,Jeddah,48000,FALSE,10,Standard,Large,Very High,67701.93829,-19701.93829,-41.04570477
+Hyundai,Kona,2019,Saudi,Grey,Full,1,Gas,Automatic,22000,Riyadh,77000,FALSE,6,Budget,Small,Low,54679.48595,22320.51405,28.98768058
+Kia,Cadenza,2012,Saudi,Black,Standard,3.6,Gas,Automatic,147000,Riyadh,25000,FALSE,13,Budget,Large,High,43505.5027,-18505.5027,-74.0220108
+Mercedes,C,2015,Saudi,Grey,Semi Full,2,Gas,Automatic,99000,Jeddah,91500,FALSE,10,Standard,Medium,Medium,96631.31648,-5131.316476,-5.607996149
+Chevrolet,Tahoe,2016,Other,White,Full,5.3,Gas,Automatic,110000,Dammam,144000,FALSE,9,Standard,Very Large,High,137211.3755,6788.624491,4.714322563
+Mitsubishi,Attrage,2021,Saudi,White,Semi Full,1.2,Gas,Automatic,3000,Jazan,35000,FALSE,4,Standard,Small,Low,47758.54663,-12758.54663,-36.45299038
+Hyundai,Elantra,2019,Saudi,White,Standard,2,Gas,Automatic,18197,Riyadh,53000,FALSE,6,Budget,Medium,Low,60197.04029,-7197.040292,-13.5793213
+Porsche,911,2013,Saudi,Grey,Full,3.5,Gas,Automatic,26000,Dammam,280000,FALSE,12,Luxury,Large,Low,89047.94449,190952.0555,68.19716268
+Hyundai,Sonata,2016,Saudi,White,Standard,2.4,Gas,Automatic,191000,Riyadh,45000,FALSE,9,Budget,Medium,Very High,44587.87129,412.1287088,0.915841575
+Geely,Emgrand,2019,Saudi,Red,Full,1.8,Gas,Automatic,43000,Riyadh,45000,FALSE,6,Budget,Medium,Low,55917.55644,-10917.55644,-24.26123653
+Hyundai,Azera,2018,Saudi,Grey,Full,3.5,Gas,Automatic,50000,Riyadh,85000,FALSE,7,Budget,Large,Medium,77045.43969,7954.560311,9.358306248
+Porsche,Cayman,2008,Saudi,Blue,Full,2,Gas,Automatic,66000,Dammam,70000,FALSE,17,Luxury,Medium,Medium,23145.45087,46854.54913,66.93507018
+Ford,F150,2013,Saudi,White,Standard,5,Gas,Automatic,222000,Dammam,38000,FALSE,12,Standard,Very Large,Very High,41899.50178,-3899.501782,-10.26184679
+GMC,Sierra,2011,Saudi,White,Standard,5.3,Gas,Automatic,272000,Al-Ahsa,41000,FALSE,14,Standard,Very Large,Very High,46056.56863,-5056.56863,-12.33309422
+Ferrari,GTB 599 Fiorano,2008,Saudi,Red,Full,6,Gas,Automatic,59000,Dammam,280000,FALSE,17,Luxury,Very Large,Medium,58039.29184,221960.7082,79.27168149
+GMC,Suburban,2016,Gulf Arabic,Another Color,Standard,5.3,Gas,Automatic,98000,Riyadh,140000,FALSE,9,Standard,Very Large,Medium,125292.4256,14707.57442,10.5054103
+Hyundai,Tucson,2016,Other,Grey,Full,2,Gas,Automatic,230,Riyadh,50000,FALSE,9,Budget,Medium,Low,62763.87283,-12763.87283,-25.52774566
+Chevrolet,Impala,2016,Saudi,Silver,Standard,3.5,Gas,Automatic,139000,Aseer,65000,FALSE,9,Standard,Large,High,61045.17074,3954.829256,6.084352701
+Lexus,LX,2014,Saudi,Grey,Full,5.7,Gas,Automatic,150000,Dammam,190000,FALSE,11,Luxury,Very Large,Very High,177653.6861,12346.3139,6.498059946
+Kia,Cadenza,2019,Saudi,Silver,Semi Full,3.5,Gas,Automatic,94000,Riyadh,88000,FALSE,6,Budget,Large,Medium,62818.22441,25181.77559,28.61565408
+GMC,Yukon,2013,Saudi,White,Full,5.3,Gas,Automatic,194000,Riyadh,80000,FALSE,12,Standard,Very Large,Very High,60527.05404,19472.94596,24.34118245
+Kia,Cerato,2012,Other,White,Standard,1.6,Gas,Automatic,312287,Riyadh,17000,FALSE,13,Budget,Medium,Very High,20511.95918,-3511.959181,-20.65858342
+Nissan,Altima,2018,Gulf Arabic,White,Semi Full,2.5,Gas,Automatic,48000,Riyadh,68000,FALSE,7,Standard,Large,Low,69521.04552,-1521.045524,-2.236831653
+Honda,Accord,2007,Saudi,White,Full,3,Gas,Automatic,470000,Makkah,15000,FALSE,18,Standard,Large,Very High,21601.42561,-6601.425611,-44.00950408
+Toyota,Land Cruiser,2008,Saudi,White,Full,5.7,Gas,Automatic,476000,Dammam,68000,FALSE,17,Standard,Very Large,Very High,67887.02852,112.9714772,0.166134525
+Chevrolet,Silverado,2010,Saudi,White,Standard,5.3,Gas,Automatic,143000,Dammam,32000,FALSE,15,Standard,Very Large,High,41042.79575,-9042.795748,-28.25873671
+Toyota,Land Cruiser,2014,Saudi,White,Semi Full,4.6,Gas,Automatic,346000,Taef,130000,FALSE,11,Standard,Very Large,Very High,106055.596,23944.40405,18.41877235
+Toyota,Hilux,2009,Saudi,White,Semi Full,2.7,Gas,Manual,426000,Aseer,32000,FALSE,16,Standard,Large,Very High,29692.67787,2307.322129,7.210381652
+Toyota,Land Cruiser,2011,Gulf Arabic,Golden,Full,4.5,Gas,Automatic,193000,Jeddah,110000,FALSE,14,Standard,Very Large,Very High,91433.08454,18566.91546,16.87901405
+Toyota,Hiace,2017,Saudi,White,Standard,2.7,Gas,Manual,192692,Riyadh,68500,FALSE,8,Standard,Large,Very High,68668.62861,-168.6286062,-0.246173148
+Toyota,Innova,2018,Saudi,Another Color,Semi Full,2.7,Gas,Automatic,340000,Riyadh,67000,FALSE,7,Standard,Large,Very High,84491.5295,-17491.5295,-26.10676045
+MINI,Copper,2016,Saudi,Navy,Full,6.3,Gas,Automatic,104,Jeddah,88500,FALSE,9,Standard,Very Large,Low,125556.3719,-37056.37186,-41.87160662
+Kia,Optima,2018,Saudi,Red,Standard,2,Gas,Automatic,101381,Riyadh,48500,FALSE,7,Budget,Medium,High,39484.56844,9015.431563,18.58851869
+Mercedes,S,2010,Saudi,Brown,Full,3.8,Gas,Automatic,114000,Al-Medina,88000,FALSE,15,Standard,Large,High,63646.28545,24353.71455,27.67467563
+Hyundai,Sonata,2018,Saudi,Another Color,Standard,2.4,Gas,Automatic,41853,Jeddah,60000,FALSE,7,Budget,Medium,Low,60992.95002,-992.9500204,-1.654916701
+Land Rover,Range Rover,2016,Saudi,Black,Standard,4,Gas,Automatic,106000,Riyadh,237000,FALSE,9,Luxury,Very Large,High,213886.3615,23113.6385,9.752590082
+Toyota,Camry,2017,Gulf Arabic,White,Standard,2.5,Gas,Automatic,107000,Dammam,50000,FALSE,8,Standard,Large,High,63744.69708,-13744.69708,-27.48939416
+Lexus,LX,2013,Saudi,Silver,Standard,5.7,Gas,Automatic,240000,Riyadh,145000,FALSE,12,Luxury,Very Large,Very High,107326.3809,37673.61909,25.98180627
+Toyota,Hilux,2020,Gulf Arabic,White,Full,2.7,Gas,Manual,15000,Riyadh,105500,FALSE,5,Standard,Large,Low,89565.14788,15934.85212,15.10412523
+Kia,Optima,2015,Saudi,Another Color,Semi Full,2.4,Gas,Automatic,220000,Hafar Al-Batin,42000,FALSE,10,Budget,Medium,Very High,38125.02066,3874.979342,9.226141289
+Hyundai,Elantra,2020,Saudi,Silver,Semi Full,2,Gas,Automatic,47000,Riyadh,1221,FALSE,5,Budget,Medium,Low,47600.95048,-46379.95048,-3798.521743
+Chevrolet,Impala,2015,Saudi,Another Color,Semi Full,3.6,Gas,Automatic,145462,Riyadh,55000,FALSE,10,Standard,Large,High,62017.84155,-7017.84155,-12.75971191
+Kia,Sportage,2015,Saudi,Red,Standard,2.4,Gas,Automatic,103885,Riyadh,41500,FALSE,10,Budget,Medium,High,45149.09824,-3649.098239,-8.793007805
+Ford,Explorer,2011,Other,Grey,Standard,3.6,Gas,Automatic,226185,Riyadh,31000,FALSE,14,Standard,Large,Very High,26558.02348,4441.976517,14.32895651
+Toyota,Corolla,2006,Gulf Arabic,Golden,Full,1.8,Gas,Manual,320000,Al-Ahsa,18000,FALSE,19,Standard,Medium,Very High,19116.05502,-1116.055018,-6.200305657
+Toyota,Yaris,2017,Saudi,Grey,Standard,1.4,Gas,Automatic,125000,Riyadh,30000,FALSE,8,Standard,Small,High,23188.53479,6811.465208,22.70488403
+MG,5,2020,Saudi,Grey,Full,1.5,Gas,Automatic,23000,Riyadh,44000,FALSE,5,Standard,Medium,Low,52721.71707,-8721.717067,-19.82208424
+Chevrolet,Tahoe,2017,Saudi,Black,Semi Full,5.7,Gas,Automatic,55000,Jeddah,153000,FALSE,8,Standard,Very Large,Medium,134872.3774,18127.62262,11.84811936
+Toyota,Camry,2009,Saudi,White,Standard,2.5,Gas,Manual,350000,Jeddah,25000,FALSE,16,Standard,Large,Very High,23823.36707,1176.632925,4.706531701
+Changan,Eado,2020,Saudi,Red,Semi Full,1.6,Gas,Automatic,94182,Riyadh,44000,FALSE,5,Standard,Medium,Medium,44610.68357,-610.6835682,-1.387917201
+Mercedes,S,2006,Saudi,Black,Full,3,Gas,Automatic,228000,Taef,45000,FALSE,19,Standard,Large,Very High,33888.07004,11111.92996,24.69317769
+Mazda,CX7,2010,Saudi,Brown,Full,2.3,Gas,Automatic,170000,Jazan,25000,FALSE,15,Standard,Medium,Very High,29841.51581,-4841.515807,-19.36606323
+Lexus,GX,2015,Saudi,White,Full,4.6,Gas,Automatic,137000,Jeddah,133000,FALSE,10,Luxury,Very Large,High,176956.0961,-43956.09609,-33.04969631
+Ford,Taurus,2016,Saudi,Black,Standard,3.5,Gas,Automatic,103000,Jeddah,70000,FALSE,9,Standard,Large,High,70158.892,-158.8920003,-0.226988572
+Hyundai,Elantra,2017,Gulf Arabic,Grey,Full,1.6,Gas,Automatic,136000,Al-Ahsa,39000,FALSE,8,Budget,Medium,High,54468.49566,-15468.49566,-39.66280939
+GMC,Yukon,2008,Saudi,Golden,Full,5.3,Gas,Automatic,286000,Riyadh,48000,FALSE,17,Standard,Very Large,Very High,39307.02031,8692.979689,18.11037435
+Mazda,6,2017,Gulf Arabic,White,Standard,2.5,Gas,Automatic,48004,Riyadh,55000,FALSE,8,Standard,Large,Low,64998.6435,-9998.643501,-18.17935182
+Kia,Optima,2006,Other,White,Standard,1.3,Gas,Manual,290000,Taef,6000,FALSE,19,Budget,Small,Very High,19456.59633,-13456.59633,-224.2766055
+Hyundai,Accent,2017,Saudi,White,Semi Full,1.6,Gas,Automatic,173700,Riyadh,30000,FALSE,8,Budget,Medium,Very High,29737.37303,262.6269732,0.875423244
+Nissan,Pathfinder,2002,Saudi,Grey,Semi Full,3.3,Gas,Automatic,550000,Al-Ahsa,10000,FALSE,23,Standard,Large,Very High,15149.84926,-5149.849258,-51.49849258
+Renault,Fluence,2016,Saudi,Silver,Semi Full,1.8,Gas,Automatic,67000,Riyadh,22000,FALSE,9,Standard,Medium,Medium,41156.15287,-19156.15287,-87.07342214
+Hyundai,Elantra,2019,Saudi,White,Standard,1.6,Gas,Automatic,84000,Al-Medina,51000,FALSE,6,Budget,Medium,Medium,49809.49881,1190.501193,2.334316064
+Ford,Explorer,2016,Gulf Arabic,Grey,Full,3.5,Gas,Automatic,76677,Riyadh,111500,FALSE,9,Standard,Large,Medium,98306.3755,13193.6245,11.83284709
+Mazda,3,2018,Saudi,Black,Standard,1.6,Gas,Automatic,105000,Jeddah,38000,FALSE,7,Standard,Medium,High,41491.05033,-3491.050325,-9.186974541
+Mercedes,S,1995,Other,Silver,Full,3,Gas,Automatic,200000,Al-Namas,15000,FALSE,30,Standard,Large,Very High,29295.71254,-14295.71254,-95.30475024
+Toyota,Yaris,2019,Saudi,White,Standard,1.5,Gas,Automatic,22000,Hafar Al-Batin,41500,FALSE,6,Standard,Medium,Low,40203.78076,1296.219241,3.123419858
+Mitsubishi,Nativa,2010,Saudi,Silver,Semi Full,3,Gas,Automatic,244,Hail,17000,FALSE,15,Standard,Large,Low,37557.26775,-20557.26775,-120.9251044
+GMC,Yukon,2018,Saudi,White,Standard,5.3,Gas,Automatic,87656,Riyadh,146500,FALSE,7,Standard,Very Large,Medium,141877.8816,4622.118362,3.155029599
+Kia,Sportage,2017,Saudi,Golden,Standard,2,Gas,Automatic,75000,Al-Ahsa,50000,FALSE,8,Budget,Medium,Medium,43963.51393,6036.48607,12.07297214
+Toyota,Ciocca,2009,Gulf Arabic,Bronze,Full,5.7,Gas,Automatic,200000,Jeddah,48000,FALSE,16,Standard,Very Large,Very High,56444.07285,-8444.072851,-17.59181844
+Subaru,Forester,2009,Saudi,Black,Full,2.5,Gas,Automatic,220000,Jeddah,25000,FALSE,16,Standard,Large,Very High,33194.10701,-8194.107006,-32.77642802
+Lexus,ES,2016,Other,Another Color,Full,3.5,Gas,Automatic,87000,Dammam,119000,FALSE,9,Luxury,Large,Medium,125804.6812,-6804.681211,-5.718219505
+Nissan,X-Trail,2018,Saudi,Black,Full,2.5,Gas,Automatic,86500,Qassim,74000,FALSE,7,Standard,Large,Medium,77020.42369,-3020.42369,-4.081653635
+Jeep,Wrangler,2018,Saudi,White,Full,3,Gas,Automatic,70000,Dammam,108000,FALSE,7,Standard,Large,Medium,132757.8699,-24757.86993,-22.92395364
+Nissan,Patrol,2021,Saudi,Silver,Full,4,Gas,Automatic,1800,Riyadh,265000,FALSE,4,Standard,Very Large,Low,175280.5114,89719.48864,33.85641081
+Toyota,Furniture,2017,Saudi,White,Semi Full,2.7,Gas,Automatic,6000,Jeddah,85000,FALSE,8,Standard,Large,Low,74606.49283,10393.50717,12.22765549
+Lexus,GX,2015,Saudi,Golden,Full,4.6,Gas,Automatic,170000,Dammam,135000,FALSE,10,Luxury,Very Large,Very High,155339.722,-20339.722,-15.06646074
+Toyota,Camry,2018,Saudi,Silver,Full,2.5,Gas,Automatic,150000,Jazan,95000,FALSE,7,Standard,Large,Very High,73055.60958,21944.39042,23.09935833
+Hyundai,Sonata,2016,Saudi,White,Standard,2.4,Gas,Automatic,10600,Makkah,33000,FALSE,9,Budget,Medium,Low,49393.58549,-16393.58549,-49.6775318
+Nissan,Sunny,2017,Saudi,White,Standard,1.5,Gas,Automatic,58000,Al-Medina,24500,FALSE,8,Standard,Medium,Medium,28366.14762,-3866.147623,-15.78019438
+Nissan,Sunny,2019,Saudi,Silver,Standard,1.5,Gas,Automatic,98659,Riyadh,27500,FALSE,6,Standard,Medium,Medium,26353.16222,1146.837775,4.170319183
+Toyota,Furniture,2014,Saudi,White,Full,2.7,Gas,Automatic,400000,Sakaka,50000,FALSE,11,Standard,Large,Very High,55105.06285,-5105.062847,-10.21012569
+Toyota,Corolla,2017,Saudi,Silver,Standard,1.6,Gas,Automatic,100000,Dammam,44000,FALSE,8,Standard,Medium,High,44472.86503,-472.8650282,-1.074693246
+Ford,Expedition,2014,Saudi,Grey,Standard,5.7,Gas,Automatic,190700,Riyadh,59000,FALSE,11,Standard,Very Large,Very High,54215.13052,4784.86948,8.109948272
+Ford,Expedition,2013,Saudi,White,Standard,5.4,Gas,Automatic,78000,Dammam,64000,FALSE,12,Standard,Very Large,Medium,59090.44802,4909.551976,7.671174962
+Nissan,VTC,2016,Saudi,Bronze,Standard,4,Gas,Automatic,112000,Dammam,106000,FALSE,9,Standard,Very Large,High,129507.6833,-23507.68333,-22.17705975
+Dodge,Challenger,2012,Saudi,Black,Full,3.6,Gas,Automatic,360000,Jubail,35000,FALSE,13,Standard,Large,Very High,37459.77251,-2459.772513,-7.027921465
+Toyota,Innova,2018,Saudi,Grey,Semi Full,2,Gas,Automatic,99000,Jeddah,64000,FALSE,7,Standard,Medium,Medium,70889.28074,-6889.280741,-10.76450116
+Dodge,Durango,2012,Saudi,White,Full,5.7,Gas,Automatic,288000,Al-Medina,43000,FALSE,13,Standard,Very Large,Very High,44604.40908,-1604.40908,-3.731183907
+Toyota,Land Cruiser Pickup,2015,Saudi,White,Semi Full,4,Gas,Manual,157000,Dammam,90000,FALSE,10,Standard,Very Large,Very High,103034.6306,-13034.63063,-14.48292293
+Chevrolet,Tahoe,2016,Saudi,Another Color,Semi Full,5.3,Gas,Automatic,123496,Riyadh,130000,FALSE,9,Standard,Very Large,High,118715.4619,11284.53815,8.680413959
+Kia,Sorento,2016,Saudi,White,Full,3.5,Gas,Automatic,93914,Riyadh,68500,FALSE,9,Budget,Large,Medium,65281.46394,3218.536056,4.698592783
+GMC,Yukon,2014,Saudi,White,Full,5.3,Gas,Automatic,327000,Dammam,77000,FALSE,11,Standard,Very Large,Very High,76826.09075,173.9092467,0.225856164
+Ford,Taurus,2015,Saudi,White,Semi Full,2.5,Gas,Automatic,172000,Jeddah,52000,FALSE,10,Standard,Large,Very High,49919.17182,2080.828178,4.00159265
+GMC,Sierra,2020,Saudi,Silver,Semi Full,5.3,Gas,Automatic,18000,Dammam,152000,FALSE,5,Standard,Very Large,Low,159038.3301,-7038.330064,-4.630480305
+Toyota,Camry,2010,Saudi,Another Color,Standard,2,Gas,Manual,550000,Jeddah,20000,FALSE,15,Standard,Medium,Very High,24532.13414,-4532.134137,-22.66067068
+Toyota,Land Cruiser 70,2011,Saudi,White,Semi Full,4,Gas,Manual,352500,Hail,58000,FALSE,14,Standard,Very Large,Very High,76012.34459,-18012.34459,-31.05576654
+GMC,Yukon,2017,Saudi,Silver,Standard,5.3,Gas,Automatic,137317,Dammam,130000,FALSE,8,Standard,Very Large,High,123345.1866,6654.813434,5.119087257
+Mazda,CX5,2014,Gulf Arabic,Silver,Standard,2.5,Gas,Automatic,110000,Riyadh,41000,FALSE,11,Standard,Large,High,59051.50884,-18051.50884,-44.02807034
+Chevrolet,Blazer,2013,Saudi,Silver,Standard,3.6,Gas,Automatic,177560,Dammam,35000,FALSE,12,Standard,Large,Very High,38963.51135,-3963.511354,-11.32431815
+Hyundai,Accent,2013,Saudi,White,Standard,1.4,Gas,Automatic,85000,Al-Medina,16000,FALSE,12,Budget,Small,Medium,25770.79939,-9770.799394,-61.06749621
+Ford,Expedition,2013,Saudi,Black,Standard,5.4,Gas,Automatic,190000,Dammam,50000,FALSE,12,Standard,Very Large,Very High,49177.94842,822.0515764,1.644103153
+Dodge,Durango,2020,Saudi,Silver,Full,3.6,Gas,Automatic,36500,Taef,130000,FALSE,5,Standard,Large,Low,130001.6073,-1.607267648,-0.00123636
+Mazda,3,2016,Gulf Arabic,White,Semi Full,2,Gas,Automatic,129000,Riyadh,31000,FALSE,9,Standard,Medium,High,67179.54747,-36179.54747,-116.7082176
+Toyota,Hilux,2016,Gulf Arabic,White,Full,2.7,Gas,Manual,86000,Jubail,60000,FALSE,9,Standard,Large,Medium,75356.9803,-15356.9803,-25.59496717
+Toyota,Camry,2007,Gulf Arabic,Silver,Full,2.4,Gas,Manual,450,Tabouk,16500,FALSE,18,Standard,Medium,Low,22951.28836,-6451.288362,-39.09871735
+Ford,Expedition,2013,Saudi,White,Semi Full,5.4,Gas,Automatic,250000,Riyadh,50000,FALSE,12,Standard,Very Large,Very High,46622.66425,3377.335749,6.754671499
+Hyundai,Azera,2014,Saudi,White,Full,6,Gas,Automatic,276,Riyadh,35000,FALSE,11,Budget,Very Large,Low,80416.24075,-45416.24075,-129.7606878
+Hyundai,Kona,2019,Saudi,Black,Standard,2,Gas,Automatic,76000,Jeddah,56000,FALSE,6,Budget,Medium,Medium,49504.70648,6495.293517,11.59873842
+Other,Other,2021,Other,Yellow,Semi Full,1.2,Gas,Manual,3000,Jeddah,5500,FALSE,4,Standard,Small,Low,57547.74231,-52047.74231,-946.3225874
+Ford,F150,2017,Saudi,Red,Semi Full,5,Gas,Automatic,53000,Dammam,140000,FALSE,8,Standard,Very Large,Medium,119837.2009,20162.79908,14.40199934
+Hyundai,Azera,2016,Saudi,Another Color,Full,3.5,Gas,Automatic,146000,Jeddah,56500,FALSE,9,Budget,Large,High,61295.18076,-4795.180757,-8.487045587
+Toyota,Land Cruiser,2018,Saudi,Black,Full,5.7,Gas,Automatic,82000,Riyadh,220000,FALSE,7,Standard,Very Large,Medium,237622.3451,-17622.34513,-8.010156879
+Chevrolet,Silverado,2018,Saudi,White,Standard,5.3,Gas,Automatic,57000,Dammam,89000,FALSE,7,Standard,Very Large,Medium,114085.4501,-25085.45015,-28.18589904
+Nissan,Patrol,1997,Saudi,Silver,Full,4,Gas,Automatic,200000,Qassim,17000,FALSE,28,Standard,Very Large,Very High,32787.84273,-15787.84273,-92.86966315
+Toyota,Camry,2001,Saudi,Green,Standard,1.4,Gas,Manual,300,Qassim,13500,FALSE,24,Standard,Small,Low,14635.47666,-1135.476657,-8.410938201
+Hyundai,Tucson,2018,Saudi,Bronze,Semi Full,1.6,Gas,Automatic,27900,Riyadh,72000,FALSE,7,Budget,Medium,Low,58975.39608,13024.60392,18.08972766
+Ford,Taurus,2017,Saudi,Silver,Standard,3.5,Gas,Automatic,61000,Dammam,63000,FALSE,8,Standard,Large,Medium,77674.15189,-14674.15189,-23.29230459
+Jeep,Cherokee,1998,Saudi,White,Standard,4,Gas,Automatic,270000,Yanbu,16000,FALSE,27,Standard,Very Large,Very High,16073.34311,-73.34311312,-0.458394457
+Honda,Accord,2016,Saudi,White,Full,3.5,Gas,Automatic,167000,Aseer,72000,FALSE,9,Standard,Large,Very High,66880.58634,5119.413657,7.110296746
+Toyota,Ciocca,2016,Saudi,Silver,Semi Full,5.7,Gas,Automatic,117000,Najran,140000,FALSE,9,Standard,Very Large,High,103566.3542,36433.6458,26.02403272
+Mercedes,E,2017,Saudi,Navy,Full,2,Gas,Automatic,147,Riyadh,142000,FALSE,8,Standard,Medium,Low,178428.9162,-36428.91619,-25.65416633
+Nissan,Altima,2018,Saudi,White,Semi Full,2.5,Gas,Automatic,77000,Jeddah,65000,FALSE,7,Standard,Large,Medium,63554.42005,1445.579954,2.223969161
+Chevrolet,Cruze,2016,Gulf Arabic,White,Semi Full,1.8,Gas,Automatic,52000,Riyadh,45000,FALSE,9,Standard,Medium,Medium,58944.4858,-13944.4858,-30.98774622
+Nissan,Z350,2006,Saudi,Golden,Semi Full,3.5,Gas,Automatic,105342,Dammam,50000,FALSE,19,Standard,Large,High,22718.19151,27281.80849,54.56361698
+Hyundai,Accent,2017,Saudi,White,Standard,1.4,Gas,Automatic,71000,Dammam,27500,FALSE,8,Budget,Small,Medium,32837.83812,-5337.838121,-19.41032044
+Hyundai,Accent,2017,Saudi,Grey,Standard,1.4,Gas,Automatic,158000,Dammam,29000,FALSE,8,Budget,Small,Very High,26860.66223,2139.337769,7.377026789
+Lexus,ES,2016,Saudi,Black,Semi Full,3.5,Gas,Automatic,89000,Jeddah,95000,FALSE,9,Luxury,Large,Medium,113398.3452,-18398.34524,-19.36667921
+Hyundai,Accent,2017,Saudi,White,Semi Full,1.6,Gas,Automatic,76938,Riyadh,30000,FALSE,8,Budget,Medium,Medium,36067.54057,-6067.540573,-20.22513524
+Toyota,Land Cruiser,2018,Unknown,White,Full,5.7,Gas,Automatic,59000,Riyadh,275000,FALSE,7,Standard,Very Large,Medium,244158.0001,30841.99989,11.21527269
+HAVAL,H6,2020,Saudi,Blue,Full,1.5,Gas,Automatic,9000,Riyadh,70000,FALSE,5,Standard,Medium,Low,59294.11866,10705.88134,15.2941162
+Hyundai,Accent,2019,Saudi,White,Semi Full,1.4,Gas,Automatic,98000,Tabouk,36500,FALSE,6,Budget,Small,Medium,33254.6092,3245.390802,8.891481648
+Toyota,Yaris,2017,Saudi,White,Standard,1.3,Gas,Automatic,100000,Makkah,27000,FALSE,8,Standard,Small,High,20735.11845,6264.881553,23.20326501
+Ford,Mustang,2016,Saudi,Silver,Standard,5,Gas,Automatic,184000,Jubail,3049,FALSE,9,Standard,Very Large,Very High,81340.07762,-78291.07762,-2567.762467
+Hyundai,Elantra,2017,Saudi,White,Standard,2,Gas,Automatic,145000,Jeddah,37000,FALSE,8,Budget,Medium,High,41901.25417,-4901.254168,-13.24663289
+Honda,Accord,2015,Gulf Arabic,Another Color,Semi Full,2.4,Gas,Automatic,124040,Al-Medina,75000,FALSE,10,Standard,Medium,High,68627.10271,6372.897291,8.497196388
+Audi,A6,2013,Saudi,Grey,Semi Full,3,Gas,Automatic,74924,Riyadh,71500,FALSE,12,Luxury,Large,Medium,77754.26358,-6254.263577,-8.747221786
+Mercedes,CLS,2007,Saudi,Grey,Full,6.3,Gas,Automatic,340000,Dammam,21000,FALSE,18,Standard,Very Large,Very High,41149.72233,-20149.72233,-95.95105872
+Honda,Accord,2019,Gulf Arabic,White,Standard,1.5,Gas,Automatic,28000,Qassim,88000,FALSE,6,Standard,Medium,Low,51798.75766,36201.24234,41.13777539
+Hyundai,Accent,2017,Saudi,Grey,Full,1.6,Gas,Automatic,140000,Jeddah,30000,FALSE,8,Budget,Medium,High,38588.67756,-8588.67756,-28.6289252
+Hyundai,Sonata,2020,Saudi,Red,Standard,2.4,Gas,Automatic,100,Jeddah,72910,FALSE,5,Budget,Medium,Low,47069.48009,25840.51991,35.44166769
+Toyota,Camry,2008,Saudi,Another Color,Semi Full,1.7,Gas,Automatic,280000,Jeddah,17000,FALSE,17,Standard,Medium,Very High,20709.89429,-3709.894289,-21.82290758
+Nissan,Sunny,2019,Saudi,Silver,Standard,1.5,Gas,Automatic,95623,Riyadh,27500,FALSE,6,Standard,Medium,Medium,27139.86292,360.1370822,1.30958939
+Lexus,IS,2015,Other,White,Full,3.5,Gas,Automatic,132000,Dammam,106000,FALSE,10,Luxury,Large,High,98743.89168,7256.108318,6.845385206
+Toyota,Hilux,2020,Gulf Arabic,White,Semi Full,2.7,Gas,Manual,15000,Riyadh,105000,FALSE,5,Standard,Large,Low,97053.0984,7946.9016,7.568477714
+Lexus,ES,2017,Other,Golden,Full,3.5,Gas,Automatic,101000,Al-Ahsa,119000,FALSE,8,Luxury,Large,High,120065.9586,-1065.958594,-0.895763525
+Toyota,Prado,2017,Gulf Arabic,White,Full,4,Gas,Automatic,39000,Riyadh,151000,FALSE,8,Standard,Very Large,Low,144694.5483,6305.45172,4.175795841
+Toyota,Yaris,2019,Saudi,White,Standard,1.5,Gas,Automatic,54000,Qassim,35000,FALSE,6,Standard,Medium,Medium,34022.65203,977.3479732,2.792422781
+GMC,Sierra,2013,Saudi,Silver,Standard,5.3,Gas,Automatic,292000,Dammam,45000,FALSE,12,Standard,Very Large,Very High,52331.6432,-7331.643196,-16.29254044
+Chevrolet,Impala,2014,Saudi,Bronze,Standard,3.6,Gas,Automatic,180,Dammam,38000,FALSE,11,Standard,Large,Low,68371.95987,-30371.95987,-79.92621018
+GMC,Yukon,2011,Saudi,Silver,Semi Full,1,Gas,Automatic,600000,Riyadh,36000,FALSE,14,Standard,Small,Very High,45100.35469,-9100.354687,-25.27876302
+GMC,Sierra,2019,Saudi,Black,Standard,5.3,Gas,Automatic,8900,Al-Jouf,130000,FALSE,6,Standard,Very Large,Low,133153.6702,-3153.670229,-2.425900177
+Hyundai,Elantra,2019,Saudi,White,Standard,1.6,Gas,Automatic,67610,Riyadh,55500,FALSE,6,Budget,Medium,Medium,50000.10544,5499.894563,9.909719932
+Nissan,Patrol,2020,Saudi,Silver,Full,4,Gas,Automatic,29000,Jeddah,238000,FALSE,5,Standard,Very Large,Low,184779.1364,53220.86359,22.36170739
+Mazda,CX3,2019,Saudi,Black,Semi Full,2,Gas,Automatic,25000,Abha,58000,FALSE,6,Standard,Medium,Low,85980.33025,-27980.33025,-48.24194871
+Lexus,ES,2013,Saudi,White,Semi Full,2.5,Gas,Automatic,239,Makkah,65000,FALSE,12,Luxury,Large,Low,48277.98812,16722.01188,25.72617213
+Mitsubishi,Attrage,2020,Saudi,Silver,Standard,1.2,Gas,Automatic,15000,Riyadh,25000,FALSE,5,Standard,Small,Low,30581.70265,-5581.702655,-22.32681062
+Chrysler,S300,2011,Other,White,Full,1.3,Gas,Automatic,140000,Aseer,23000,FALSE,14,Standard,Small,High,35049.82662,-12049.82662,-52.39055053
+GMC,Yukon,2012,Saudi,Another Color,Standard,5.3,Gas,Automatic,65000,Makkah,80000,FALSE,13,Standard,Very Large,Medium,65679.62466,14320.37534,17.90046917
+Toyota,Prado,2018,Gulf Arabic,White,Semi Full,4,Gas,Automatic,39000,Riyadh,131500,FALSE,7,Standard,Very Large,Low,154469.0567,-22969.05673,-17.46696329
+Honda,CRV,2013,Saudi,White,Full,2.4,Gas,Automatic,167000,Jeddah,45000,FALSE,12,Standard,Medium,Very High,36482.88241,8517.117594,18.92692799
+Toyota,Innova,2015,Saudi,Black,Semi Full,2.7,Gas,Automatic,216,Qassim,39000,FALSE,10,Standard,Large,Low,58198.7608,-19198.7608,-49.22759178
+Mercedes,S,2017,Other,Navy,Full,3,Gas,Automatic,53000,Riyadh,260000,FALSE,8,Standard,Large,Medium,210775.7427,49224.25726,18.93240664
+Hyundai,Accent,2019,Saudi,Red,Standard,1.4,Gas,Automatic,89685,Riyadh,34500,FALSE,6,Budget,Small,Medium,37202.43203,-2702.432033,-7.833136329
+Nissan,Z370,2015,Saudi,Red,Semi Full,3.7,Gas,Automatic,111075,Jazan,80000,FALSE,10,Standard,Large,High,106365.3966,-26365.39655,-32.95674569
+Hyundai,Elantra,2019,Saudi,White,Standard,1.6,Gas,Automatic,31595,Riyadh,58000,FALSE,6,Budget,Medium,Low,50499.48578,7500.514216,12.93192106
+Toyota,Innova,2020,Saudi,White,Standard,2.7,Gas,Automatic,50000,Dammam,83000,FALSE,5,Standard,Large,Medium,77951.99042,5048.00958,6.081939254
+Ford,Victoria,2011,Other,Silver,Full,4.6,Gas,Automatic,129000,Dammam,25000,FALSE,14,Standard,Very Large,High,31922.31738,-6922.317384,-27.68926954
+Honda,Accord,2005,Gulf Arabic,White,Full,2.4,Gas,Automatic,300000,Jeddah,11000,FALSE,20,Standard,Medium,Very High,17386.7374,-6386.737396,-58.06124905
+Hyundai,Accent,2019,Saudi,Silver,Standard,1.4,Gas,Automatic,70900,Dammam,40000,FALSE,6,Budget,Small,Medium,39627.06075,372.9392535,0.932348134
+Mitsubishi,Pajero,2017,Saudi,White,Semi Full,3.5,Gas,Automatic,161709,Riyadh,66500,FALSE,8,Standard,Large,Very High,65826.06971,673.9302899,1.013429007
+Kia,Cerato,2017,Saudi,Grey,Standard,1.6,Gas,Automatic,97000,Riyadh,38500,FALSE,8,Budget,Medium,Medium,34947.66742,3552.332578,9.226837865
+Mercedes,S,2009,Saudi,Brown,Full,3.5,Gas,Automatic,174000,Riyadh,72000,FALSE,16,Standard,Large,Very High,51499.33576,20500.66424,28.47314478
+Ford,Victoria,2011,Saudi,Another Color,Standard,4.7,Gas,Automatic,318000,Al-Medina,30000,FALSE,14,Standard,Very Large,Very High,35173.63653,-5173.636528,-17.24545509
+Toyota,Furniture,2019,Saudi,White,Standard,2.7,Gas,Automatic,60000,Jeddah,97000,FALSE,6,Standard,Large,Medium,81629.21059,15370.78941,15.84617465
+Nissan,Sunny,2019,Saudi,Silver,Standard,1.5,Gas,Automatic,93762,Riyadh,26800,FALSE,6,Standard,Medium,Medium,28044.01549,-1244.015488,-4.641848835
+Hyundai,Azera,2008,Saudi,Black,Semi Full,2.7,Gas,Automatic,407767,Dammam,17000,FALSE,17,Budget,Large,Very High,19836.58467,-2836.584672,-16.68579219
+Kia,Sportage,2018,Saudi,Silver,Standard,2.4,Gas,Automatic,93000,Riyadh,54000,FALSE,7,Budget,Medium,Medium,56373.06229,-2373.062286,-4.394559789
+GMC,Suburban,1994,Saudi,Blue,Semi Full,5.7,Gas,Automatic,357624,Al-Medina,15000,FALSE,31,Standard,Very Large,Very High,41242.51678,-26242.51678,-174.9501119
+Toyota,Corolla,2018,Saudi,White,Standard,1.6,Gas,Automatic,39000,Riyadh,45000,FALSE,7,Standard,Medium,Low,52517.17428,-7517.174282,-16.70483174
+Hyundai,Sonata,2017,Saudi,White,Standard,2.4,Gas,Automatic,139000,Jeddah,43000,FALSE,8,Budget,Medium,High,45280.35417,-2280.354165,-5.303149221
+Mitsubishi,Lancer,2016,Saudi,Red,Standard,1.6,Gas,Automatic,18000,Jeddah,39000,FALSE,9,Standard,Medium,Low,40915.32595,-1915.325952,-4.911092186
+Nissan,X-Trail,2006,Saudi,White,Standard,2.5,Gas,Automatic,238000,Dammam,13000,FALSE,19,Standard,Large,Very High,23750.83393,-10750.83393,-82.69872257
+Nissan,VTC,2015,Saudi,White,Semi Full,4.8,Gas,Manual,10000,Jeddah,75000,FALSE,10,Standard,Very Large,Low,129548.7927,-54548.79272,-72.73172362
+Kia,Cerato,2014,Other,Another Color,Semi Full,1.6,Gas,Automatic,187,Riyadh,25000,FALSE,11,Budget,Medium,Low,44237.98584,-19237.98584,-76.95194337
+Kia,Carnival,2016,Saudi,Bronze,Semi Full,3.3,Gas,Automatic,243000,Dammam,46000,FALSE,9,Budget,Large,Very High,53552.49476,-7552.494761,-16.41846687
+GMC,Acadia,2016,Saudi,Black,Semi Full,3.6,Gas,Automatic,148000,Riyadh,70000,FALSE,9,Standard,Large,High,74218.74924,-4218.749236,-6.026784622
+Hyundai,Elantra,2012,Saudi,Another Color,Standard,2,Gas,Automatic,289000,Aseer,21000,FALSE,13,Budget,Medium,Very High,24721.45771,-3721.457713,-17.72122721
+Toyota,Prado,2017,Gulf Arabic,Silver,Full,4,Gas,Automatic,140000,Al-Ahsa,125000,FALSE,8,Standard,Very Large,High,116193.4532,8806.546758,7.045237406
+Lexus,ES,2017,Gulf Arabic,White,Full,3.5,Gas,Automatic,95000,Riyadh,141000,FALSE,8,Luxury,Large,Medium,124382.3293,16617.67066,11.78558203
+Toyota,Innova,2014,Saudi,Blue,Standard,2.7,Gas,Automatic,123000,Dammam,33000,FALSE,11,Standard,Large,High,52441.97729,-19441.97729,-58.91508271
+Changan,Eado,2020,Saudi,White,Standard,1.6,Gas,Automatic,86000,Riyadh,42500,FALSE,5,Standard,Medium,Medium,46184.2776,-3684.277604,-8.668888479
+Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,104681,Riyadh,36500,FALSE,7,Budget,Small,High,32912.03927,3587.960735,9.83002941
+Mercedes,S,2003,Gulf Arabic,White,Full,3,Gas,Automatic,440000,Tabouk,16000,FALSE,22,Standard,Large,Very High,25467.90036,-9467.900362,-59.17437726
+Toyota,Camry,2013,Saudi,White,Full,2.5,Gas,Automatic,410000,Hafar Al-Batin,40000,FALSE,12,Standard,Large,Very High,39711.64492,288.3550793,0.720887698
+GMC,Behbehani,1984,Saudi,Red,Standard,1.7,Gas,Automatic,238,Jeddah,55000,FALSE,41,Standard,Medium,Low,19122.7293,35877.2707,65.23140128
+Toyota,Innova,2020,Saudi,Grey,Standard,2.7,Gas,Automatic,74000,Riyadh,75000,FALSE,5,Standard,Large,Medium,79147.5527,-4147.552704,-5.530070271
+Mazda,CX9,2017,Other,Grey,Full,3,Gas,Automatic,93000,Dammam,111000,FALSE,8,Standard,Large,Medium,122252.4868,-11252.48678,-10.13737548
+Kia,Cerato,2019,Saudi,Navy,Standard,1.6,Gas,Automatic,85758,Jeddah,45000,FALSE,6,Budget,Medium,Medium,39227.39335,5772.606651,12.82801478
+Mitsubishi,Pajero,2016,Gulf Arabic,White,Full,3.8,Gas,Automatic,200,Al-Medina,60000,FALSE,9,Standard,Large,Low,64348.35817,-4348.358173,-7.247263622
+Lexus,NX,2020,Gulf Arabic,Grey,Full,2,Gas,Automatic,25785,Riyadh,146000,FALSE,5,Luxury,Medium,Low,184318.8767,-38318.87667,-26.24580594
+MINI,Copper,1998,Saudi,Orange,Full,2,Gas,Manual,900000,Qassim,40000,FALSE,27,Standard,Medium,Very High,12095.88502,27904.11498,69.76028746
+Honda,Accord,2014,Saudi,White,Full,2.4,Gas,Automatic,223000,Riyadh,48000,FALSE,11,Standard,Medium,Very High,45939.74929,2060.250713,4.292188985
+Nissan,Maxima,2002,Other,Another Color,Full,3,Gas,Automatic,340000,Jeddah,12000,FALSE,23,Standard,Large,Very High,25929.93597,-13929.93597,-116.0827997
+Hyundai,Sonata,2018,Saudi,Silver,Semi Full,2.4,Gas,Automatic,99000,Riyadh,62000,FALSE,7,Budget,Medium,Medium,57578.26643,4421.733569,7.131828336
+Nissan,Sylvian Bus,2018,Saudi,White,Full,3,Gas,Manual,3000,Riyadh,107000,FALSE,7,Standard,Large,Low,143473.9273,-36473.92735,-34.08778257
+Hyundai,Elantra,2021,Other,White,Full,2,Gas,Automatic,3000,Riyadh,90000,FALSE,4,Budget,Medium,Low,78375.4461,11624.5539,12.916171
+Mercedes,S,2014,Saudi,Oily,Semi Full,4,Gas,Automatic,138000,Dammam,260000,FALSE,11,Standard,Very Large,High,142542.4092,117457.5908,45.17599645
+Toyota,Land Cruiser,2020,Gulf Arabic,Grey,Full,4.6,Gas,Automatic,19800,Dammam,265000,FALSE,5,Standard,Very Large,Low,260057.2133,4942.786729,1.865202539
+Nissan,Maxima,2017,Saudi,Grey,Full,1,Gas,Automatic,860000,Riyadh,77000,FALSE,8,Standard,Small,Very High,82097.8822,-5097.882195,-6.620626228
+Hyundai,Elantra,2019,Saudi,Grey,Standard,2,Gas,Automatic,89000,Jeddah,993,FALSE,6,Budget,Medium,Medium,47398.47046,-46405.47046,-4673.259865
+Ford,Marquis,2003,Other,Grey,Full,1,Gas,Automatic,300,Al-Medina,9000,FALSE,22,Standard,Small,Low,25904.64001,-16904.64001,-187.8293335
+Toyota,Hilux,2016,Saudi,White,Standard,1.5,Gas,Manual,131006,Dammam,58000,FALSE,9,Standard,Medium,High,33792.46349,24207.53651,41.73713191
+Toyota,Cressida,1993,Saudi,White,Semi Full,4,Gas,Manual,492000,Riyadh,11000,FALSE,32,Standard,Very Large,Very High,19163.1504,-8163.150402,-74.2104582
+Toyota,Hiace,2016,Saudi,White,Standard,2.7,Gas,Manual,184000,Riyadh,70000,FALSE,9,Standard,Large,Very High,62828.05605,7171.943953,10.24563422
+Hyundai,Tucson,2018,Saudi,Silver,Standard,2,Gas,Automatic,120000,Jeddah,62000,FALSE,7,Budget,Medium,High,57141.74166,4858.258337,7.835900543
+Toyota,Furniture,2015,Saudi,White,Standard,1.7,Gas,Automatic,147000,Jeddah,65000,FALSE,10,Standard,Medium,High,39924.39374,25075.60626,38.57785578
+Ford,Expedition,2014,Saudi,White,Semi Full,5.4,Gas,Automatic,140000,Aseer,36000,FALSE,11,Standard,Very Large,High,63190.60608,-27190.60608,-75.52946134
+Chevrolet,Caprice,2013,Saudi,White,Standard,6,Gas,Automatic,330000,Riyadh,43000,FALSE,12,Standard,Very Large,Very High,44188.62095,-1188.62095,-2.764234767
+Jaguar,XF,2017,Saudi,Black,Full,2,Gas,Automatic,100000,Aseer,95000,FALSE,8,Luxury,Medium,High,111093.6492,-16093.64916,-16.94068332
+Toyota,Corolla,2018,Saudi,Grey,Standard,1.6,Gas,Automatic,121000,Jeddah,48000,FALSE,7,Standard,Medium,High,44119.05005,3880.949947,8.085312389
+BMW,The 6,2014,Saudi,Grey,Full,3,Gas,Automatic,206000,Khobar,98000,FALSE,11,Luxury,Large,Very High,90333.69709,7666.302906,7.822758067
+Cadillac,CT4,2020,Saudi,Grey,Semi Full,3.7,Gas,Automatic,5800,Jeddah,155000,FALSE,5,Luxury,Large,Low,185495.9143,-30495.91431,-19.67478343
+Kia,Rio,2019,Saudi,Red,Standard,1.4,Gas,Automatic,17500,Al-Ahsa,37000,FALSE,6,Budget,Small,Low,39200.99834,-2200.998337,-5.948644154
+Ford,Expedition,2014,Saudi,Black,Standard,5.4,Gas,Automatic,162000,Dammam,55000,FALSE,11,Standard,Very Large,Very High,60835.92281,-5835.92281,-10.61076875
+Ford,Victoria,2011,Saudi,Another Color,Standard,4.6,Gas,Automatic,128000,Yanbu,43000,FALSE,14,Standard,Very Large,High,45169.54414,-2169.544143,-5.045451495
+Hyundai,Sonata,2019,Saudi,Grey,Standard,2.4,Gas,Manual,3400,Al-Ahsa,58000,FALSE,6,Budget,Medium,Low,32593.16189,25406.83811,43.80489329
+Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,71000,Riyadh,38000,FALSE,7,Budget,Small,Medium,34238.19798,3761.802024,9.89947901
+Dodge,Charger,2019,Saudi,Blue,Semi Full,3.6,Gas,Automatic,70910,Riyadh,116500,FALSE,6,Standard,Large,Medium,93523.32282,22976.67718,19.72246969
+Toyota,Furniture,2017,Unknown,White,Semi Full,2.7,Gas,Automatic,70000,Al-Ahsa,75000,FALSE,8,Standard,Large,Medium,73214.01377,1785.986229,2.381314972
+Toyota,Camry,2014,Saudi,White,Standard,2.4,Gas,Automatic,183000,Dammam,34000,FALSE,11,Standard,Medium,Very High,43503.10032,-9503.100321,-27.95029506
+Lexus,GS,2017,Gulf Arabic,White,Full,1,Gas,Automatic,69000,Al-Ahsa,163000,FALSE,8,Luxury,Small,Medium,92197.27015,70802.72985,43.43725758
+Chevrolet,Silverado,2014,Saudi,Red,Semi Full,5.3,Gas,Automatic,213000,Dammam,70000,FALSE,11,Standard,Very Large,Very High,68247.9426,1752.0574,2.502939142
+Renault,Fluence,2015,Saudi,Grey,Semi Full,1.6,Gas,Automatic,116633,Riyadh,25500,FALSE,10,Standard,Medium,High,27940.1393,-2440.139301,-9.569173729
+Geely,EC7,2014,Saudi,Golden,Full,1.8,Gas,Manual,161300,Riyadh,12000,FALSE,11,Budget,Medium,Very High,30735.25674,-18735.25674,-156.1271395
+GMC,Yukon,2007,Saudi,Bronze,Semi Full,5,Gas,Automatic,303000,Riyadh,36000,FALSE,18,Standard,Very Large,Very High,34184.96162,1815.038383,5.041773287
+Kia,Cerato,2015,Gulf Arabic,Silver,Standard,1.6,Gas,Automatic,141000,Dammam,25000,FALSE,10,Budget,Medium,High,33014.47153,-8014.471534,-32.05788614
+Chevrolet,Tahoe,2008,Unknown,Black,Semi Full,5.3,Gas,Automatic,247000,Al-Ahsa,42500,FALSE,17,Standard,Very Large,Very High,39864.02991,2635.970091,6.202282566
+Hyundai,Elantra,2020,Saudi,White,Standard,2,Gas,Automatic,130000,Dammam,53000,FALSE,5,Budget,Medium,High,51485.54443,1514.455567,2.857463334
+Toyota,FJ,2020,Gulf Arabic,White,Full,4,Gas,Automatic,22300,Riyadh,132000,FALSE,5,Standard,Very Large,Low,139869.669,-7869.669023,-5.961870472
+Hyundai,Elantra,2019,Saudi,Silver,Standard,2,Gas,Automatic,70568,Riyadh,51500,FALSE,6,Budget,Medium,Medium,51610.22741,-110.227407,-0.2140338
+Hyundai,Accent,2019,Saudi,Blue,Standard,1.4,Gas,Automatic,7000,Dammam,42500,FALSE,6,Budget,Small,Low,42260.57391,239.4260865,0.563355498
+BYD,F3,2020,Saudi,White,Standard,1.5,Gas,Automatic,60000,Al-Medina,28000,FALSE,5,Standard,Medium,Medium,66926.71276,-38926.71276,-139.0239741
+Lexus,GS,2017,Gulf Arabic,Black,Full,3.5,Gas,Automatic,78000,Riyadh,170000,FALSE,8,Luxury,Large,Medium,140792.4325,29207.56752,17.18092207
+Toyota,Yaris,2019,Saudi,White,Standard,1.5,Gas,Automatic,33504,Riyadh,38000,FALSE,6,Standard,Medium,Low,36262.9629,1737.037101,4.571150267
+Toyota,Camry,2016,Saudi,Brown,Standard,2.5,Gas,Automatic,136111,Riyadh,53500,FALSE,9,Standard,Large,High,56276.71363,-2776.713631,-5.190118937
+Mercedes,S,2006,Saudi,White,Full,3,Gas,Automatic,435000,Dammam,39000,FALSE,19,Standard,Large,Very High,25548.37295,13451.62705,34.49135142
+Chevrolet,Caprice,2016,Saudi,Grey,Semi Full,6,Gas,Automatic,208647,Riyadh,74000,FALSE,9,Standard,Very Large,Very High,77998.05966,-3998.059662,-5.402783327
+Toyota,Land Cruiser,2007,Gulf Arabic,White,Semi Full,4.6,Gas,Manual,315,Qassim,60000,FALSE,18,Standard,Very Large,Low,42141.40953,17858.59047,29.76431746
+Toyota,Hilux,2016,Saudi,White,Full,2.7,Gas,Automatic,2500,Dammam,105000,FALSE,9,Standard,Large,Low,74010.06122,30989.93878,29.51422741
+Hyundai,H1,2016,Saudi,White,Standard,2.4,Gas,Automatic,154000,Al-Ahsa,54000,FALSE,9,Budget,Medium,Very High,35494.41008,18505.58992,34.26961097
+Honda,Civic,2017,Saudi,White,Standard,1.6,Gas,Automatic,20258,Riyadh,61500,FALSE,8,Standard,Medium,Low,49024.03823,12475.96177,20.2861167
+Mercedes,G,2014,Saudi,White,Full,5.5,Gas,Automatic,125000,Riyadh,245000,FALSE,11,Standard,Very Large,High,142498.7088,102501.2912,41.83726172
+Ford,Victoria,2011,Saudi,Navy,Semi Full,4.6,Gas,Automatic,312338,Riyadh,25000,FALSE,14,Standard,Very Large,Very High,34367.50845,-9367.50845,-37.4700338
+Kia,Carens,2015,Saudi,Silver,Semi Full,1.6,Gas,Automatic,37000,Jeddah,33000,FALSE,10,Budget,Medium,Low,32136.74312,863.2568779,2.615929933
+Toyota,Land Cruiser Pickup,2019,Saudi,Brown,Full,4,Gas,Manual,67000,Jeddah,95000,FALSE,6,Standard,Very Large,Medium,139045.2947,-44045.29474,-46.36346815
+Ford,Taurus,2016,Other,White,Semi Full,3.5,Gas,Automatic,114000,Dammam,75000,FALSE,9,Standard,Large,High,70099.47044,4900.529559,6.534039412
+Toyota,Prado,2013,Saudi,White,Semi Full,4,Gas,Manual,186000,Riyadh,55000,FALSE,12,Standard,Very Large,Very High,82021.9793,-27021.9793,-49.13087146
+Hyundai,Accent,2017,Saudi,Grey,Semi Full,1.4,Gas,Automatic,147000,Riyadh,29000,FALSE,8,Budget,Small,High,26601.33943,2398.660573,8.271243355
+Ford,Expedition,2010,Saudi,Grey,Semi Full,5.4,Gas,Automatic,230,Jeddah,35000,FALSE,15,Standard,Very Large,Low,34689.82283,310.1771671,0.886220477
+Ford,Expedition,2012,Saudi,Grey,Semi Full,3.5,Gas,Automatic,452000,Jeddah,40000,FALSE,13,Standard,Large,Very High,32285.13932,7714.860682,19.28715171
+Ford,Explorer,2006,Other,Grey,Semi Full,3.5,Gas,Automatic,405000,Riyadh,18000,FALSE,19,Standard,Large,Very High,13132.23349,4867.766505,27.04314725
+Toyota,Cressida,1991,Other,White,Full,2.4,Gas,Manual,100,Riyadh,5000,FALSE,34,Standard,Medium,Low,25026.96952,-20026.96952,-400.5393905
+Toyota,Land Cruiser,2015,Saudi,White,Standard,4.7,Gas,Automatic,345417,Riyadh,135000,FALSE,10,Standard,Very Large,Very High,125762.6898,9237.310161,6.842451971
+Ford,Marquis,2010,Other,White,Full,3,Gas,Automatic,250,Tabouk,30000,FALSE,15,Standard,Large,Low,34068.99285,-4068.992851,-13.5633095
+Toyota,Furniture,2021,Saudi,Grey,Standard,2.7,Gas,Automatic,3000,Makkah,100000,FALSE,4,Standard,Large,Low,101701.978,-1701.978029,-1.701978029
+Mercedes,C,2014,Saudi,White,Semi Full,2,Gas,Automatic,270000,Makkah,57000,FALSE,11,Standard,Medium,Very High,65529.18849,-8529.188492,-14.96348858
+Jaguar,XF,2009,Saudi,Another Color,Semi Full,6,Gas,Automatic,50000,Riyadh,35000,FALSE,16,Luxury,Very Large,Medium,60681.16987,-25681.16987,-73.37477107
+Audi,Q5,2012,Saudi,Grey,Full,2,Gas,Automatic,339,Jeddah,31000,FALSE,13,Luxury,Medium,Low,50460.42398,-19460.42398,-62.77556122
+Toyota,Furniture,2015,Saudi,Grey,Semi Full,4,Gas,Automatic,141000,Dammam,85000,FALSE,10,Standard,Very Large,High,90858.9248,-5858.924803,-6.89285271
+Hyundai,Senta fe,2014,Saudi,Black,Semi Full,3,Gas,Automatic,11111,Riyadh,49000,FALSE,11,Budget,Large,Low,66513.49178,-17513.49178,-35.74181997
+Toyota,Rav4,2017,Saudi,Grey,Standard,2.5,Gas,Automatic,235614,Riyadh,67500,FALSE,8,Standard,Large,Very High,59462.38958,8037.610424,11.907571
+Jeep,Wrangler,2020,Gulf Arabic,Black,Semi Full,3.6,Gas,Automatic,4000,Dammam,190000,FALSE,5,Standard,Large,Low,165572.0868,24427.91317,12.8567964
+GMC,Yukon,2012,Saudi,Bronze,Standard,5.3,Gas,Automatic,177000,Dammam,75000,FALSE,13,Standard,Very Large,Very High,50031.70919,24968.29081,33.29105441
+Mercedes,GLC,2020,Other,Black,Standard,2,Gas,Automatic,15391,Riyadh,265000,FALSE,5,Standard,Medium,Low,190642.1768,74357.82324,28.05955594
+BMW,X,2008,Saudi,Silver,Full,3,Gas,Automatic,300000,Riyadh,35000,FALSE,17,Luxury,Large,Very High,38879.10157,-3879.101568,-11.08314734
+Ford,Expedition,2013,Saudi,White,Standard,5.4,Gas,Automatic,235000,Riyadh,50000,FALSE,12,Standard,Very Large,Very High,44870.86285,5129.137151,10.2582743
+Chevrolet,Silverado,2018,Saudi,Silver,Standard,5.3,Gas,Automatic,127000,Dammam,85000,FALSE,7,Standard,Very Large,High,95282.92475,-10282.92475,-12.09755853
+Toyota,Innova,2020,Saudi,Silver,Standard,2.7,Gas,Automatic,750,Al-Medina,83000,FALSE,5,Standard,Large,Low,97318.66544,-14318.66544,-17.25140414
+Toyota,Innova,2017,Saudi,White,Standard,2.7,Gas,Automatic,135000,Jeddah,58000,FALSE,8,Standard,Large,High,68222.61105,-10222.61105,-17.62519147
+Lexus,ES,2016,Gulf Arabic,Grey,Semi Full,3.5,Gas,Automatic,92000,Riyadh,115000,FALSE,9,Luxury,Large,Medium,109357.456,5642.54395,4.906559957
+Kia,Cores,2014,Saudi,White,Full,3.5,Gas,Automatic,81000,Jeddah,78000,FALSE,11,Budget,Large,Medium,54710.04956,23289.95044,29.85891082
+Ford,Marquis,2009,Other,Silver,Semi Full,4.6,Gas,Automatic,260,Riyadh,22000,FALSE,16,Standard,Very Large,Low,23935.24333,-1935.243334,-8.79656061
+Chevrolet,Tahoe,2016,Other,Golden,Full,5.3,Gas,Automatic,128000,Riyadh,164000,FALSE,9,Standard,Very Large,High,136223.6641,27776.33592,16.9367902
+Jeep,Wrangler,2019,Saudi,Grey,Standard,3.6,Gas,Automatic,79000,Jazan,140000,FALSE,6,Standard,Large,Medium,90662.24705,49337.75295,35.24125211
+Toyota,Hilux,2016,Gulf Arabic,White,Standard,2.7,Gas,Manual,129000,Dammam,69000,FALSE,9,Standard,Large,High,65238.88681,3761.113188,5.450888678
+Ford,Flex,2014,Saudi,Brown,Semi Full,3.5,Gas,Automatic,180000,Dammam,49000,FALSE,11,Standard,Large,Very High,50977.0907,-1977.090704,-4.034878988
+Mercedes,C,2019,Gulf Arabic,Silver,Semi Full,3,Gas,Automatic,5000,Riyadh,187000,FALSE,6,Standard,Large,Low,158078.0055,28921.99448,15.46630721
+Mazda,6,2016,Saudi,Brown,Standard,2.5,Gas,Automatic,140000,Riyadh,40000,FALSE,9,Standard,Large,High,54409.54698,-14409.54698,-36.02386745
+Honda,Accord,2017,Other,Black,Standard,2.4,Gas,Automatic,141000,Hail,55000,FALSE,8,Standard,Medium,High,62538.68203,-7538.682031,-13.7066946
+MG,5,2020,Saudi,Golden,Standard,1.5,Gas,Automatic,7000,Tabouk,34000,FALSE,5,Standard,Medium,Low,49562.83216,-15562.83216,-45.77303577
+Hyundai,Sonata,2017,Saudi,White,Standard,2.4,Gas,Automatic,105000,Al-Ahsa,55000,FALSE,8,Budget,Medium,High,45932.84974,9067.150263,16.48572775
+Toyota,Yaris,2018,Saudi,Silver,Standard,1.5,Gas,Automatic,131000,Jeddah,35000,FALSE,7,Standard,Medium,High,33426.81571,1573.184286,4.494812246
+Kia,Cadenza,2017,Saudi,Another Color,Full,3.3,Gas,Automatic,88331,Riyadh,84500,FALSE,8,Budget,Large,Medium,77787.54229,6712.457712,7.943736937
+Kia,Carnival,2014,Other,Blue,Standard,6,Gas,Automatic,259066,Riyadh,40000,FALSE,11,Budget,Very Large,Very High,64846.32991,-24846.32991,-62.11582477
+Chevrolet,Malibu,2013,Saudi,Another Color,Semi Full,2.5,Gas,Automatic,250000,Dammam,30000,FALSE,12,Standard,Large,Very High,31153.69063,-1153.690628,-3.845635425
+Ford,Mustang,2016,Other,Red,Full,2.3,Gas,Automatic,84000,Dammam,99000,FALSE,9,Standard,Medium,Medium,90822.58773,8177.412271,8.260012395
+Hyundai,Senta fe,2013,Saudi,White,Semi Full,3.3,Gas,Automatic,282000,Riyadh,43000,FALSE,12,Budget,Large,Very High,39151.16151,3848.838493,8.950787193
+GMC,Yukon,2016,Gulf Arabic,Black,Full,5.3,Gas,Automatic,61000,Riyadh,165000,FALSE,9,Standard,Very Large,Medium,155835.4345,9164.565549,5.554282151
+Nissan,Sunny,2018,Saudi,White,Standard,1.5,Gas,Automatic,52000,Riyadh,31000,FALSE,7,Standard,Medium,Medium,28626.79098,2373.209015,7.655512953
+Nissan,Datsun,2015,Saudi,White,Full,2.4,Gas,Manual,205000,Dammam,30000,FALSE,10,Standard,Medium,Very High,41630.2887,-11630.2887,-38.76762902
+Toyota,Land Cruiser,2006,Saudi,White,Standard,4.5,Gas,Manual,86000,Dammam,90000,FALSE,19,Standard,Very Large,Medium,47855.13588,42144.86412,46.8276268
+HAVAL,H6,2020,Saudi,Silver,Standard,2,Gas,Automatic,20000,Dammam,57000,FALSE,5,Standard,Medium,Low,83630.523,-26630.523,-46.72021578
+Toyota,Prado,2016,Saudi,White,Full,4,Gas,Automatic,69900,Dammam,128000,FALSE,9,Standard,Very Large,Medium,120848.3697,7151.630331,5.587211196
+Toyota,Prado,2017,Gulf Arabic,White,Semi Full,4,Gas,Automatic,67357,Riyadh,126000,FALSE,8,Standard,Very Large,Medium,136482.1861,-10482.18614,-8.319195352
+Land Rover,Range Rover,2018,Other,Grey,Full,3.8,Gas,Automatic,50000,Riyadh,290000,FALSE,7,Luxury,Large,Medium,223539.0411,66460.95887,22.91757203
+Ford,Taurus,2019,Saudi,White,Semi Full,2,Gas,Automatic,89500,Jeddah,76000,FALSE,6,Standard,Medium,Medium,81887.65842,-5887.658416,-7.746918968
+Toyota,Prado,2016,Saudi,White,Semi Full,4,Gas,Automatic,192901,Riyadh,114500,FALSE,9,Standard,Very Large,Very High,106988.7222,7511.277773,6.560067924
+Toyota,Prado,2019,Gulf Arabic,White,Full,4,Gas,Automatic,19054,Riyadh,162500,FALSE,6,Standard,Very Large,Low,166718.324,-4218.324004,-2.595891695
+Land Rover,Range Rover,2016,Gulf Arabic,Red,Full,3.5,Gas,Automatic,122000,Jeddah,176000,FALSE,9,Luxury,Large,High,161839.0695,14160.93054,8.045983259
+Mazda,3,2016,Saudi,Silver,Semi Full,2,Gas,Automatic,104800,Riyadh,39000,FALSE,9,Standard,Medium,High,71195.74008,-32195.74008,-82.5531797
+Ford,Mustang,2017,Saudi,Black,Full,5,Gas,Automatic,130000,Riyadh,130000,FALSE,8,Standard,Very Large,High,97119.51243,32880.48757,25.29268275
+Honda,Accord,2010,Saudi,Silver,Full,2.4,Gas,Automatic,300000,Riyadh,32000,FALSE,15,Standard,Medium,Very High,30652.88901,1347.110991,4.209721846
+GMC,Yukon,2013,Saudi,Red,Semi Full,5.3,Gas,Automatic,77000,Riyadh,80000,FALSE,12,Standard,Very Large,Medium,76565.48503,3434.514967,4.293143708
+Chevrolet,Suburban,2018,Gulf Arabic,Black,Semi Full,5.3,Gas,Automatic,58000,Riyadh,170000,FALSE,7,Standard,Very Large,Medium,143693.4715,26306.52849,15.47442853
+Ford,Fusion,2014,Saudi,White,Semi Full,2,Gas,Automatic,260000,Riyadh,30000,FALSE,11,Standard,Medium,Very High,41524.21892,-11524.21892,-38.41406308
+Kia,Optima,2014,Gulf Arabic,White,Full,2.4,Gas,Automatic,215000,Jeddah,40000,FALSE,11,Budget,Medium,Very High,51015.76708,-11015.76708,-27.53941771
+Chrysler,S300,2018,Other,Silver,Full,3.6,Gas,Automatic,105000,Dammam,119000,FALSE,7,Standard,Large,High,98707.35433,20292.64567,17.05264342
+Mitsubishi,Pajero,2017,Gulf Arabic,Grey,Semi Full,3.5,Gas,Automatic,129000,Dammam,65000,FALSE,8,Standard,Large,High,74244.34269,-9244.342686,-14.22206567
+Toyota,Land Cruiser,2019,Saudi,White,Full,4.6,Gas,Automatic,101000,Jeddah,260000,FALSE,6,Standard,Very Large,High,241618.6731,18381.32692,7.069741122
+BMW,The 7,2019,Saudi,White,Semi Full,2,Gas,Automatic,49000,Jeddah,194000,FALSE,6,Luxury,Medium,Low,162110.388,31889.61203,16.43794435
+Chrysler,300,2018,Saudi,Silver,Full,5.7,Gas,Automatic,157000,Al-Ahsa,127000,FALSE,7,Standard,Very Large,Very High,41736.47688,85263.52312,67.13663237
+Nissan,Sentra,2018,Saudi,Silver,Semi Full,1.6,Gas,Automatic,78000,Riyadh,38000,FALSE,7,Standard,Medium,Medium,36898.30751,1101.692494,2.899190774
+Hyundai,Elantra,2018,Saudi,Brown,Semi Full,1.6,Gas,Automatic,81000,Riyadh,44000,FALSE,7,Budget,Medium,Medium,47842.46198,-3842.461978,-8.732868133
+Dodge,Charger,2018,Saudi,Grey,Standard,3.6,Gas,Automatic,99288,Riyadh,84500,FALSE,7,Standard,Large,Medium,81021.57311,3478.426888,4.116481524
+Mitsubishi,Pajero,2016,Gulf Arabic,White,Semi Full,6,Gas,Automatic,200000,Qassim,53000,FALSE,9,Standard,Very Large,Very High,109019.7159,-56019.71586,-105.6975771
+Ford,Taurus,2015,Saudi,Black,Semi Full,3.6,Gas,Automatic,203000,Riyadh,55000,FALSE,10,Standard,Large,Very High,58114.67086,-3114.670864,-5.663037934
+Chevrolet,Camaro,2016,Other,Blue,Full,3.6,Gas,Automatic,118993,Riyadh,107000,FALSE,9,Standard,Large,High,94712.23532,12287.76468,11.48389223
+Chevrolet,Spark,2017,Saudi,White,Semi Full,1.4,Gas,Automatic,108,Dammam,20000,FALSE,8,Standard,Small,Low,45316.65406,-25316.65406,-126.5832703
+Lexus,LX,2015,Saudi,White,Full,5.7,Gas,Automatic,105000,Jeddah,213000,FALSE,10,Luxury,Very Large,High,207306.2208,5693.779159,2.673135755
+Mazda,6,2015,Gulf Arabic,Blue,Standard,2,Gas,Automatic,82914,Riyadh,53000,FALSE,10,Standard,Medium,Medium,59777.36802,-6777.368021,-12.78748683
+Ford,Expedition,2013,Other,Black,Standard,1.4,Gas,Automatic,190000,Riyadh,47000,FALSE,12,Standard,Small,Very High,28390.54466,18609.45534,39.59458584
+Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,90000,Riyadh,27000,FALSE,7,Budget,Small,Medium,32929.15358,-5929.153582,-21.95982808
+Hyundai,Elantra,2007,Saudi,Grey,Standard,1.6,Gas,Manual,191700,Taef,13000,FALSE,18,Budget,Medium,Very High,19917.21074,-6917.210744,-53.20931341
+Chevrolet,Tahoe,2009,Saudi,Black,Standard,5.3,Gas,Automatic,400,Riyadh,35000,FALSE,16,Standard,Very Large,Low,39799.72287,-4799.722874,-13.71349393
+Hyundai,Tucson,2020,Saudi,Silver,Standard,2,Gas,Automatic,16458,Riyadh,78500,FALSE,5,Budget,Medium,Low,64230.76088,14269.23912,18.17737467
+Ford,Fusion,2016,Saudi,White,Standard,2.5,Gas,Automatic,80000,Al-Ahsa,50000,FALSE,9,Standard,Large,Medium,61721.56014,-11721.56014,-23.44312029
+Hyundai,Tucson,2016,Saudi,Grey,Semi Full,2,Gas,Automatic,190000,Riyadh,54000,FALSE,9,Budget,Medium,Very High,44275.98676,9724.013238,18.00743192
+Lexus,LX,2015,Saudi,Grey,Full,5.7,Gas,Automatic,97000,Taef,192000,FALSE,10,Luxury,Very Large,Medium,210159.152,-18159.15204,-9.457891689
+Nissan,Patrol,2014,Saudi,White,Full,4,Gas,Automatic,25000,Riyadh,115000,FALSE,11,Standard,Very Large,Low,105216.9859,9783.014078,8.506968764
+Kia,Sorento,2016,Gulf Arabic,White,Semi Full,3,Gas,Automatic,51000,Qassim,62000,FALSE,9,Budget,Large,Medium,80703.67173,-18703.67173,-30.16721247
+Hyundai,Tucson,2016,Saudi,White,Full,2.4,Gas,Automatic,147000,Khobar,45000,FALSE,9,Budget,Medium,High,56189.89526,-11189.89526,-24.86643392
+Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,54000,Dammam,42000,FALSE,6,Budget,Small,Medium,38641.57558,3358.424425,7.996248631
+Ford,Expedition,2014,Saudi,Another Color,Standard,5.4,Gas,Automatic,143000,Riyadh,60000,FALSE,11,Standard,Very Large,High,62447.27346,-2447.273464,-4.078789107
+Ford,Explorer,2013,Other,White,Full,3.5,Gas,Automatic,111251,Riyadh,74000,FALSE,12,Standard,Large,High,45603.8287,28396.1713,38.37320445
+Hyundai,H1,2018,Other,Brown,Semi Full,7,Gas,Automatic,40000,Qassim,63000,FALSE,7,Budget,Very Large,Low,152935.4289,-89935.42886,-142.754649
+Hyundai,Accent,2005,Saudi,White,Standard,1.5,Gas,Manual,294602,Dammam,5000,FALSE,20,Budget,Medium,Very High,11271.37091,-6271.370914,-125.4274183
+Kia,Cadenza,2016,Saudi,White,Standard,3.3,Gas,Automatic,145000,Riyadh,63000,FALSE,9,Budget,Large,High,57900.82414,5099.175863,8.093929941
+Toyota,Corolla,2020,Saudi,Silver,Standard,1.6,Gas,Automatic,48563,Hail,1002,FALSE,5,Standard,Medium,Low,51537.24256,-50535.24256,-5043.437381
+Chrysler,C300,2018,Saudi,White,Full,5.7,Gas,Automatic,65000,Riyadh,123000,FALSE,7,Standard,Very Large,Medium,112081.7145,10918.28547,8.876654851
+Toyota,Furniture,2015,Saudi,White,Semi Full,2.7,Gas,Automatic,300,Al-Medina,52000,FALSE,10,Standard,Large,Low,60377.01402,-8377.014015,-16.10964234
+Hyundai,Accent,2016,Saudi,White,Standard,1.4,Gas,Automatic,111,Riyadh,22000,FALSE,9,Budget,Small,Low,33884.16318,-11884.16318,-54.01892354
+Mercedes,E,2018,Gulf Arabic,Black,Standard,2,Gas,Automatic,167,Riyadh,115000,FALSE,7,Standard,Medium,Low,148187.7572,-33187.75716,-28.85891927
+Mercedes,S,2016,Saudi,White,Full,3,Gas,Automatic,14000,Al-Ahsa,270000,FALSE,9,Standard,Large,Low,208528.336,61471.66402,22.76728297
+GMC,Suburban,2006,Saudi,Silver,Standard,6,Gas,Automatic,266,Yanbu,30000,FALSE,19,Standard,Very Large,Low,47726.59839,-17726.59839,-59.0886613
+Geely,X7,2017,Saudi,Black,Full,2.4,Gas,Automatic,65000,Riyadh,45000,FALSE,8,Budget,Medium,Medium,59652.92891,-14652.92891,-32.56206425
+Toyota,Prado,2018,Gulf Arabic,White,Semi Full,4,Gas,Automatic,24000,Riyadh,140000,FALSE,7,Standard,Very Large,Low,154092.29,-14092.28996,-10.0659214
+Land Rover,Range Rover,2017,Saudi,White,Full,5.2,Gas,Automatic,77000,Al-Medina,275000,FALSE,8,Luxury,Very Large,Medium,208466.762,66533.23795,24.19390471
+Toyota,Hiace,2010,Saudi,White,Standard,2.7,Gas,Manual,573000,Riyadh,37000,FALSE,15,Standard,Large,Very High,35209.51007,1790.489927,4.839161964
+Fiat,Doblo,2016,Saudi,White,Standard,1.4,Gas,Manual,28400,Riyadh,20000,FALSE,9,Standard,Small,Low,45126.31564,-25126.31564,-125.6315782
+Nissan,Navara,2015,Other,White,Full,2.5,Gas,Automatic,19000,Jeddah,38000,FALSE,10,Standard,Large,Low,56140.94668,-18140.94668,-47.73933336
+Toyota,Hilux,2012,Gulf Arabic,White,Standard,2.7,Gas,Manual,171000,Riyadh,47500,FALSE,13,Standard,Large,Very High,48447.69338,-947.6933841,-1.995143966
+Hyundai,Accent,2017,Saudi,White,Standard,1.4,Gas,Automatic,168000,Jeddah,29000,FALSE,8,Budget,Small,Very High,26035.6783,2964.321697,10.22179895
+Toyota,Rav4,2016,Saudi,Black,Standard,2.5,Gas,Automatic,231000,Jubail,52000,FALSE,9,Standard,Large,Very High,60373.39984,-8373.399841,-16.102692
+Hyundai,Azera,2021,Saudi,Grey,Standard,3.5,Gas,Automatic,10000,Jeddah,1800,FALSE,4,Budget,Large,Low,68995.41853,-67195.41853,-3733.078807
+Mercedes,C,2015,Other,White,Full,2,Gas,Automatic,90000,Dammam,107000,FALSE,10,Standard,Medium,Medium,118087.0712,-11087.0712,-10.36174878
+Chevrolet,Blazer,2017,Gulf Arabic,White,Semi Full,3.6,Gas,Automatic,115000,Khobar,63000,FALSE,8,Standard,Large,High,78706.37059,-15706.37059,-24.93074697
+GMC,Sierra,2016,Saudi,Red,Semi Full,5.3,Gas,Automatic,205000,Riyadh,98000,FALSE,9,Standard,Very Large,Very High,94356.71059,3643.289415,3.71764226
+Chevrolet,Kaptiva,2012,Saudi,Black,Semi Full,1.9,Gas,Automatic,50000,Al-Medina,27000,FALSE,13,Standard,Medium,Medium,30762.89286,-3762.892856,-13.93664021
+Toyota,Rav4,2017,Saudi,White,Full,2.4,Gas,Automatic,148000,Jeddah,80000,FALSE,8,Standard,Medium,High,69473.44044,10526.55956,13.15819946
+Nissan,Sunny,2018,Saudi,Grey,Standard,1.5,Gas,Automatic,69000,Riyadh,28000,FALSE,7,Standard,Medium,Medium,29507.48289,-1507.482887,-5.383867453
+Mercedes,S,2016,Other,Navy,Full,3,Gas,Automatic,56000,Dammam,240000,FALSE,9,Standard,Large,Medium,222115.6103,17884.38966,7.451829027
+Chevrolet,Silverado,1985,Other,Blue,Full,5.3,Gas,Automatic,200,Dammam,30000,FALSE,40,Standard,Very Large,Low,41965.36507,-11965.36507,-39.88455023
+Toyota,Land Cruiser,2021,Saudi,White,Semi Full,4.5,Diesel,Automatic,20000,Riyadh,265000,FALSE,4,Standard,Very Large,Low,264430.4605,569.539479,0.214920558
+Chevrolet,Optra,2008,Other,Blue,Semi Full,1.6,Gas,Automatic,253250,Jeddah,9000,FALSE,17,Standard,Medium,Very High,15939.85573,-6939.855725,-77.10950806
+Ford,Explorer,2004,Saudi,Red,Semi Full,4,Gas,Automatic,400000,Riyadh,9000,FALSE,21,Standard,Very Large,Very High,12878.30862,-3878.308623,-43.09231804
+Ford,Victoria,1999,Saudi,Another Color,Semi Full,1,Gas,Automatic,4000,Riyadh,10000,FALSE,26,Standard,Small,Low,21478.80036,-11478.80036,-114.7880036
+Toyota,Land Cruiser Pickup,2020,Saudi,Another Color,Full,4,Gas,Manual,18000,Dammam,140000,FALSE,5,Standard,Very Large,Low,151867.9178,-11867.91776,-8.477084116
+GMC,Yukon,2001,Saudi,Another Color,Full,5.3,Gas,Automatic,28000,Aseer,15000,FALSE,24,Standard,Very Large,Low,28526.21088,-13526.21088,-90.17473921
+Chevrolet,Tahoe,2007,Saudi,White,Standard,5.3,Gas,Automatic,374000,Riyadh,32000,FALSE,18,Standard,Very Large,Very High,33230.33594,-1230.335935,-3.844799797
+Mercedes,S,2015,Other,Black,Full,3,Gas,Automatic,300000,Riyadh,188000,FALSE,10,Standard,Large,Very High,154372.3261,33627.67393,17.8870606
+Chevrolet,Caprice,2013,Saudi,White,Full,6,Gas,Automatic,190000,Dammam,50000,FALSE,12,Standard,Very Large,Very High,48400.48204,1599.517961,3.199035922
+Ford,Vego,2016,Saudi,Grey,Standard,1.5,Gas,Automatic,58478,Jubail,20000,FALSE,9,Standard,Medium,Medium,27671.43917,-7671.439167,-38.35719583
+BMW,The 5,2020,Gulf Arabic,Black,Semi Full,1.9,Gas,Automatic,7800,Dammam,177000,FALSE,5,Luxury,Medium,Low,126588.0411,50411.95888,28.4813327
+Toyota,Land Cruiser,2011,Saudi,White,Full,4.6,Gas,Automatic,434,Aseer,85000,FALSE,14,Standard,Very Large,Low,115524.3975,-30524.39747,-35.91105585
+Ford,Flex,2017,Gulf Arabic,White,Standard,2.5,Gas,Automatic,110000,Riyadh,67000,FALSE,8,Standard,Large,High,64096.98713,2903.012867,4.332855025
+Ford,Taurus,2017,Saudi,Blue,Semi Full,4,Gas,Automatic,89000,Riyadh,75000,FALSE,8,Standard,Very Large,Medium,108129.229,-33129.22902,-44.17230536
+Chevrolet,Tahoe,2016,Saudi,White,Standard,5.3,Gas,Automatic,194000,Riyadh,116000,FALSE,9,Standard,Very Large,Very High,101919.6603,14080.33968,12.13822387
+Ford,Expedition,2014,Saudi,White,Semi Full,5.3,Gas,Automatic,210000,Riyadh,50000,FALSE,11,Standard,Very Large,Very High,58378.72438,-8378.724381,-16.75744876
+Toyota,Corolla,2018,Saudi,White,Standard,1.6,Gas,Automatic,212000,Riyadh,46000,FALSE,7,Standard,Medium,Very High,24901.06313,21098.93687,45.86725407
+Toyota,Rav4,2011,Saudi,White,Semi Full,2.4,Gas,Automatic,400000,Jeddah,35000,FALSE,14,Standard,Medium,Very High,31966.88891,3033.111089,8.666031684
+HAVAL,H2,2020,Saudi,Blue,Full,1.5,Gas,Automatic,15000,Qassim,49000,FALSE,5,Standard,Medium,Low,59938.98683,-10938.98683,-22.32446292
+Nissan,Sunny,2018,Saudi,White,Standard,1.5,Gas,Automatic,99000,Dammam,26000,FALSE,7,Standard,Medium,Medium,26818.85686,-818.8568607,-3.149449464
+Chevrolet,Malibu,2014,Saudi,Black,Full,2.6,Gas,Automatic,138,Makkah,27000,FALSE,11,Standard,Large,Low,55236.66476,-28236.66476,-104.5802399
+Honda,Civic,2017,Saudi,Silver,Standard,1.6,Gas,Automatic,86000,Makkah,40000,FALSE,8,Standard,Medium,Medium,43557.54904,-3557.549044,-8.893872609
+Chevrolet,Aveo,2007,Saudi,Navy,Standard,1.6,Gas,Manual,280,Taef,8000,FALSE,18,Standard,Medium,Low,19391.89369,-11391.89369,-142.3986711
+Chrysler,C300,2012,Other,Silver,Full,5.7,Gas,Automatic,143000,Dammam,51000,FALSE,13,Standard,Very Large,High,48884.04778,2115.952217,4.148925916
+Dodge,Charger,2021,Gulf Arabic,Grey,Standard,3.5,Gas,Automatic,1700,Makkah,110000,FALSE,4,Standard,Large,Low,126595.8986,-16595.8986,-15.08718054
+Hyundai,Azera,2016,Saudi,Grey,Semi Full,3,Gas,Automatic,199100,Riyadh,52000,FALSE,9,Budget,Large,Very High,52009.50871,-9.508710313,-0.018285981
+Kia,Picanto,2017,Saudi,Red,Standard,1,Gas,Automatic,158000,Al-Medina,22500,FALSE,8,Budget,Small,Very High,36298.22827,-13798.22827,-61.32545899
+Mitsubishi,Pajero,2012,Saudi,White,Standard,3.8,Gas,Automatic,86213,Riyadh,41500,FALSE,13,Standard,Large,Medium,42373.82251,-873.8225075,-2.105596404
+Changan,Eado,2020,Saudi,Brown,Semi Full,1.6,Gas,Automatic,24938,Riyadh,49500,FALSE,5,Standard,Medium,Low,61483.4583,-11983.4583,-24.20900666
+Honda,Odyssey,2016,Gulf Arabic,White,Full,3.5,Gas,Automatic,80000,Riyadh,73000,FALSE,9,Standard,Large,Medium,83796.23459,-10796.23459,-14.78936246
+Toyota,Prado,2018,Gulf Arabic,White,Semi Full,4,Gas,Automatic,78000,Al-Ahsa,135000,FALSE,7,Standard,Very Large,Medium,107992.1275,27007.87255,20.00583152
+Geely,EC7,2015,Other,Bronze,Standard,1.3,Gas,Manual,160000,Jeddah,14000,FALSE,10,Budget,Small,Very High,34658.03607,-20658.03607,-147.5574005
+Mazda,3,2018,Gulf Arabic,Navy,Semi Full,1.6,Gas,Automatic,70000,Jeddah,46000,FALSE,7,Standard,Medium,Medium,46550.77833,-550.7783287,-1.197344193
+Chevrolet,Tahoe,2015,Saudi,Silver,Standard,5.3,Gas,Automatic,233000,Riyadh,98000,FALSE,10,Standard,Very Large,Very High,104013.802,-6013.801956,-6.136532608
+GMC,Yukon,2008,Saudi,Black,Semi Full,1.6,Gas,Automatic,250000,Riyadh,22000,FALSE,17,Standard,Medium,Very High,26141.26011,-4141.260112,-18.8239096
+Nissan,Land Cruiser Pickup,2012,Saudi,Golden,Full,4.8,Gas,Manual,339822,Riyadh,40000,FALSE,13,Standard,Very Large,Very High,85528.03959,-45528.03959,-113.820099
+Toyota,Hilux,2018,Saudi,White,Full,2.7,Gas,Manual,94458,Riyadh,91500,FALSE,7,Standard,Large,Medium,80555.69947,10944.30053,11.96098418
+Toyota,Hilux,2016,Saudi,White,Standard,2.7,Gas,Manual,266949,Dammam,63000,FALSE,9,Standard,Large,Very High,60848.32471,2151.67529,3.415357603
+Lexus,ES,2016,Other,Grey,Full,3.5,Gas,Automatic,50000,Dammam,126000,FALSE,9,Luxury,Large,Medium,126901.9465,-901.9465215,-0.715830573
+Kia,Cerato,2018,Saudi,White,Standard,1.6,Gas,Automatic,127000,Riyadh,41500,FALSE,7,Budget,Medium,High,35594.66945,5905.330546,14.22971216
+Toyota,Land Cruiser 70,2016,Gulf Arabic,White,Semi Full,4,Gas,Manual,177000,Riyadh,90000,FALSE,9,Standard,Very Large,Very High,108979.3769,-18979.37694,-21.08819661
+Other,Other,1980,Other,Yellow,Standard,2.4,Diesel,Manual,2500,Qassim,220000,FALSE,45,Standard,Medium,Low,30781.62677,189218.3732,86.00835147
+Mercedes,C,2017,Gulf Arabic,White,Full,2,Gas,Automatic,120000,Riyadh,143000,FALSE,8,Standard,Medium,High,135451.0308,7548.969152,5.278999407
+Hyundai,Sonata,2019,Saudi,White,Standard,2.4,Gas,Automatic,94000,Riyadh,58500,FALSE,6,Budget,Medium,Medium,59126.40871,-626.408712,-1.070784123
+Lexus,IS,2018,Saudi,Another Color,Full,3.5,Gas,Automatic,54000,Jeddah,275000,FALSE,7,Luxury,Large,Medium,187762.2477,87237.75226,31.722819
+Toyota,Furniture,2020,Saudi,White,Semi Full,2.7,Gas,Automatic,25000,Dammam,110000,FALSE,5,Standard,Large,Low,103569.4196,6430.580435,5.845982213
+Toyota,Camry,2016,Saudi,White,Standard,2.5,Gas,Automatic,17000,Riyadh,35000,FALSE,9,Standard,Large,Low,59671.481,-24671.481,-70.48994571
+Hyundai,Accent,2018,Saudi,Black,Full,1.6,Gas,Automatic,130000,Jeddah,38500,FALSE,7,Budget,Medium,High,41898.84614,-3398.846139,-8.82817179
+Chevrolet,Tahoe,2010,Saudi,White,Standard,5.7,Gas,Automatic,177,Jeddah,45000,FALSE,15,Standard,Very Large,Low,47852.58625,-2852.586252,-6.33908056
+Ford,Victoria,2006,Saudi,White,Standard,4.6,Gas,Automatic,234000,Taef,22000,FALSE,19,Standard,Very Large,Very High,29425.01558,-7425.015578,-33.75007081
+Ford,Expedition,2013,Saudi,Grey,Full,5.4,Gas,Manual,225299,Riyadh,66587,FALSE,12,Standard,Very Large,Very High,47559.97958,19027.02042,28.57467737
+Hyundai,Sonata,2016,Saudi,Brown,Full,2,Gas,Automatic,104000,Riyadh,58000,FALSE,9,Budget,Medium,High,49985.74504,8014.254963,13.81768097
+Chevrolet,Malibu,2020,Saudi,Black,Standard,1.5,Gas,Automatic,62000,Abha,57000,FALSE,5,Standard,Medium,Medium,36427.31693,20572.68307,36.09242645
+Ford,Expedition,2018,Saudi,Grey,Standard,3.5,Gas,Automatic,55000,Jeddah,143000,FALSE,7,Standard,Large,Medium,92235.7632,50764.2368,35.4994663
+Ford,Fusion,2015,Saudi,Black,Semi Full,2.5,Gas,Automatic,157000,Dammam,47000,FALSE,10,Standard,Large,Very High,45139.18157,1860.81843,3.959188148
+Hyundai,Elantra,2019,Saudi,Silver,Standard,1.6,Gas,Automatic,116842,Riyadh,48500,FALSE,6,Budget,Medium,High,43915.32488,4584.675121,9.452938394
+Honda,Accord,2014,Saudi,White,Semi Full,4,Gas,Automatic,349000,Riyadh,48000,FALSE,11,Standard,Very Large,Very High,53836.17068,-5836.170677,-12.15868891
+Toyota,Camry,2019,Saudi,Black,Full,2.5,Gas,Automatic,13000,Riyadh,94000,FALSE,6,Standard,Large,Low,95992.53205,-1992.532049,-2.119714946
+Hyundai,H1,2018,Saudi,White,Standard,2.4,Gas,Automatic,151000,Dammam,58000,FALSE,7,Budget,Medium,Very High,43994.92788,14005.07212,24.14667607
+GMC,Terrain,2013,Saudi,Black,Semi Full,2.4,Gas,Automatic,90000,Jeddah,35000,FALSE,12,Standard,Medium,Medium,40132.55986,-5132.55986,-14.66445674
+Nissan,Datsun,2016,Saudi,White,Full,2.4,Gas,Manual,68000,Riyadh,48000,FALSE,9,Standard,Medium,Medium,58396.06282,-10396.06282,-21.6584642
+Hyundai,Sonata,2013,Saudi,White,Full,2.6,Gas,Automatic,280,Riyadh,25000,FALSE,12,Budget,Large,Low,32936.21255,-7936.212548,-31.74485019
+Isuzu,D-MAX,2007,Saudi,White,Standard,2.5,Diesel,Manual,570000,Dammam,27000,FALSE,18,Standard,Large,Very High,23113.64328,3886.356716,14.39391376
+Toyota,Land Cruiser,2019,Saudi,White,Full,4.6,Gas,Automatic,38000,Jeddah,248000,FALSE,6,Standard,Very Large,Low,254225.2117,-6225.211734,-2.510166022
+Ford,Expedition,2012,Saudi,Black,Full,4.8,Gas,Manual,304,Al-Ahsa,38000,FALSE,13,Standard,Very Large,Low,45490.82475,-7490.824752,-19.71269672
+Chevrolet,Cruze,2016,Other,Grey,Full,1.6,Gas,Automatic,136000,Jeddah,25000,FALSE,9,Standard,Medium,High,59424.24658,-34424.24658,-137.6969863
+Kia,Optima,2018,Gulf Arabic,White,Full,2.4,Gas,Automatic,83000,Dammam,75000,FALSE,7,Budget,Medium,Medium,63810.54251,11189.45749,14.91927666
+Kia,Optima,2019,Saudi,Grey,Semi Full,2.4,Gas,Automatic,54000,Aseer,1493,FALSE,6,Budget,Medium,Medium,55953.68797,-54460.68797,-3647.735296
+Mercedes,GL,2014,Saudi,Black,Full,4.6,Gas,Automatic,159000,Dammam,140000,FALSE,11,Standard,Very Large,Very High,129023.2057,10976.79432,7.84056737
+Chevrolet,Tahoe,2015,Saudi,Black,Standard,5.3,Gas,Automatic,250000,Yanbu,95000,FALSE,10,Standard,Very Large,Very High,93581.42648,1418.573518,1.493235282
+Renault,Duster,2017,Saudi,Silver,Standard,2,Gas,Automatic,124000,Riyadh,26000,FALSE,8,Standard,Medium,High,30311.25512,-4311.255122,-16.58175047
+Toyota,Yaris,2019,Saudi,Grey,Standard,1.5,Gas,Automatic,70000,Dammam,39000,FALSE,6,Standard,Medium,Medium,35788.79535,3211.204646,8.233858068
+Mercedes,C,2017,Saudi,Grey,Full,4,Gas,Automatic,80000,Dammam,270000,FALSE,8,Standard,Very Large,Medium,132298.5376,137701.4624,51.00054163
+Toyota,Land Cruiser,2019,Saudi,White,Full,4.6,Gas,Automatic,52000,Jeddah,248000,FALSE,6,Standard,Very Large,Medium,253096.877,-5096.876978,-2.05519233
+Mazda,6,2014,Saudi,White,Full,2.5,Gas,Automatic,232000,Al-Medina,38000,FALSE,11,Standard,Large,Very High,53457.15907,-15457.15907,-40.67673439
+Hyundai,Accent,2017,Saudi,Silver,Semi Full,1.4,Gas,Automatic,174000,Jeddah,24000,FALSE,8,Budget,Small,Very High,25923.1773,-1923.177298,-8.013238741
+Chrysler,C300,2010,Other,Red,Full,5.7,Gas,Automatic,100000,Riyadh,20000,FALSE,15,Standard,Very Large,High,45904.89957,-25904.89957,-129.5244979
+Toyota,Corolla,1997,Other,White,Standard,1.3,Gas,Manual,32500,Dammam,7000,FALSE,28,Standard,Small,Low,11272.15939,-4272.159385,-61.03084836
+Nissan,Sentra,2017,Saudi,White,Standard,1.6,Gas,Automatic,50700,Riyadh,37000,FALSE,8,Standard,Medium,Medium,30128.50805,6871.491951,18.57159987
+Ford,Taurus,2017,Saudi,White,Standard,3.5,Gas,Automatic,135000,Dammam,65000,FALSE,8,Standard,Large,High,67817.90184,-2817.901841,-4.335233602
+Toyota,Camry,2017,Saudi,White,Standard,2.5,Gas,Automatic,190144,Riyadh,54000,FALSE,8,Standard,Large,Very High,49113.6969,4886.303099,9.048709443
+Honda,Accord,2018,Saudi,White,Semi Full,1.6,Gas,Automatic,32000,Jeddah,97000,FALSE,7,Standard,Medium,Low,50115.81988,46884.18012,48.33420631
+Toyota,Yaris,2017,Saudi,White,Standard,1.6,Gas,Automatic,167000,Riyadh,29000,FALSE,8,Standard,Medium,Very High,29115.36202,-115.3620195,-0.397800067
+BMW,X,2020,Other,White,Standard,3,Gas,Automatic,11578,Riyadh,262000,FALSE,5,Luxury,Large,Low,237443.6086,24556.39141,9.372668479
+Mazda,CX9,2015,Saudi,Black,Full,2.5,Gas,Automatic,234000,Taef,57000,FALSE,10,Standard,Large,Very High,42143.68848,14856.31152,26.06370443
+Nissan,Altima,2018,Gulf Arabic,Silver,Semi Full,2.5,Gas,Automatic,32000,Riyadh,66000,FALSE,7,Standard,Large,Low,80351.14398,-14351.14398,-21.74415755
+Honda,City,2016,Gulf Arabic,Brown,Full,4,Gas,Automatic,51000,Riyadh,43000,FALSE,9,Standard,Very Large,Medium,107721.6033,-64721.6033,-150.5153565
+Chevrolet,Tahoe,2017,Saudi,Silver,Semi Full,5.3,Gas,Automatic,153000,Dammam,125000,FALSE,8,Standard,Very Large,Very High,120064.618,4935.381959,3.948305567
+Ford,Taurus,2017,Saudi,Silver,Standard,3.5,Gas,Automatic,132000,Dammam,65000,FALSE,8,Standard,Large,High,69383.96037,-4383.96037,-6.744554416
+Hyundai,Accent,2018,Saudi,Silver,Standard,1.4,Gas,Automatic,64126,Dammam,32000,FALSE,7,Budget,Small,Medium,32684.38338,-684.3833818,-2.138698068
+Nissan,Sunny,2019,Saudi,Brown,Standard,1.5,Gas,Automatic,42000,Dammam,34000,FALSE,6,Standard,Medium,Low,31959.00935,2040.990646,6.002913666
+Nissan,Sunny,2019,Saudi,Another Color,Standard,1.5,Gas,Automatic,89000,Al-Medina,29000,FALSE,6,Standard,Medium,Medium,30706.10482,-1706.104824,-5.883120081
+Nissan,X-Trail,2018,Saudi,Brown,Standard,2.5,Gas,Automatic,30507,Riyadh,69500,FALSE,7,Standard,Large,Low,71727.77633,-2227.776328,-3.205433565
+Hyundai,Azera,2015,Saudi,Black,Semi Full,3,Gas,Automatic,222306,Riyadh,38000,FALSE,10,Budget,Large,Very High,51630.59621,-13630.59621,-35.86999001
+Mercedes,C,2015,Other,Grey,Semi Full,2,Gas,Automatic,187000,Riyadh,94000,FALSE,10,Standard,Medium,Very High,74924.28572,19075.71428,20.29331306
+Honda,Pilot,2005,Other,Blue,Semi Full,6,Gas,Automatic,4130,Dammam,15000,FALSE,20,Standard,Very Large,Low,50110.77026,-35110.77026,-234.0718017
+Ford,Taurus,2019,Saudi,Black,Standard,2,Gas,Automatic,49000,Riyadh,82000,FALSE,6,Standard,Medium,Low,80262.92786,1737.072143,2.118380662
+Toyota,Hilux,2016,Gulf Arabic,White,Standard,2.7,Gas,Manual,157051,Dammam,63000,FALSE,9,Standard,Large,Very High,62240.27368,759.7263217,1.205914796
+Hyundai,Accent,2019,Saudi,Silver,Standard,1.6,Gas,Automatic,105444,Riyadh,33000,FALSE,6,Budget,Medium,High,38597.80861,-5597.808608,-16.96305639
+Kia,Carenz,2008,Saudi,Another Color,Standard,2,Gas,Manual,350,Jeddah,12000,FALSE,17,Budget,Medium,Low,18358.50264,-6358.502642,-52.98752202
+Chevrolet,Traverse,2009,Other,Navy,Semi Full,3.6,Gas,Automatic,325,Al-Medina,18000,FALSE,16,Standard,Large,Low,28053.17075,-10053.17075,-55.8509486
+BMW,The 7,2009,Saudi,Bronze,Full,4.4,Gas,Automatic,285000,Dammam,46000,FALSE,16,Luxury,Very Large,Very High,58415.29013,-12415.29013,-26.98976115
+Nissan,Datsun,2016,Saudi,White,Full,2,Gas,Manual,22000,Riyadh,45000,FALSE,9,Standard,Medium,Low,66826.83192,-21826.83192,-48.50407094
+INFINITI,Q,2019,Saudi,Silver,Full,3.5,Gas,Automatic,5000,Riyadh,90500,FALSE,6,Standard,Large,Low,147816.221,-57316.22097,-63.33284085
+Lexus,LS,2016,Saudi,White,Full,4.6,Gas,Automatic,90000,Jeddah,200000,FALSE,9,Luxury,Very Large,Medium,206470.3952,-6470.395232,-3.235197616
+Chevrolet,Blazer,2005,Other,Blue,Full,2,Gas,Automatic,213000,Abha,13500,FALSE,20,Standard,Medium,Very High,17264.70407,-3764.704067,-27.88669679
+Toyota,Hilux,2011,Saudi,White,Standard,1.4,Gas,Manual,300000,Tabouk,20000,FALSE,14,Standard,Small,Very High,32004.93228,-12004.93228,-60.02466141
+Hyundai,Accent,2019,Saudi,Grey,Standard,1.4,Gas,Automatic,107000,Riyadh,35000,FALSE,6,Budget,Small,High,35889.38836,-889.3883642,-2.541109612
+Toyota,Hilux,2018,Saudi,White,Standard,2.7,Gas,Manual,132000,Riyadh,77000,FALSE,7,Standard,Large,High,77112.08661,-112.0866087,-0.145567024
+Mercedes,C,2018,Saudi,Silver,Full,2.1,Gas,Automatic,10000,Jeddah,200000,FALSE,7,Standard,Medium,Low,166281.9011,33718.0989,16.85904945
+Ford,F150,2012,Saudi,Black,Standard,3.6,Gas,Automatic,235000,Al-Medina,55000,FALSE,13,Standard,Large,Very High,31941.25653,23058.74347,41.92498814
+Mazda,6,2019,Saudi,White,Full,2.5,Gas,Automatic,50000,Jeddah,90000,FALSE,6,Standard,Large,Medium,104730.0213,-14730.02132,-16.36669035
+Jeep,Grand Cherokee,2014,Saudi,Black,Semi Full,5.7,Gas,Automatic,175000,Jubail,70000,FALSE,11,Standard,Very Large,Very High,58726.57156,11273.42844,16.10489777
+Honda,Accord,2017,Saudi,Black,Full,2.4,Gas,Automatic,139806,Riyadh,71500,FALSE,8,Standard,Medium,High,68440.1662,3059.8338,4.279487833
+Nissan,VTC,2016,Saudi,White,Semi Full,4.8,Gas,Manual,307801,Riyadh,99000,FALSE,9,Standard,Very Large,Very High,98823.34382,176.6561805,0.178440586
+Ford,Taurus,2017,Saudi,Silver,Standard,3.5,Gas,Automatic,131408,Dammam,69000,FALSE,8,Standard,Large,High,69397.64904,-397.6490425,-0.57630296
+GMC,Yukon,2015,Saudi,White,Full,4.8,Gas,Automatic,320000,Aseer,120000,FALSE,10,Standard,Very Large,Very High,100446.4529,19553.54713,16.29462261
+INFINITI,FX,2012,Gulf Arabic,Black,Full,5.3,Gas,Automatic,235000,Jeddah,59500,FALSE,13,Standard,Very Large,Very High,43965.33221,15534.66779,26.10868537
+Toyota,Land Cruiser,2020,Saudi,White,Standard,4,Gas,Automatic,29277,Riyadh,180000,FALSE,5,Standard,Very Large,Low,108182.9336,71817.06639,39.89837022
+Mercedes,C,2015,Other,White,Full,2,Gas,Automatic,82000,Dammam,109000,FALSE,10,Standard,Medium,Medium,117350.7617,-8350.761675,-7.661249243
+Lexus,NX,2018,Saudi,White,Standard,2,Gas,Automatic,1800,Jeddah,161000,FALSE,7,Luxury,Medium,Low,152416.9508,8583.04916,5.331086435
+Mitsubishi,L200,2020,Saudi,White,Standard,2.5,Diesel,Manual,197,Jeddah,71000,FALSE,5,Standard,Large,Low,112040.0415,-41040.04147,-57.80287532
+Nissan,Sunny,2016,Gulf Arabic,White,Standard,1.5,Gas,Automatic,158000,Qassim,23000,FALSE,9,Standard,Medium,Very High,24911.32192,-1911.321917,-8.310095292
+Hyundai,Elantra,2018,Saudi,White,Full,2,Gas,Automatic,116,Riyadh,42000,FALSE,7,Budget,Medium,Low,47247.06214,-5247.062137,-12.49300509
+Ford,Expedition,2006,Other,Silver,Standard,5.4,Gas,Automatic,400,Al-Medina,20000,FALSE,19,Standard,Very Large,Low,16254.0149,3745.985101,18.7299255
+Toyota,Prado,2019,Gulf Arabic,White,Full,4,Gas,Automatic,58000,Riyadh,151000,FALSE,6,Standard,Very Large,Medium,158289.6292,-7289.62916,-4.82756898
+Toyota,Camry,2015,Saudi,Black,Full,2,Gas,Automatic,26000,Jeddah,43000,FALSE,10,Standard,Medium,Low,65044.35044,-22044.35044,-51.26593126
+Toyota,Furniture,2019,Saudi,White,Full,4,Gas,Automatic,113000,Riyadh,105000,FALSE,6,Standard,Very Large,High,116120.0668,-11120.06675,-10.59053976
+Toyota,Rav4,2011,Saudi,Another Color,Semi Full,1.4,Gas,Manual,135000,Riyadh,25000,FALSE,14,Standard,Small,High,29755.44281,-4755.442806,-19.02177123
+Genesis,Royal,2015,Saudi,Red,Full,3.8,Gas,Automatic,194000,Riyadh,85000,FALSE,10,Standard,Large,Very High,66360.33155,18639.66845,21.92902171
+Mazda,6,2017,Saudi,Silver,Standard,2.5,Gas,Automatic,175000,Dammam,50000,FALSE,8,Standard,Large,Very High,51786.3159,-1786.315897,-3.572631795
+Nissan,Z370,2020,Saudi,Grey,Full,3.7,Gas,Manual,3000,Dammam,129000,FALSE,5,Standard,Large,Low,160734.4707,-31734.47066,-24.60036485
+Hyundai,Azera,2019,Saudi,Black,Standard,3.3,Gas,Automatic,91000,Riyadh,77000,FALSE,6,Budget,Large,Medium,63779.9917,13220.0083,17.16884195
+Toyota,Camry,2017,Saudi,Grey,Standard,2.5,Gas,Automatic,180000,Dammam,58000,FALSE,8,Standard,Large,Very High,45908.24282,12091.75718,20.84785721
+Ford,Victoria,2007,Saudi,Golden,Semi Full,4.6,Gas,Automatic,480,Riyadh,15000,FALSE,18,Standard,Very Large,Low,31413.07262,-16413.07262,-109.4204841
+Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,120000,Jeddah,32000,FALSE,7,Budget,Small,High,31828.60619,171.3938082,0.535605651
+Toyota,Land Cruiser,2016,Gulf Arabic,White,Full,4.6,Gas,Manual,95000,Hail,160000,FALSE,9,Standard,Very Large,Medium,179686.4056,-19686.4056,-12.3040035
+Nissan,Altima,2017,Saudi,White,Semi Full,2.5,Gas,Automatic,40000,Riyadh,67000,FALSE,8,Standard,Large,Low,60251.32176,6748.678242,10.07265409
+Mazda,CX9,2015,Gulf Arabic,Grey,Full,2.4,Gas,Automatic,138020,Qassim,58000,FALSE,10,Standard,Medium,High,64464.84428,-6464.844283,-11.14628325
+Hyundai,Accent,2017,Saudi,White,Standard,1.4,Gas,Automatic,158000,Riyadh,24000,FALSE,8,Budget,Small,Very High,26208.89445,-2208.894447,-9.203726864
+Hyundai,Accent,2020,Saudi,Navy,Full,1.6,Gas,Automatic,10400,Dammam,53000,FALSE,5,Budget,Medium,Low,46593.96133,6406.038674,12.08686542
+Chevrolet,Camaro,2016,Other,Red,Full,3.6,Gas,Automatic,94000,Dammam,106000,FALSE,9,Standard,Large,Medium,91785.35943,14214.64057,13.41003827
+Ford,Fusion,2015,Saudi,Another Color,Semi Full,2.5,Gas,Automatic,98000,Dammam,45000,FALSE,10,Standard,Large,Medium,60028.09499,-15028.09499,-33.39576665
+Lexus,GS,2017,Saudi,Bronze,Full,3.5,Gas,Automatic,80000,Dammam,175000,FALSE,8,Luxury,Large,Medium,141713.9962,33286.00376,19.02057358
+Mazda,6,2016,Saudi,White,Semi Full,2.5,Gas,Automatic,100000,Al-Medina,57000,FALSE,9,Standard,Large,High,55951.38282,1048.617181,1.839679265
+Chevrolet,Caprice,2009,Saudi,Black,Standard,3.5,Gas,Automatic,320000,Jeddah,27000,FALSE,16,Standard,Large,Very High,21701.17311,5298.826891,19.62528478
+Mazda,3,2019,Saudi,White,Standard,1.6,Gas,Automatic,53000,Al-Medina,46500,FALSE,6,Standard,Medium,Medium,43027.71466,3472.285338,7.467280298
+Hyundai,Sonata,2018,Saudi,Grey,Semi Full,2.4,Gas,Automatic,66000,Riyadh,1670,FALSE,7,Budget,Medium,Medium,64564.31252,-62894.31252,-3766.126498
+Lexus,GX,2018,Saudi,White,Full,4.6,Gas,Automatic,53189,Riyadh,179000,FALSE,7,Luxury,Very Large,Medium,221400.8322,-42400.83216,-23.68761573
+Hyundai,H1,2008,Saudi,White,Full,2.4,Gas,Manual,1000,Tabouk,17000,FALSE,17,Budget,Medium,Low,27154.03259,-10154.03259,-59.72960346
+Kia,Cadenza,2017,Saudi,White,Standard,3,Gas,Automatic,175000,Riyadh,50000,FALSE,8,Budget,Large,Very High,58292.5041,-8292.504099,-16.5850082
+Toyota,Land Cruiser 70,2019,Gulf Arabic,White,Semi Full,4,Gas,Manual,131592,Riyadh,116000,FALSE,6,Standard,Very Large,High,131496.9249,-15496.92487,-13.35941799
+Kia,Cadenza,2020,Saudi,Silver,Standard,3.5,Gas,Automatic,5000,Jeddah,108000,FALSE,5,Budget,Large,Low,72679.37539,35320.62461,32.70428205
+Nissan,Datsun,2011,Saudi,White,Semi Full,1.6,Gas,Manual,390,Qassim,23500,FALSE,14,Standard,Medium,Low,16821.64988,6678.350118,28.41851114
+Kia,Cerato,2016,Saudi,White,Standard,1.6,Gas,Automatic,34000,Riyadh,32000,FALSE,9,Budget,Medium,Low,31555.57956,444.4204395,1.388813873
+Chrysler,C300,2008,Saudi,White,Semi Full,6,Gas,Automatic,212,Riyadh,12500,FALSE,17,Standard,Very Large,Low,22536.3389,-10036.3389,-80.29071122
+Chevrolet,Impala,2015,Saudi,Blue,Full,3.6,Gas,Automatic,212000,Riyadh,64000,FALSE,10,Standard,Large,Very High,64478.24769,-478.247689,-0.747262014
+Changan,Eado,2020,Saudi,Blue,Full,1.6,Gas,Automatic,36748,Riyadh,51500,FALSE,5,Standard,Medium,Low,54383.65466,-2883.654661,-5.59932944
+Toyota,Camry,2019,Saudi,White,Full,3.5,Gas,Automatic,86000,Dammam,110000,FALSE,6,Standard,Large,Medium,111846.6978,-1846.697785,-1.678816169
+Toyota,Land Cruiser,2013,Saudi,White,Full,5.7,Gas,Automatic,257000,Riyadh,150000,FALSE,12,Standard,Very Large,Very High,138667.2209,11332.77912,7.555186082
+Toyota,Prado,2019,Gulf Arabic,White,Full,4.7,Gas,Automatic,65000,Riyadh,151000,FALSE,6,Standard,Very Large,Medium,221301.564,-70301.56404,-46.55732718
+Chevrolet,Traverse,2010,Saudi,Black,Standard,3.6,Gas,Automatic,219,Jeddah,22000,FALSE,15,Standard,Large,Low,33307.25577,-11307.25577,-51.39661716
+Chevrolet,Impala,2016,Saudi,Black,Standard,3.5,Gas,Automatic,192000,Dammam,65000,FALSE,9,Standard,Large,Very High,59320.45582,5679.544176,8.737760271
+Hyundai,Elantra,2020,Saudi,White,Standard,1.6,Gas,Automatic,9495,Riyadh,59500,FALSE,5,Budget,Medium,Low,56406.2395,3093.760496,5.199597473
+Ford,Taurus,2017,Saudi,White,Standard,3.5,Gas,Automatic,158039,Riyadh,75000,FALSE,8,Standard,Large,Very High,66886.33341,8113.66659,10.81822212
+Honda,City,2017,Saudi,White,Standard,1.5,Gas,Automatic,92000,Dammam,28000,FALSE,8,Standard,Medium,Medium,38313.4511,-10313.4511,-36.83375394
+Renault,Megane,2020,Gulf Arabic,White,Standard,1.6,Gas,Automatic,6400,Jeddah,42000,FALSE,5,Standard,Medium,Low,54126.4216,-12126.4216,-28.87243238
+Hyundai,Elantra,2019,Saudi,White,Standard,1.6,Gas,Automatic,120496,Riyadh,40800,FALSE,6,Budget,Medium,High,42514.75497,-1714.75497,-4.202830808
+Chevrolet,Suburban,2007,Saudi,Black,Full,5.3,Gas,Automatic,300000,Qurayyat,30000,FALSE,18,Standard,Very Large,Very High,34799.5131,-4799.513101,-15.998377
+MG,ZS,2020,Saudi,Red,Full,1.5,Gas,Automatic,33000,Riyadh,55000,FALSE,5,Standard,Medium,Low,60051.28618,-5051.286183,-9.184156696
+Toyota,Corolla,2013,Saudi,White,Standard,1.6,Gas,Automatic,334000,Qassim,36500,FALSE,12,Standard,Medium,Very High,27635.17309,8864.826915,24.28719703
+Chevrolet,Malibu,2017,Gulf Arabic,Black,Full,2,Gas,Automatic,62000,Riyadh,69000,FALSE,8,Standard,Medium,Medium,93383.04418,-24383.04418,-35.33774519
+Toyota,Hilux,2016,Gulf Arabic,White,Semi Full,2.7,Gas,Manual,70000,Dammam,77000,FALSE,9,Standard,Large,Medium,72355.45725,4644.542749,6.0318737
+GMC,Sierra,2017,Saudi,Silver,Full,5.3,Gas,Automatic,174000,Dammam,99000,FALSE,8,Standard,Very Large,Very High,100106.6891,-1106.689056,-1.117867734
+Toyota,Avalon,2019,Saudi,White,Standard,3.5,Gas,Automatic,43418,Riyadh,115000,FALSE,6,Standard,Large,Low,103736.6095,11263.39054,9.794252642
+Mercedes,E,2016,Saudi,Black,Full,3,Gas,Automatic,64000,Riyadh,120000,FALSE,9,Standard,Large,Medium,145231.9019,-25231.90192,-21.02658494
+Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,135000,Dammam,30000,FALSE,7,Budget,Small,High,30946.50028,-946.5002842,-3.155000947
+Kia,Cadenza,2018,Saudi,Brown,Standard,1,Gas,Automatic,74000,Riyadh,60000,FALSE,7,Budget,Small,Medium,57014.71335,2985.286655,4.975477758
+Toyota,Furniture,2021,Saudi,White,Standard,2.7,Gas,Automatic,980,Tabouk,120000,FALSE,4,Standard,Large,Low,95898.93935,24101.06065,20.08421721
+Toyota,Yaris,2016,Saudi,White,Standard,1.5,Gas,Automatic,133300,Dammam,26000,FALSE,9,Standard,Medium,High,28275.60732,-2275.60732,-8.752335846
+Dodge,Charger,2020,Saudi,Grey,Standard,3.6,Gas,Automatic,11000,Riyadh,100000,FALSE,5,Standard,Large,Low,128785.1071,-28785.10715,-28.78510715
+MINI,Copper,2016,Saudi,Navy,Full,5.7,Gas,Automatic,105000,Jeddah,65500,FALSE,9,Standard,Very Large,High,133067.5074,-67567.50739,-103.1564998
+Ford,Expedition,2016,Saudi,White,Standard,5.4,Gas,Automatic,95000,Riyadh,72000,FALSE,9,Standard,Very Large,Medium,87860.55273,-15860.55273,-22.02854545
+Chevrolet,Caprice,1990,Other,Blue,Full,1.6,Gas,Automatic,92000,Al-Ahsa,44000,FALSE,35,Standard,Medium,Medium,28494.5954,15505.4046,35.2395559
+Toyota,Yaris,2015,Saudi,Black,Full,1.5,Gas,Automatic,204000,Riyadh,27500,FALSE,10,Standard,Medium,Very High,71795.63992,-44295.63992,-161.0750542
+Hyundai,Accent,2019,Saudi,Silver,Standard,1.4,Gas,Automatic,68000,Dammam,40000,FALSE,6,Budget,Small,Medium,39613.23679,386.7632073,0.966908018
+Nissan,Altima,2015,Gulf Arabic,White,Standard,2.5,Gas,Automatic,90000,Riyadh,28000,FALSE,10,Standard,Large,Medium,49671.92575,-21671.92575,-77.3997348
+Chrysler,C300,2013,Saudi,White,Full,5.7,Gas,Automatic,200,Makkah,55000,FALSE,12,Standard,Very Large,Low,47497.17712,7502.822876,13.64149614
+GMC,Yukon,2010,Saudi,Black,Standard,5.3,Gas,Automatic,379538,Jeddah,65000,FALSE,15,Standard,Very Large,Very High,37246.86578,27753.13422,42.69712957
+Toyota,Camry,2019,Saudi,Red,Standard,2.5,Gas,Automatic,105285,Riyadh,81500,FALSE,6,Standard,Large,High,72316.82439,9183.175611,11.26770014
+Toyota,Hilux,2015,Gulf Arabic,White,Full,2.7,Gas,Manual,105400,Dammam,62000,FALSE,10,Standard,Large,High,64227.65797,-2227.657968,-3.592996722
+Toyota,Land Cruiser,2013,Gulf Arabic,White,Semi Full,4.6,Gas,Automatic,240000,Riyadh,105000,FALSE,12,Standard,Very Large,Very High,98905.71549,6094.284512,5.804080487
+Nissan,Patrol,2019,Gulf Arabic,White,Semi Full,4,Gas,Automatic,72000,Najran,160000,FALSE,6,Standard,Very Large,Medium,166468.1007,-6468.100663,-4.042562914
+Toyota,Camry,2020,Gulf Arabic,White,Standard,2.5,Gas,Automatic,16500,Dammam,86900,FALSE,5,Standard,Large,Low,106197.001,-19297.00103,-22.20598508
+Isuzu,D-MAX,2013,Saudi,White,Standard,2.5,Diesel,Manual,137000,Riyadh,55000,FALSE,12,Standard,Large,High,36114.46899,18885.53101,34.33732912
+Toyota,Yaris,2015,Saudi,Black,Full,1.5,Gas,Automatic,203429,Riyadh,29000,FALSE,10,Standard,Medium,Very High,71795.63992,-42795.63992,-147.5711721
+Honda,Accord,2016,Gulf Arabic,White,Standard,2.4,Gas,Automatic,90000,Riyadh,65000,FALSE,9,Standard,Medium,Medium,66546.44375,-1546.443746,-2.379144224
+Nissan,Patrol,2013,Saudi,Golden,Semi Full,5.6,Gas,Automatic,442000,Riyadh,85000,FALSE,12,Standard,Very Large,Very High,81237.44912,3762.550879,4.426530446
+Hyundai,Accent,2019,Saudi,Silver,Standard,1.4,Gas,Automatic,93239,Riyadh,40500,FALSE,6,Budget,Small,Medium,35594.07766,4905.922344,12.1133885
+Hyundai,Sonata,2011,Saudi,Grey,Semi Full,2.4,Gas,Automatic,450,Aseer,18000,FALSE,14,Budget,Medium,Low,25281.71372,-7281.713724,-40.45396513
+GMC,Sierra,2017,Saudi,Red,Full,5.3,Gas,Automatic,160000,Riyadh,100000,FALSE,8,Standard,Very Large,Very High,104813.3988,-4813.39881,-4.81339881
+Ford,Victoria,2008,Saudi,Blue,Semi Full,4.6,Gas,Automatic,3666,Al-Ahsa,16000,FALSE,17,Standard,Very Large,Low,34224.26609,-18224.26609,-113.901663
+Lexus,ES,2013,Saudi,Black,Full,3.6,Gas,Automatic,137000,Tabouk,90000,FALSE,12,Luxury,Large,High,81191.03617,8808.963827,9.787737585
+Toyota,Corolla,2017,Saudi,White,Standard,1.6,Gas,Automatic,249410,Dammam,43000,FALSE,8,Standard,Medium,Very High,36396.10867,6603.891327,15.35788681
+Lexus,ES,2016,Other,White,Full,1.5,Gas,Automatic,100000,Aseer,128000,FALSE,9,Luxury,Medium,High,71519.09116,56480.90884,44.12571003
+Toyota,Yaris,2019,Saudi,White,Standard,1.5,Gas,Automatic,86000,Jeddah,35500,FALSE,6,Standard,Medium,Medium,33980.83852,1519.16148,4.279328111
+Toyota,Corolla,2016,Saudi,White,Semi Full,1.6,Gas,Automatic,138661,Riyadh,47500,FALSE,9,Standard,Medium,High,34944.37443,12555.62557,26.43289593
+Toyota,Corolla,2018,Saudi,Silver,Standard,1.6,Gas,Automatic,40000,Dammam,42000,FALSE,7,Standard,Medium,Low,48920.73892,-6920.738919,-16.47794981
+Mazda,CX5,2021,Saudi,White,Full,2.5,Gas,Automatic,14000,Riyadh,125000,FALSE,4,Standard,Large,Low,110886.9939,14113.00611,11.29040489
+Hyundai,H1,2014,Other,White,Standard,2.5,Diesel,Automatic,220000,Jazan,50000,FALSE,11,Budget,Large,Very High,46501.06597,3498.934028,6.997868055
+Lexus,LX,2014,Gulf Arabic,White,Full,5.7,Gas,Automatic,88000,Qassim,207000,FALSE,11,Luxury,Very Large,Medium,203947.8758,3052.124164,1.474456118
+Toyota,Prado,2015,Saudi,White,Full,1.6,Gas,Automatic,55000,Jubail,130000,FALSE,10,Standard,Medium,Medium,61434.58612,68565.41388,52.74262606
+Mercedes,E,2021,Saudi,Black,Full,2,Gas,Automatic,7000,Riyadh,290000,FALSE,4,Standard,Medium,Low,215844.9297,74155.07034,25.57071391
+Ford,Mustang,2016,Other,Red,Semi Full,3.7,Gas,Automatic,79000,Riyadh,98000,FALSE,9,Standard,Large,Medium,82347.17593,15652.82407,15.97226946
+Nissan,Sunny,2011,Saudi,Silver,Semi Full,1.6,Gas,Automatic,212000,Riyadh,15000,FALSE,14,Standard,Medium,Very High,19364.47007,-4364.470067,-29.09646711
+GMC,Yukon,2013,Saudi,Golden,Standard,4,Gas,Automatic,141000,Jeddah,80000,FALSE,12,Standard,Very Large,High,57620.83609,22379.16391,27.97395488
+Ford,Taurus,2013,Saudi,White,Semi Full,3.5,Gas,Automatic,280000,Riyadh,46000,FALSE,12,Standard,Large,Very High,39261.32259,6738.677413,14.64929872
+Hyundai,Accent,2017,Saudi,White,Semi Full,1.6,Gas,Automatic,132567,Riyadh,30000,FALSE,8,Budget,Medium,High,30161.52531,-161.5253055,-0.538417685
+Nissan,Patrol,2017,Saudi,Black,Semi Full,5.7,Gas,Automatic,93000,Riyadh,145000,FALSE,8,Standard,Very Large,Medium,164464.1668,-19464.1668,-13.42356331
+Toyota,Furniture,2020,Saudi,White,Semi Full,2.7,Gas,Automatic,28000,Dammam,110000,FALSE,5,Standard,Large,Low,103704.7984,6295.201647,5.722910588
+Chrysler,C300,2018,Saudi,Black,Full,5.7,Gas,Automatic,70000,Riyadh,123000,FALSE,7,Standard,Very Large,Medium,119765.7594,3234.24057,2.629463878
+Toyota,Yaris,2019,Saudi,White,Standard,1.5,Gas,Automatic,30000,Dammam,46000,FALSE,6,Standard,Medium,Low,39030.08984,6969.910162,15.15197861
+Kia,Cadenza,2018,Saudi,Silver,Standard,3.3,Gas,Automatic,94000,Riyadh,55000,FALSE,7,Budget,Large,Medium,63610.12216,-8610.12216,-15.65476756
+Toyota,Land Cruiser,2014,Saudi,White,Full,5.7,Gas,Automatic,175023,Riyadh,150000,FALSE,11,Standard,Very Large,Very High,152695.4856,-2695.485592,-1.796990395
+Toyota,Camry,2014,Saudi,White,Standard,2.5,Gas,Automatic,166400,Makkah,35500,FALSE,11,Standard,Large,Very High,41746.82756,-6246.827563,-17.59669736
+Hyundai,Accent,2017,Saudi,White,Semi Full,1.6,Gas,Automatic,125848,Riyadh,30000,FALSE,8,Budget,Medium,High,30307.72491,-307.7249098,-1.025749699
+Mercedes,E,2017,Saudi,Grey,Full,2,Gas,Automatic,20600,Dammam,210000,FALSE,8,Standard,Medium,Low,181607.9823,28392.01766,13.52000841
+Jaguar,F-Pace,2018,Saudi,White,Full,2.5,Gas,Automatic,70000,Jeddah,145000,FALSE,7,Luxury,Large,Medium,138013.3567,6986.643305,4.818374693
+Hyundai,Azera,2018,Saudi,White,Full,3.5,Gas,Automatic,76000,Dammam,78000,FALSE,7,Budget,Large,Medium,75921.6499,2078.350101,2.664551411
+Nissan,Juke,2014,Saudi,Grey,Semi Full,1.5,Gas,Automatic,225000,Riyadh,26000,FALSE,11,Standard,Medium,Very High,27395.36704,-1395.367041,-5.36679631
+Toyota,Hilux,2016,Gulf Arabic,White,Standard,2.7,Gas,Manual,172632,Dammam,63000,FALSE,9,Standard,Large,Very High,60959.35344,2040.646563,3.239121529
+Honda,Odyssey,2020,Saudi,Navy,Semi Full,3.5,Gas,Automatic,1300,Jeddah,165000,FALSE,5,Standard,Large,Low,156063.9157,8936.084307,5.415808671
+Toyota,Camry,2017,Saudi,Blue,Full,2.5,Gas,Automatic,31000,Al-Baha,75000,FALSE,8,Standard,Large,Low,75729.4249,-729.4248961,-0.972566528
+Kia,Rio,2016,Gulf Arabic,White,Standard,1.4,Gas,Automatic,180000,Riyadh,28000,FALSE,9,Budget,Small,Very High,26211.26029,1788.739715,6.388356124
+Chevrolet,Camaro,2017,Other,Silver,Full,3.6,Gas,Automatic,99000,Dammam,109000,FALSE,8,Standard,Large,Medium,96422.90909,12577.09091,11.53861552
+Nissan,X-Trail,2020,Saudi,Silver,Semi Full,2.5,Gas,Automatic,23000,Makkah,1473,FALSE,5,Standard,Large,Low,101293.6219,-99820.62187,-6776.688518
+Toyota,Furniture,2012,Saudi,Black,Semi Full,2,Gas,Automatic,202245,Riyadh,41000,FALSE,13,Standard,Medium,Very High,37207.86659,3792.133414,9.249105887
+Chrysler,C300,2005,Saudi,Black,Full,5.7,Gas,Automatic,300000,Jeddah,20000,FALSE,20,Standard,Very Large,Very High,20052.31122,-52.31121696,-0.261556085
+GMC,Acadia,2008,Saudi,Golden,Full,3.6,Gas,Automatic,220000,Riyadh,20000,FALSE,17,Standard,Large,Very High,24780.73272,-4780.732723,-23.90366361
+Toyota,Rav4,2021,Other,White,Standard,4,Gas,Automatic,5000,Jeddah,103000,FALSE,4,Standard,Very Large,Low,170094.1122,-67094.11221,-65.13991477
+Toyota,Furniture,2017,Saudi,Silver,Full,2.7,Gas,Automatic,236000,Riyadh,75000,FALSE,8,Standard,Large,Very High,65590.93564,9409.064359,12.54541915
+Mercedes,C,2016,Saudi,White,Full,2,Gas,Automatic,93000,Jazan,75000,FALSE,9,Standard,Medium,Medium,111472.9973,-36472.99729,-48.63066306
+Toyota,Land Cruiser,2019,Gulf Arabic,White,Full,4,Gas,Automatic,62000,Riyadh,195000,FALSE,6,Standard,Very Large,Medium,171877.5052,23122.49478,11.85768963
+Hyundai,Senta fe,2009,Saudi,Silver,Full,2.7,Gas,Automatic,260000,Riyadh,21000,FALSE,16,Budget,Large,Very High,29659.80978,-8659.809782,-41.23718944
+Chevrolet,Tahoe,2016,Saudi,White,Full,5.3,Gas,Automatic,146000,Riyadh,118000,FALSE,9,Standard,Very Large,High,122334.874,-4334.873974,-3.673622012
+Peugeot,301,2015,Saudi,Blue,Semi Full,1.6,Gas,Manual,278000,Jeddah,15000,FALSE,10,Standard,Medium,Very High,34502.77057,-19502.77057,-130.0184705
+Nissan,Pathfinder,2005,Saudi,Silver,Semi Full,3.5,Gas,Manual,302000,Jeddah,19000,FALSE,20,Standard,Large,Very High,14579.50983,4420.490171,23.26573774
+Land Rover,Discovery,2018,Saudi,Blue,Full,2,Gas,Automatic,500,Dammam,240000,FALSE,7,Luxury,Medium,Low,177062.5378,62937.46217,26.22394257
+Lexus,ES,2016,Saudi,Grey,Semi Full,3.6,Gas,Automatic,200000,Jeddah,105000,FALSE,9,Luxury,Large,Very High,90783.69583,14216.30417,13.5393373
+Ford,Expedition,2016,Saudi,White,Semi Full,5.4,Gas,Automatic,109000,Riyadh,72000,FALSE,9,Standard,Very Large,High,85564.52072,-13564.52072,-18.83961212
+Cadillac,CT-S,2010,Saudi,Another Color,Full,3.6,Gas,Automatic,240000,Riyadh,32000,FALSE,15,Luxury,Large,Very High,38316.6465,-6316.646502,-19.73952032
+Hyundai,Accent,2019,Saudi,Silver,Standard,1.4,Gas,Automatic,48511,Riyadh,40000,FALSE,6,Budget,Small,Low,39518.54934,481.4506603,1.203626651
+Honda,Odyssey,2015,Saudi,Black,Standard,3.5,Gas,Automatic,152000,Dammam,45000,FALSE,10,Standard,Large,Very High,59210.5858,-14210.5858,-31.57907956
+Jeep,Wrangler,2015,Saudi,Blue,Full,3.6,Gas,Automatic,200,Jeddah,85000,FALSE,10,Standard,Large,Low,99780.13812,-14780.13812,-17.38839779
+Kia,Sportage,2016,Saudi,Grey,Semi Full,2,Gas,Automatic,163000,Riyadh,43000,FALSE,9,Budget,Medium,Very High,42838.77465,161.2253515,0.374942678
+Nissan,Sentra,2020,Saudi,White,Semi Full,1.6,Gas,Automatic,7000,Aseer,55000,FALSE,5,Standard,Medium,Low,47569.45363,7430.546371,13.51008431
+Ford,Expedition,2014,Saudi,Grey,Semi Full,5.4,Gas,Automatic,320000,Dammam,55000,FALSE,11,Standard,Very Large,Very High,56060.63287,-1060.63287,-1.9284234
+Toyota,Hilux,2013,Saudi,White,Semi Full,2.7,Gas,Manual,290,Tabouk,55000,FALSE,12,Standard,Large,Low,51217.69339,3782.306607,6.876921104
+Hyundai,Sonata,2018,Gulf Arabic,White,Full,2.4,Gas,Automatic,130000,Makkah,1503,FALSE,7,Budget,Medium,High,61840.57458,-60337.57458,-4014.47602
+Toyota,Avanza,2016,Saudi,White,Standard,1.6,Gas,Automatic,160000,Riyadh,28000,FALSE,9,Standard,Medium,Very High,31343.56209,-3343.562086,-11.94129316
+Toyota,Camry,2016,Saudi,Blue,Full,2.5,Gas,Automatic,164000,Jeddah,51000,FALSE,9,Standard,Large,Very High,64879.98331,-13879.98331,-27.21565355
+Toyota,Camry,2016,Saudi,White,Full,2.5,Gas,Automatic,300000,Al-Ahsa,50000,FALSE,9,Standard,Large,Very High,59116.65823,-9116.658232,-18.23331646
+Toyota,Land Cruiser,2019,Saudi,White,Full,4.6,Gas,Automatic,71000,Riyadh,200000,FALSE,6,Standard,Very Large,Medium,242325.0418,-42325.04184,-21.16252092
+Toyota,Camry,2016,Gulf Arabic,White,Semi Full,2.4,Gas,Automatic,78000,Riyadh,57000,FALSE,9,Standard,Medium,Medium,63580.81391,-6580.813908,-11.54528756
+Nissan,Maxima,2016,Saudi,Blue,Standard,3.5,Gas,Automatic,84000,Jeddah,67000,FALSE,9,Standard,Large,Medium,80824.15304,-13824.15304,-20.63306425
+GMC,Sierra,2011,Saudi,White,Standard,6,Gas,Automatic,233000,Dammam,36000,FALSE,14,Standard,Very Large,Very High,43536.44921,-7536.449215,-20.93458115
+Mitsubishi,Pajero,2016,Saudi,White,Full,3.5,Gas,Automatic,161353,Riyadh,57500,FALSE,9,Standard,Large,Very High,61297.81489,-3797.814891,-6.604895463
+Nissan,Patrol,2017,Saudi,White,Standard,4,Gas,Automatic,198000,Dammam,114000,FALSE,8,Standard,Very Large,Very High,115241.952,-1241.952046,-1.08943162
+Honda,Accord,2016,Saudi,White,Semi Full,2.5,Gas,Automatic,92034,Riyadh,67000,FALSE,9,Standard,Large,Medium,69752.41419,-2752.414194,-4.108080886
+Chevrolet,Tahoe,2012,Saudi,Silver,Full,5.3,Gas,Automatic,287928,Riyadh,58000,FALSE,13,Standard,Very Large,Very High,56218.63584,1781.364164,3.071317523
+Mercedes,C,2017,Saudi,White,Semi Full,2,Gas,Automatic,81597,Riyadh,169500,FALSE,8,Standard,Medium,Medium,113164.8225,56335.17754,33.23609295
+Toyota,Hilux,2017,Saudi,White,Semi Full,2.7,Gas,Manual,106737,Jazan,75000,FALSE,8,Standard,Large,High,72372.20597,2627.794035,3.50372538
+Nissan,Sentra,2019,Saudi,Brown,Semi Full,1.6,Gas,Automatic,30000,Jeddah,44000,FALSE,6,Standard,Medium,Low,46068.07136,-2068.071357,-4.700162174
+Kia,Optima,2014,Saudi,Silver,Full,2.4,Gas,Automatic,200,Al-Medina,50000,FALSE,11,Budget,Medium,Low,46309.30287,3690.697128,7.381394256
+Hyundai,Elantra,2018,Other,White,Standard,1.6,Diesel,Automatic,45000,Riyadh,54000,FALSE,7,Budget,Medium,Low,51495.81908,2504.180923,4.637372079
+Kia,Optima,2017,Saudi,White,Standard,2.4,Gas,Automatic,263400,Riyadh,40000,FALSE,8,Budget,Medium,Very High,43054.24534,-3054.245339,-7.635613348
+Lincoln,MKS,2018,Gulf Arabic,White,Semi Full,2,Gas,Automatic,14000,Jeddah,115000,FALSE,7,Standard,Medium,Low,94065.05807,20934.94193,18.20429733
+GMC,Suburban,2004,Saudi,Oily,Standard,5.3,Gas,Automatic,300000,Riyadh,8000,FALSE,21,Standard,Very Large,Very High,19141.76243,-11141.76243,-139.2720304
+Hyundai,Sonata,2018,Saudi,Grey,Standard,2.4,Gas,Automatic,84655,Riyadh,61500,FALSE,7,Budget,Medium,Medium,58197.66933,3302.330666,5.369643359
+Mercedes,C,2016,Saudi,Silver,Semi Full,2,Gas,Automatic,140000,Dammam,105000,FALSE,9,Standard,Medium,High,84967.78468,20032.21532,19.07830031
+Honda,Odyssey,2009,Other,Black,Standard,3.5,Gas,Automatic,200000,Dammam,38000,FALSE,16,Standard,Large,Very High,23126.39574,14873.60426,39.14106385
+BMW,The 7,2004,Saudi,Silver,Full,3.6,Gas,Automatic,297000,Riyadh,11500,FALSE,21,Luxury,Large,Very High,31243.32645,-19743.32645,-171.6810995
+Toyota,Furniture,2020,Saudi,White,Semi Full,4,Gas,Automatic,18000,Dammam,128500,FALSE,5,Standard,Very Large,Low,142897.0403,-14397.04035,-11.20392245
+Hyundai,Accent,2019,Gulf Arabic,Silver,Standard,1.4,Gas,Automatic,62000,Khobar,37000,FALSE,6,Budget,Small,Medium,43726.76094,-6726.760941,-18.18043498
+Mercedes,GL,2014,Saudi,White,Full,4.6,Gas,Automatic,139000,Dammam,135000,FALSE,11,Standard,Very Large,High,134446.9335,553.0665092,0.409678896
+Lexus,RX,2016,Gulf Arabic,Bronze,Full,2.5,Hybrid,Automatic,81000,Dammam,154000,FALSE,9,Luxury,Large,Medium,111430.3002,42569.69982,27.64266222
+Hyundai,Sonata,2015,Gulf Arabic,Red,Standard,2.4,Gas,Automatic,80000,Riyadh,45000,FALSE,10,Budget,Medium,Medium,49384.5972,-4384.5972,-9.743549333
+Hyundai,Azera,2018,Saudi,Brown,Full,3.5,Gas,Automatic,44000,Riyadh,96000,FALSE,7,Budget,Large,Low,75081.63033,20918.36967,21.7899684
+GMC,Sierra,2015,Saudi,Black,Full,5.3,Gas,Automatic,112000,Aseer,77000,FALSE,10,Standard,Very Large,High,94313.53095,-17313.53095,-22.48510513
+Ford,Taurus,2015,Other,Black,Full,3.5,Gas,Automatic,117000,Dammam,69000,FALSE,10,Standard,Large,High,74634.963,-5634.963,-8.166613043
+Ford,Taurus,2010,Other,Black,Semi Full,3.5,Gas,Automatic,406593,Jeddah,19000,FALSE,15,Standard,Large,Very High,28067.28958,-9067.289583,-47.72257675
+Volkswagen,Passat,2012,Saudi,Another Color,Semi Full,2.5,Gas,Automatic,216000,Jeddah,22000,FALSE,13,Standard,Large,Very High,38067.07416,-16067.07416,-73.03215527
+BMW,X,2007,Saudi,White,Full,4.8,Gas,Automatic,260000,Riyadh,28000,FALSE,18,Luxury,Very Large,Very High,46528.08387,-18528.08387,-66.1717281
+Chevrolet,Lumina,2008,Saudi,Black,Semi Full,3.6,Gas,Automatic,205000,Dammam,12000,FALSE,17,Standard,Large,Very High,23987.72747,-11987.72747,-99.89772894
+Hyundai,Accent,2018,Saudi,White,Semi Full,1.4,Gas,Automatic,95000,Al-Ahsa,41000,FALSE,7,Budget,Small,Medium,38711.98664,2288.013365,5.580520402
+Toyota,Hilux,2017,Gulf Arabic,White,Semi Full,2.7,Gas,Manual,83000,Jubail,76000,FALSE,8,Standard,Large,Medium,75085.72322,914.2767776,1.20299576
+Toyota,Yaris,2019,Saudi,Brown,Semi Full,1.6,Gas,Automatic,50000,Dammam,40000,FALSE,6,Standard,Medium,Medium,36487.62933,3512.370672,8.78092668
+Chevrolet,Impala,2018,Saudi,Black,Standard,3.6,Gas,Automatic,52000,Riyadh,75000,FALSE,7,Standard,Large,Medium,74942.0266,57.97339827,0.077297864
+Hyundai,Azera,2016,Saudi,White,Full,3,Gas,Automatic,91747,Riyadh,66500,FALSE,9,Budget,Large,Medium,72231.53122,-5731.531223,-8.618843944
+Mitsubishi,Attrage,2018,Saudi,Silver,Standard,1.2,Gas,Automatic,159000,Jeddah,22000,FALSE,7,Standard,Small,Very High,29363.11539,-7363.115389,-33.46870631
+Cadillac,XT5,2017,Gulf Arabic,White,Full,3.6,Gas,Automatic,91000,Riyadh,130000,FALSE,8,Luxury,Large,Medium,145547.807,-15547.80704,-11.95985157
+Nissan,Datsun,2013,Gulf Arabic,White,Standard,1.7,Gas,Manual,273778,Al-Ahsa,32000,FALSE,12,Standard,Medium,Very High,30835.14067,1164.859332,3.640185412
+Hyundai,Elantra,2020,Saudi,White,Standard,2,Gas,Automatic,10000,Jeddah,63000,FALSE,5,Budget,Medium,Low,54200.6231,8799.376902,13.96726492
+Toyota,Hilux,2017,Saudi,White,Standard,2.7,Gas,Manual,73000,Dammam,72000,FALSE,8,Standard,Large,Medium,71053.46013,946.5398684,1.314638706
+Toyota,Camry,2001,Saudi,Silver,Standard,2.5,Gas,Manual,439000,Dammam,12000,FALSE,24,Standard,Large,Very High,14981.75028,-2981.750283,-24.84791902
+Mazda,6,2018,Saudi,Brown,Standard,2.5,Gas,Automatic,188000,Al-Ahsa,59000,FALSE,7,Standard,Large,Very High,54745.55894,4254.441062,7.210917055
+Kia,Optima,2014,Saudi,White,Semi Full,2,Gas,Automatic,241000,Dammam,35000,FALSE,11,Budget,Medium,Very High,36726.09444,-1726.09444,-4.9316984
+Mercedes,Viano,2013,Saudi,Black,Semi Full,3.5,Gas,Automatic,154000,Jeddah,45000,FALSE,12,Standard,Large,Very High,78122.94646,-33122.94646,-73.60654769
+Nissan,Patrol,2015,Saudi,Another Color,Full,5.6,Gas,Automatic,228000,Riyadh,130000,FALSE,10,Standard,Very Large,Very High,122391.3186,7608.681435,5.852831873
+Nissan,Patrol,2021,Saudi,Black,Full,4,Gas,Automatic,4900,Riyadh,258000,FALSE,4,Standard,Very Large,Low,165471.8141,92528.18586,35.86363793
+Honda,Accord,2018,Saudi,White,Standard,1.5,Gas,Automatic,129000,Riyadh,68000,FALSE,7,Standard,Medium,High,37571.04466,30428.95534,44.74846373
+Chevrolet,Tahoe,2017,Gulf Arabic,White,Full,5.3,Gas,Automatic,73000,Riyadh,142000,FALSE,8,Standard,Very Large,Medium,148260.6512,-6260.651243,-4.408909326
+Chevrolet,Malibu,2016,Saudi,Black,Standard,2.5,Gas,Automatic,170,Riyadh,20000,FALSE,9,Standard,Large,Low,63040.5767,-43040.5767,-215.2028835
+GMC,Sierra,1992,Saudi,White,Standard,3.5,Gas,Automatic,445000,Riyadh,8000,FALSE,33,Standard,Large,Very High,19281.22808,-11281.22808,-141.015351
+Kia,Optima,2016,Saudi,Grey,Semi Full,2.4,Gas,Automatic,233124,Riyadh,51500,FALSE,9,Budget,Medium,Very High,41935.02786,9564.972142,18.57276144
+Renault,Fluence,2015,Saudi,White,Standard,1.6,Gas,Manual,280,Al-Baha,18000,FALSE,10,Standard,Medium,Low,43797.67887,-25797.67887,-143.3204382
+Toyota,Corolla,2015,Gulf Arabic,Blue,Full,1.6,Gas,Automatic,90000,Tabouk,45000,FALSE,10,Standard,Medium,Medium,87469.7745,-42469.7745,-94.37727668
+BMW,The 6,2016,Saudi,Grey,Semi Full,3,Gas,Automatic,39000,Riyadh,190000,FALSE,9,Luxury,Large,Low,166766.5894,23233.41057,12.22811083
+Kia,Picanto,2015,Saudi,Another Color,Standard,1,Gas,Automatic,133000,Al-Medina,18500,FALSE,10,Budget,Small,High,27008.21005,-8508.210046,-45.99032457
+Honda,Odyssey,2016,Saudi,Black,Semi Full,3.5,Gas,Automatic,71000,Dammam,63000,FALSE,9,Standard,Large,Medium,84183.37524,-21183.37524,-33.62440514
+Honda,Civic,2018,Saudi,Another Color,Semi Full,1.6,Gas,Automatic,61000,Jeddah,45000,FALSE,7,Standard,Medium,Medium,52761.77696,-7761.776965,-17.24839326
+Nissan,Armada,2010,Saudi,Silver,Full,5.6,Gas,Automatic,133809,Dammam,60000,FALSE,15,Standard,Very Large,High,61226.54249,-1226.542494,-2.04423749
+Nissan,Sunny,2019,Saudi,White,Standard,1.5,Gas,Automatic,112963,Riyadh,27500,FALSE,6,Standard,Medium,High,26637.3734,862.6266015,3.136824006
+Honda,CRV,2014,Saudi,Red,Semi Full,2.4,Gas,Automatic,160000,Makkah,50000,FALSE,11,Standard,Medium,Very High,51866.39594,-1866.39594,-3.732791881
+GMC,Yukon,2015,Saudi,White,Standard,5.3,Gas,Automatic,82343,Riyadh,125000,FALSE,10,Standard,Very Large,Medium,130319.0795,-5319.079485,-4.255263588
+Nissan,Sunny,2018,Saudi,Silver,Standard,1.5,Gas,Automatic,106036,Riyadh,25900,FALSE,7,Standard,Medium,High,24733.85914,1166.140861,4.502474366
+Isuzu,D-MAX,2020,Saudi,White,Full,2.5,Diesel,Automatic,40000,Riyadh,120500,FALSE,5,Standard,Large,Low,109576.9142,10923.0858,9.064801495
+Toyota,Prado,2006,Saudi,White,Standard,2.5,Gas,Manual,300000,Aseer,40000,FALSE,19,Standard,Large,Very High,18357.5709,21642.4291,54.10607275
+Ford,Taurus,2019,Saudi,White,Standard,2,Gas,Automatic,85828,Riyadh,80500,FALSE,6,Standard,Medium,Medium,74852.4524,5647.547596,7.015587076
+Toyota,FJ,2008,Saudi,Black,Full,4,Gas,Automatic,390000,Riyadh,52000,FALSE,17,Standard,Very Large,Very High,42513.02268,9486.977318,18.24418715
+Toyota,Land Cruiser,2009,Saudi,White,Full,5.7,Gas,Automatic,470000,Qurayyat,76000,FALSE,16,Standard,Very Large,Very High,77590.39278,-1590.392781,-2.09262208
+Toyota,Avanza,2015,Saudi,White,Standard,2.4,Gas,Automatic,233000,Riyadh,28000,FALSE,10,Standard,Medium,Very High,50322.84379,-22322.84379,-79.7244421
+Nissan,Bus Urvan,2016,Saudi,White,Standard,2.5,Gas,Automatic,89000,Dammam,57000,FALSE,9,Standard,Large,Medium,55899.19744,1100.80256,1.931232562
+Toyota,Land Cruiser,1999,Other,Silver,Semi Full,4.6,Gas,Manual,175000,Riyadh,57000,FALSE,26,Standard,Very Large,Very High,29067.52285,27932.47715,49.00434588
+Toyota,Prado,2018,Gulf Arabic,White,Semi Full,4,Gas,Automatic,125000,Khobar,128000,FALSE,7,Standard,Very Large,High,133225.2636,-5225.263634,-4.082237214
+Ford,F150,2019,Saudi,Brown,Semi Full,5.4,Gas,Automatic,13000,Dammam,108000,FALSE,6,Standard,Very Large,Low,151746.7055,-43746.70546,-40.50620876
+Hyundai,Sonata,2019,Saudi,Another Color,Full,2.4,Gas,Automatic,33000,Dammam,85000,FALSE,6,Budget,Medium,Low,63875.06481,21124.93519,24.85286493
+Kia,Cerato,2016,Saudi,White,Semi Full,1.6,Gas,Automatic,150000,Jeddah,30000,FALSE,9,Budget,Medium,Very High,30045.39032,-45.39031692,-0.151301056
+Chevrolet,Malibu,2018,Saudi,Black,Semi Full,2.5,Gas,Automatic,56500,Qassim,68000,FALSE,7,Standard,Large,Medium,71873.82069,-3873.820689,-5.696795131
+GMC,Terrain,2015,Saudi,Silver,Semi Full,2.4,Gas,Automatic,125000,Riyadh,38000,FALSE,10,Standard,Medium,High,55390.91602,-17390.91602,-45.76556849
+Audi,A4,2009,Gulf Arabic,White,Full,1.8,Gas,Automatic,223000,Jeddah,27000,FALSE,16,Luxury,Medium,Very High,36419.79306,-9419.79306,-34.88812245
+Lexus,ES,2016,Saudi,Bronze,Semi Full,3.4,Gas,Automatic,154000,Dammam,88000,FALSE,9,Luxury,Large,Very High,92827.12843,-4827.128426,-5.485373212
+Toyota,Camry,2014,Gulf Arabic,White,Full,2,Gas,Automatic,120000,Dammam,45000,FALSE,11,Standard,Medium,High,59616.435,-14616.435,-32.48096667
+Chevrolet,Suburban,2015,Saudi,Bronze,Standard,5.3,Gas,Automatic,118000,Riyadh,91000,FALSE,10,Standard,Very Large,High,101887.0096,-10887.00955,-11.96374676
+Chevrolet,Suburban,2016,Saudi,White,Standard,5.3,Gas,Automatic,174000,Dammam,103000,FALSE,9,Standard,Very Large,Very High,99955.31132,3044.688677,2.956008424
+GAC,GS3,2021,Saudi,White,Full,1.3,Gas,Automatic,9000,Al-Ahsa,57000,FALSE,4,Standard,Small,Low,66926.80638,-9926.80638,-17.41544979
+Jeep,Grand Cherokee,2014,Saudi,Black,Full,5.7,Gas,Automatic,120000,Riyadh,85000,FALSE,11,Standard,Very Large,High,72571.88859,12428.11141,14.62130754
+BMW,X,2015,Saudi,White,Full,2,Gas,Automatic,92000,Jeddah,72000,FALSE,10,Luxury,Medium,Medium,118824.1219,-46824.12188,-65.03350262
+Nissan,Sunny,2019,Other,White,Semi Full,1.5,Gas,Automatic,46000,Jeddah,32000,FALSE,6,Standard,Medium,Low,34304.72838,-2304.728385,-7.202276203
+Ford,Expedition,2015,Saudi,White,Semi Full,5.4,Gas,Automatic,142000,Al-Ahsa,77000,FALSE,10,Standard,Very Large,High,72689.51384,4310.486161,5.598033975
+Hyundai,Sonata,2020,Other,White,Semi Full,2.4,Gas,Automatic,52000,Jeddah,1756,FALSE,5,Budget,Medium,Medium,57786.30155,-56030.30155,-3190.79166
+Chevrolet,Tahoe,2016,Saudi,Another Color,Standard,5.3,Gas,Automatic,217000,Abha,87000,FALSE,9,Standard,Very Large,Very High,108622.249,-21622.24898,-24.85315975
+Volkswagen,CC,2014,Saudi,Brown,Full,2,Gas,Automatic,163672,Riyadh,55000,FALSE,11,Standard,Medium,Very High,54516.5333,483.4666988,0.879030361
+Honda,Accord,2017,Saudi,Navy,Semi Full,2.4,Gas,Automatic,223000,Riyadh,75000,FALSE,8,Standard,Medium,Very High,56150.77781,18849.22219,25.13229625
+Mercedes,C,2016,Other,Grey,Full,2,Gas,Automatic,120000,Riyadh,114000,FALSE,9,Standard,Medium,High,115200.1674,-1200.167397,-1.052778418
+Land Rover,Range Rover,2016,Gulf Arabic,White,Full,5,Gas,Automatic,132000,Riyadh,235000,FALSE,9,Luxury,Very Large,High,233240.9635,1759.03646,0.748526153
+Honda,CRV,2010,Gulf Arabic,Silver,Full,2.7,Gas,Automatic,105000,Jeddah,35000,FALSE,15,Standard,Large,High,34667.87876,332.1212395,0.948917827
+Chevrolet,Suburban,2018,Gulf Arabic,Black,Full,5.3,Gas,Automatic,48000,Riyadh,163000,FALSE,7,Standard,Very Large,Low,150952.462,12047.53802,7.391127618
+Ford,Explorer,2015,Gulf Arabic,Black,Full,3.5,Gas,Automatic,105407,Riyadh,115000,FALSE,10,Standard,Large,High,92631.99167,22368.00833,19.45044202
+Kia,Sedona,2016,Other,Grey,Semi Full,3.2,Gas,Automatic,118000,Jeddah,65000,FALSE,9,Budget,Large,High,58843.08287,6156.917135,9.472180207
+MINI,Copper,2016,Gulf Arabic,Oily,Full,2,Gas,Automatic,107000,Dammam,80000,FALSE,9,Standard,Medium,High,85726.9382,-5726.938201,-7.158672751
+Chevrolet,Tahoe,2019,Saudi,Black,Semi Full,5.3,Gas,Automatic,10000,Riyadh,140000,FALSE,6,Standard,Very Large,Low,163432.8274,-23432.82744,-16.73773388
+Hyundai,Elantra,2017,Saudi,White,Semi Full,2,Gas,Automatic,237356,Riyadh,42000,FALSE,8,Budget,Medium,Very High,39299.58872,2700.41128,6.429550666
+Toyota,Yaris,2017,Saudi,Grey,Standard,1.3,Gas,Automatic,137200,Jeddah,32000,FALSE,8,Standard,Small,High,30490.48386,1509.516142,4.717237944
+Chevrolet,Tahoe,2003,Other,Another Color,Full,5.3,Gas,Automatic,488000,Jeddah,13000,FALSE,22,Standard,Very Large,Very High,23246.39048,-10246.39048,-78.81838829
+Chevrolet,Tahoe,2016,Saudi,Brown,Standard,5.3,Gas,Automatic,223000,Dammam,110000,FALSE,9,Standard,Very Large,Very High,103422.6724,6577.327568,5.979388698
+Volkswagen,Touareg,2012,Saudi,Another Color,Semi Full,4,Gas,Automatic,243000,Riyadh,50000,FALSE,13,Standard,Very Large,Very High,79470.37838,-29470.37838,-58.94075677
+Toyota,Camry,2016,Saudi,White,Semi Full,2.5,Gas,Automatic,238000,Jeddah,48500,FALSE,9,Standard,Large,Very High,46358.22362,2141.776381,4.416033775
+Hyundai,Sonata,2020,Saudi,Another Color,Semi Full,2.5,Gas,Automatic,22000,Riyadh,85000,FALSE,5,Budget,Large,Low,74871.96575,10128.03425,11.91533441
+Nissan,Pathfinder,2006,Saudi,Blue,Semi Full,4,Gas,Automatic,325000,Riyadh,15000,FALSE,19,Standard,Very Large,Very High,25849.40678,-10849.40678,-72.32937853
+Chevrolet,Tahoe,2017,Saudi,Another Color,Standard,5.3,Gas,Automatic,176000,Jeddah,115000,FALSE,8,Standard,Very Large,Very High,112580.4691,2419.530943,2.10393995
+Toyota,Innova,2015,Saudi,Grey,Standard,2.7,Gas,Automatic,122000,Al-Medina,43000,FALSE,10,Standard,Large,High,53819.1744,-10819.1744,-25.16087069
+Kia,Rio,2019,Saudi,Silver,Standard,1.4,Gas,Automatic,55000,Makkah,36000,FALSE,6,Budget,Small,Medium,34974.7155,1025.284504,2.848012511
+GMC,Yukon,2018,Saudi,Grey,Standard,5.3,Gas,Automatic,92736,Riyadh,146500,FALSE,7,Standard,Very Large,Medium,139728.0718,6771.928227,4.622476606
+GMC,Yukon,2014,Saudi,Black,Full,5.3,Gas,Automatic,242000,Dammam,73000,FALSE,11,Standard,Very Large,Very High,76263.11598,-3263.115976,-4.470021885
+Ford,Taurus,2017,Saudi,Grey,Standard,6,Gas,Automatic,75000,Dammam,65000,FALSE,8,Standard,Very Large,Medium,132738.1331,-67738.13314,-104.2125125
+Kia,Sportage,2019,Saudi,Red,Semi Full,1.6,Gas,Automatic,57000,Jeddah,75000,FALSE,6,Budget,Medium,Medium,44271.47845,30728.52155,40.97136206
+Toyota,Avalon,2016,Saudi,White,Semi Full,3.5,Gas,Automatic,86000,Jeddah,87000,FALSE,9,Standard,Large,Medium,81356.61541,5643.384591,6.486648955
+Mazda,CX9,2015,Saudi,Grey,Full,2.5,Gas,Automatic,62000,Qassim,76000,FALSE,10,Standard,Large,Medium,72737.77045,3262.229546,4.292407297
+Toyota,Yaris,2011,Saudi,Green,Standard,1.3,Gas,Automatic,300500,Abha,14000,FALSE,14,Standard,Small,Very High,31586.04996,-17586.04996,-125.6146426
+Honda,Accord,2016,Saudi,Brown,Full,1,Gas,Automatic,116000,Riyadh,62000,FALSE,9,Standard,Small,High,64881.63182,-2881.63182,-4.647793258
+Hyundai,Senta fe,2016,Other,Another Color,Standard,2,Diesel,Automatic,193000,Dammam,61000,FALSE,9,Budget,Medium,Very High,43998.07377,17001.92623,27.87201021
+Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,62500,Dammam,37000,FALSE,6,Budget,Small,Medium,37111.05981,-111.0598114,-0.300161652
+Chevrolet,Impala,2014,Saudi,White,Semi Full,3.6,Gas,Automatic,181000,Riyadh,60000,FALSE,11,Standard,Large,Very High,48541.54193,11458.45807,19.09743011
+Hyundai,Sonata,2011,Other,White,Full,2.5,Gas,Automatic,261240,Riyadh,27000,FALSE,14,Budget,Large,Very High,28377.41458,-1377.414585,-5.101535498
+Land Rover,Range Rover,2016,Gulf Arabic,Black,Full,5,Gas,Automatic,120346,Riyadh,257000,FALSE,9,Luxury,Very Large,High,241780.773,15219.227,5.921878211
+Hyundai,Sonata,2016,Gulf Arabic,White,Semi Full,2,Gas,Automatic,280000,Riyadh,34000,FALSE,9,Budget,Medium,Very High,49288.24915,-15288.24915,-44.96543869
+Mitsubishi,L200,2015,Saudi,White,Standard,2.5,Gas,Manual,103000,Jeddah,30000,FALSE,10,Standard,Large,High,46274.86034,-16274.86034,-54.24953446
+Toyota,Corolla,2018,Saudi,Silver,Standard,1.6,Gas,Automatic,90084,Riyadh,50000,FALSE,7,Standard,Medium,Medium,46973.26035,3026.73965,6.053479299
+Toyota,Corolla,2015,Saudi,Blue,Full,1.6,Gas,Automatic,90000,Tabouk,45000,FALSE,10,Standard,Medium,Medium,54454.66182,-9454.661817,-21.01035959
+Renault,Talisman,2017,Saudi,Grey,Standard,2,Gas,Automatic,80151,Riyadh,41500,FALSE,8,Standard,Medium,Medium,48888.69468,-7388.694675,-17.80408355
+Ford,Taurus,2019,Saudi,White,Standard,2,Gas,Automatic,82569,Riyadh,80500,FALSE,6,Standard,Medium,Medium,74962.4629,5537.537102,6.878928077
+Chevrolet,Suburban,2004,Saudi,Silver,Semi Full,5.3,Gas,Automatic,368000,Riyadh,16000,FALSE,21,Standard,Very Large,Very High,23121.19512,-7121.195122,-44.50746951
+Honda,Accord,2016,Gulf Arabic,Golden,Full,2.5,Gas,Automatic,66000,Riyadh,89000,FALSE,9,Standard,Large,Medium,78833.17713,10166.82287,11.42339648
+Nissan,VTC,2015,Saudi,White,Standard,4.8,Gas,Manual,340000,Al-Ahsa,49000,FALSE,10,Standard,Very Large,Very High,90368.75567,-41368.75567,-84.42603199
+Toyota,Corolla,2016,Saudi,White,Standard,1.6,Gas,Automatic,76294,Riyadh,45500,FALSE,9,Standard,Medium,Medium,39261.68188,6238.318119,13.71058927
+Porsche,Cayenne Turbo,2008,Other,Silver,Full,4.8,Gas,Automatic,152750,Riyadh,50000,FALSE,17,Luxury,Very Large,Very High,35107.58896,14892.41104,29.78482207
+Hyundai,Accent,2008,Saudi,White,Standard,1.6,Gas,Manual,250000,Qassim,4000,FALSE,17,Budget,Medium,Very High,14092.75947,-10092.75947,-252.3189867
+Toyota,FJ,2020,Saudi,Grey,Semi Full,4,Gas,Automatic,17000,Riyadh,140000,FALSE,5,Standard,Very Large,Low,139572.0819,427.9180831,0.305655774
+Hyundai,Elantra,2018,Saudi,White,Standard,2,Gas,Automatic,22640,Najran,1158,FALSE,7,Budget,Medium,Low,50911.68826,-49753.68826,-4296.518848
+GMC,Yukon,2016,Saudi,Golden,Semi Full,5.5,Gas,Automatic,145000,Al-Medina,100000,FALSE,9,Standard,Very Large,High,115935.1436,-15935.14363,-15.93514363
+Hyundai,Elantra,2015,Gulf Arabic,White,Full,2,Gas,Automatic,140,Riyadh,38000,FALSE,10,Budget,Medium,Low,49845.16346,-11845.16346,-31.17148279
+Hyundai,Accent,2018,Saudi,White,Standard,1.5,Gas,Automatic,90400,Dammam,32000,FALSE,7,Budget,Medium,Medium,33863.82242,-1863.822423,-5.824445073
+Chevrolet,Tahoe,2015,Saudi,Brown,Standard,5.3,Gas,Automatic,253000,Riyadh,99000,FALSE,10,Standard,Very Large,Very High,92016.05739,6983.942614,7.054487489
+Toyota,Corolla,2019,Saudi,Silver,Standard,1.6,Gas,Automatic,52443,Riyadh,56500,FALSE,6,Standard,Medium,Medium,50570.17765,5929.822345,10.49526079
+Suzuki,Jimny,2020,Saudi,White,Full,1.5,Gas,Automatic,12000,Dammam,175000,FALSE,5,Budget,Medium,Low,55349.22492,119650.7751,68.37187147
+Toyota,Hilux,2015,Saudi,White,Full,2.7,Gas,Manual,180,Jazan,50000,FALSE,10,Standard,Large,Low,60987.13297,-10987.13297,-21.97426594
+Suzuki,Ertiga,2015,Saudi,White,Semi Full,1.8,Gas,Automatic,168000,Al-Medina,22000,FALSE,10,Budget,Medium,Very High,40915.51975,-18915.51975,-85.97963522
+Hyundai,Accent,2018,Saudi,Grey,Standard,1.6,Gas,Automatic,114000,Qassim,37000,FALSE,7,Budget,Medium,High,36515.22547,484.7745315,1.310201437
+Chevrolet,Optra,2011,Saudi,White,Standard,1.6,Gas,Automatic,216000,Riyadh,9000,FALSE,14,Standard,Medium,Very High,15951.25649,-6951.256488,-77.2361832
+Mercedes,G,2015,Saudi,Black,Full,4,Gas,Automatic,188000,Dammam,270000,FALSE,10,Standard,Very Large,Very High,99640.54842,170359.4516,63.09609318
+HAVAL,H6,2021,Other,Another Color,Full,2,Gas,Automatic,1100,Riyadh,83000,FALSE,4,Standard,Medium,Low,88877.26783,-5877.267827,-7.081045575
+Toyota,Yaris,2017,Saudi,White,Standard,1.3,Gas,Automatic,127000,Jeddah,29000,FALSE,8,Standard,Small,High,30811.31451,-1811.314506,-6.245912091
+Mercedes,S,2008,Saudi,Black,Full,1,Gas,Automatic,190,Aseer,65000,FALSE,17,Standard,Small,Low,35759.89418,29240.10582,44.98477818
+Mercedes,E,2021,Other,White,Standard,2,Gas,Automatic,4000,Riyadh,259000,FALSE,4,Standard,Medium,Low,183867.8059,75132.19407,29.00856914
+Toyota,Prado,2018,Gulf Arabic,White,Semi Full,4,Gas,Automatic,80000,Dammam,142000,FALSE,7,Standard,Very Large,Medium,138639.3422,3360.657798,2.366660421
+Hyundai,Elantra,2015,Other,Blue,Standard,2,Gas,Automatic,300,Riyadh,25000,FALSE,10,Budget,Medium,Low,38783.87233,-13783.87233,-55.13548931
+Chevrolet,Tahoe,2016,Saudi,Another Color,Semi Full,5.3,Gas,Automatic,107320,Riyadh,130000,FALSE,9,Standard,Very Large,High,120479.3915,9520.608529,7.323545022
+Chevrolet,Tahoe,2020,Saudi,Grey,Semi Full,5.7,Gas,Automatic,99000,Dammam,145000,FALSE,5,Standard,Very Large,Medium,150428.7846,-5428.784644,-3.743989409
+Toyota,Yaris,2017,Saudi,White,Semi Full,1.5,Gas,Automatic,179,Qassim,35000,FALSE,8,Standard,Medium,Low,36869.51948,-1869.519485,-5.341484242
+GMC,Yukon,2009,Saudi,Golden,Standard,5.3,Gas,Automatic,395000,Riyadh,43000,FALSE,16,Standard,Very Large,Very High,35928.17074,7071.829257,16.44611455
+Hyundai,H1,2019,Saudi,Silver,Standard,2.4,Gas,Automatic,76000,Dammam,65000,FALSE,6,Budget,Medium,Medium,61638.98455,3361.015452,5.170793003
+Nissan,Sunny,2019,Saudi,Silver,Standard,1.5,Gas,Automatic,96341,Riyadh,26000,FALSE,6,Standard,Medium,Medium,26975.09704,-975.0970448,-3.750373249
+Toyota,Land Cruiser,2003,Other,Golden,Full,4.6,Gas,Automatic,225,Tabouk,35000,FALSE,22,Standard,Very Large,Low,49953.51353,-14953.51353,-42.72432437
+Nissan,Sunny,2019,Saudi,Silver,Standard,1.5,Gas,Automatic,123291,Riyadh,29500,FALSE,6,Standard,Medium,High,26919.39772,2580.602278,8.747804333
+Hyundai,Elantra,2016,Saudi,Grey,Standard,1.6,Gas,Automatic,141000,Dammam,36000,FALSE,9,Budget,Medium,High,35957.15412,42.84588029,0.119016334
+Toyota,Camry,2015,Saudi,White,Standard,2.5,Gas,Automatic,216902,Dammam,48000,FALSE,10,Standard,Large,Very High,46927.63772,1072.362276,2.234088075
+Nissan,Pathfinder,2014,Saudi,White,Standard,3.5,Gas,Automatic,187390,Riyadh,43500,FALSE,11,Standard,Large,Very High,50345.88493,-6845.884932,-15.73766651
+Mazda,3,2015,Saudi,Grey,Semi Full,2,Gas,Automatic,186,Jeddah,28000,FALSE,10,Standard,Medium,Low,54453.52467,-26453.52467,-94.47687384
+Kia,Sportage,2016,Other,Brown,Semi Full,1.7,Diesel,Automatic,90000,Qassim,59000,FALSE,9,Budget,Medium,Medium,55292.33023,3707.669775,6.284186059
+Chevrolet,Silverado,2017,Gulf Arabic,Silver,Full,5.3,Gas,Automatic,110000,Riyadh,107000,FALSE,8,Standard,Very Large,High,115688.116,-8688.11601,-8.119734588
+Kia,Rio,2011,Saudi,Black,Standard,1.4,Gas,Manual,218000,Jubail,11500,FALSE,14,Budget,Small,Very High,15614.17438,-4114.174382,-35.77542941
+HAVAL,H6,2020,Saudi,Black,Full,2,Gas,Automatic,16000,Riyadh,79000,FALSE,5,Standard,Medium,Low,77184.5256,1815.474403,2.298068864
+Mercedes,CLS,2007,Saudi,Black,Full,6.3,Gas,Automatic,178000,Dammam,33000,FALSE,18,Standard,Very Large,Very High,41454.10069,-8454.100693,-25.61848695
+Kia,Cadenza,2016,Saudi,White,Standard,3.3,Gas,Automatic,122000,Riyadh,50000,FALSE,9,Budget,Large,High,57343.30472,-7343.304716,-14.68660943
+Hyundai,Sonata,2020,Saudi,White,Semi Full,2.5,Gas,Automatic,46000,Tabouk,85000,FALSE,5,Budget,Large,Low,43979.73287,41020.26713,48.2591378
+Hyundai,Sonata,2019,Saudi,Grey,Semi Full,2.4,Gas,Automatic,78000,Riyadh,62000,FALSE,6,Budget,Medium,Medium,63879.41906,-1879.419065,-3.031321072
+Mazda,6,2019,Saudi,White,Semi Full,2.5,Gas,Automatic,92000,Qassim,70000,FALSE,6,Standard,Large,Medium,71724.14923,-1724.149227,-2.463070324
+Toyota,Land Cruiser,2012,Saudi,White,Full,4.6,Gas,Automatic,250000,Riyadh,85000,FALSE,13,Standard,Very Large,Very High,109409.713,-24409.71298,-28.71730938
+Lifan,LF X60,2016,Saudi,Red,Full,1.6,Gas,Automatic,128000,Jeddah,25000,FALSE,9,Standard,Medium,High,58945.1408,-33945.1408,-135.7805632
+Kia,Sorento,2017,Saudi,Another Color,Semi Full,3.5,Gas,Automatic,79260,Dammam,70000,FALSE,8,Budget,Large,Medium,69630.07392,369.9260759,0.528465823
+Toyota,FJ,2017,Saudi,White,Standard,4,Gas,Automatic,100329,Riyadh,121500,FALSE,8,Standard,Very Large,High,114414.4901,7085.509912,5.831695401
+Nissan,Patrol,2010,Saudi,Black,Full,5.6,Gas,Automatic,346000,Riyadh,70000,FALSE,15,Standard,Very Large,Very High,64531.66144,5468.338555,7.811912222
+Toyota,Avalon,2017,Saudi,White,Standard,1.2,Gas,Automatic,200000,Riyadh,80000,FALSE,8,Standard,Small,Very High,31301.47791,48698.52209,60.87315262
+Toyota,Hilux,2016,Gulf Arabic,White,Standard,2.7,Gas,Manual,97173,Dammam,64000,FALSE,9,Standard,Large,Medium,68639.64012,-4639.640122,-7.249437691
+Toyota,Corolla,2018,Saudi,Another Color,Standard,1.6,Gas,Automatic,138000,Jeddah,43000,FALSE,7,Standard,Medium,High,44023.97781,-1023.977811,-2.381343746
+Genesis,G80,2018,Saudi,Silver,Semi Full,3.8,Gas,Automatic,70000,Riyadh,110000,FALSE,7,Standard,Large,Medium,108679.8331,1320.166866,1.200151696
+Chevrolet,Suburban,1997,Other,Oily,Semi Full,6,Gas,Automatic,292764,Al-Medina,4000,FALSE,28,Standard,Very Large,Very High,45421.52237,-41421.52237,-1035.538059
+Ford,Edge,2011,Other,Black,Semi Full,3.5,Gas,Automatic,260,Jeddah,26000,FALSE,14,Standard,Large,Low,29904.24194,-3904.241937,-15.01631514
+Toyota,Furniture,2019,Saudi,White,Standard,2.7,Gas,Automatic,113000,Riyadh,105000,FALSE,6,Standard,Large,High,81515.60548,23484.39452,22.36609002
+Chevrolet,Camaro,2017,Other,Yellow,Full,3.6,Gas,Automatic,118000,Dammam,113000,FALSE,8,Standard,Large,High,96878.93872,16121.06128,14.26642591
+Toyota,Yaris,2018,Saudi,Red,Standard,1.5,Gas,Automatic,117313,Jeddah,32500,FALSE,7,Standard,Medium,High,32883.03703,-383.0370261,-1.178575465
+Toyota,FJ,2015,Saudi,White,Full,1,Gas,Automatic,190000,Riyadh,98000,FALSE,10,Standard,Small,Very High,72113.69783,25886.30217,26.41459405
+Toyota,Corolla,2017,Other,Black,Semi Full,1.6,Gas,Automatic,75000,Jeddah,55000,FALSE,8,Standard,Medium,Medium,48817.50651,6182.493489,11.24089725
+Kia,Sportage,2020,Saudi,Navy,Full,1.6,Gas,Automatic,7688,Riyadh,67000,FALSE,5,Budget,Medium,Low,54580.26759,12419.73241,18.53691405
+Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,62400,Dammam,40000,FALSE,6,Budget,Small,Medium,37134.82014,2865.179858,7.162949645
+GMC,Sierra,2015,Saudi,Silver,Standard,5.3,Gas,Automatic,77000,Dammam,105000,FALSE,10,Standard,Very Large,Medium,102663.4945,2336.505513,2.225243346
+Nissan,Maxima,2004,Saudi,Silver,Full,3,Gas,Automatic,230000,Riyadh,15000,FALSE,21,Standard,Large,Very High,27798.70068,-12798.70068,-85.32467121
+Chevrolet,Cruze,2013,Saudi,Brown,Standard,1.6,Gas,Automatic,181000,Makkah,10000,FALSE,12,Standard,Medium,Very High,22197.35215,-12197.35215,-121.9735215
+Ford,Vego,2017,Saudi,White,Full,1.4,Gas,Automatic,93000,Riyadh,26000,FALSE,8,Standard,Small,Medium,58567.48695,-32567.48695,-125.2595652
+Toyota,Avalon,2016,Other,Silver,Semi Full,3.5,Gas,Automatic,110000,Qassim,73000,FALSE,9,Standard,Large,High,78346.18452,-5346.184523,-7.323540442
+Toyota,Ciocca,2016,Saudi,Another Color,Standard,5.7,Gas,Automatic,348000,Riyadh,79000,FALSE,9,Standard,Very Large,Very High,85079.97188,-6079.97188,-7.696166937
+Toyota,Prado,2020,Saudi,White,Semi Full,2.7,Gas,Automatic,5000,Riyadh,153000,FALSE,5,Standard,Large,Low,94160.42397,58839.57603,38.45723924
+Toyota,Land Cruiser,2019,Saudi,White,Full,4.6,Gas,Automatic,60000,Riyadh,240000,FALSE,6,Standard,Very Large,Medium,246389.9322,-6389.932231,-2.662471763
+Ford,Expedition,2018,Saudi,Red,Full,3.5,Gas,Automatic,36000,Riyadh,155000,FALSE,7,Standard,Large,Low,130449.8516,24550.14841,15.83880542
+Mercedes,S,2007,Other,Bronze,Semi Full,3,Gas,Automatic,200000,Dammam,75000,FALSE,18,Standard,Large,Very High,27097.42497,47902.57503,63.87010005
+Dodge,Charger,2019,Gulf Arabic,White,Semi Full,3.6,Gas,Automatic,55000,Dammam,109000,FALSE,6,Standard,Large,Medium,94141.09938,14858.90062,13.63201892
+Honda,Accord,2019,Saudi,White,Semi Full,2,Gas,Automatic,18000,Jeddah,95000,FALSE,6,Standard,Medium,Low,97266.44981,-2266.449807,-2.385736639
+Lexus,IS,2017,Other,White,Full,3,Gas,Automatic,90000,Dammam,117000,FALSE,8,Luxury,Large,Medium,146283.4034,-29283.40344,-25.02854995
+Toyota,Hilux,2016,Saudi,White,Semi Full,2.7,Gas,Automatic,162500,Hail,84000,FALSE,9,Standard,Large,Very High,64342.41794,19657.58206,23.4018834
+Chevrolet,Tahoe,2012,Saudi,Brown,Semi Full,5.3,Gas,Automatic,300000,Dammam,48000,FALSE,13,Standard,Very Large,Very High,50376.74766,-2376.747665,-4.951557635
+Mitsubishi,Pajero,2018,Gulf Arabic,Golden,Semi Full,3.5,Gas,Automatic,108000,Riyadh,77000,FALSE,7,Standard,Large,High,83753.20241,-6753.202413,-8.770392745
+Changan,CS35,2021,Saudi,Blue,Full,1.6,Gas,Automatic,2400,Dammam,51000,FALSE,4,Standard,Medium,Low,60802.78838,-9802.78838,-19.22115369
+Chevrolet,Tahoe,2017,Saudi,Grey,Standard,5.3,Gas,Automatic,136517,Jeddah,107000,FALSE,8,Standard,Very Large,High,107529.6382,-529.6382041,-0.494988976
+Ford,Taurus,2017,Other,Grey,Semi Full,3.5,Gas,Automatic,131000,Dammam,67000,FALSE,8,Standard,Large,High,73049.16059,-6049.160587,-9.02859789
+Toyota,Hilux,2017,Saudi,White,Semi Full,2.7,Gas,Manual,210000,Hail,64000,FALSE,8,Standard,Large,Very High,68628.22396,-4628.223965,-7.231599945
+Suzuki,Jimny,2010,Saudi,White,Standard,1.3,Gas,Manual,93000,Riyadh,14000,FALSE,15,Budget,Small,Medium,27832.74356,-13832.74356,-98.80531112
+Toyota,Yaris,2016,Saudi,White,Standard,1.4,Gas,Automatic,128000,Dammam,25000,FALSE,9,Standard,Small,High,28631.44371,-3631.443714,-14.52577486
+Hyundai,Elantra,2018,Saudi,White,Standard,1.6,Gas,Automatic,120377,Riyadh,42000,FALSE,7,Budget,Medium,High,41838.70482,161.2951837,0.384036152
+Mitsubishi,Pajero,2018,Gulf Arabic,Silver,Full,3.5,Gas,Automatic,56525,Riyadh,78000,FALSE,7,Standard,Large,Medium,99015.72626,-21015.72626,-26.94323879
+Hyundai,Sonata,2018,Other,White,Full,2,Gas,Automatic,65239,Qassim,67000,FALSE,7,Budget,Medium,Medium,62413.64041,4586.359586,6.845312815
+Nissan,Sunny,2019,Saudi,Silver,Standard,1.5,Gas,Automatic,105509,Riyadh,26000,FALSE,6,Standard,Medium,High,26375.62108,-375.6210818,-1.444696468
+Hyundai,Sonata,2007,Other,Silver,Full,3.3,Gas,Automatic,196000,Al-Ahsa,16000,FALSE,18,Budget,Large,Very High,35031.73148,-19031.73148,-118.9483217
+Toyota,Ciocca,2013,Saudi,White,Standard,5.7,Gas,Automatic,114000,Al-Medina,89000,FALSE,12,Standard,Very Large,High,88419.97715,580.0228475,0.651711065
+Dodge,Nitro,2011,Saudi,White,Semi Full,3.7,Gas,Automatic,346410,Riyadh,15000,FALSE,14,Standard,Large,Very High,32294.42414,-17294.42414,-115.296161
+Toyota,Corolla,2015,Other,White,Full,2,Gas,Automatic,80000,Riyadh,39000,FALSE,10,Standard,Medium,Medium,67267.03505,-28267.03505,-72.47957706
+Hyundai,Elantra,2012,Saudi,Silver,Standard,1.8,Gas,Automatic,222000,Makkah,17500,FALSE,13,Budget,Medium,Very High,20040.97153,-2540.971533,-14.51983733
+Land Rover,Range Rover,2004,Saudi,Navy,Full,5.3,Gas,Automatic,300000,Makkah,22000,FALSE,21,Luxury,Very Large,Very High,24405.88619,-2405.886189,-10.93584631
+Jaguar,XJ,2016,Saudi,White,Full,3,Gas,Automatic,38000,Jeddah,155000,FALSE,9,Luxury,Large,Low,154025.7428,974.2571737,0.628553015
+BMW,The 7,2014,Saudi,Navy,Full,6,Gas,Automatic,182000,Jeddah,90000,FALSE,11,Luxury,Very Large,Very High,105917.5578,-15917.55776,-17.68617529
+Honda,HRV,2021,Saudi,Grey,Standard,1.8,Gas,Automatic,6018,Riyadh,62000,FALSE,4,Standard,Medium,Low,72947.51876,-10947.51876,-17.65728832
+Chevrolet,Suburban,2013,Saudi,Red,Semi Full,5.3,Gas,Automatic,112412,Riyadh,75000,FALSE,12,Standard,Very Large,High,66485.61052,8514.389478,11.3525193
+Ford,Expedition,2013,Saudi,Silver,Semi Full,5.6,Gas,Automatic,336000,Riyadh,50000,FALSE,12,Standard,Very Large,Very High,44654.7388,5345.261195,10.69052239
+Toyota,Yaris,2019,Saudi,White,Standard,1.5,Gas,Automatic,36000,Al-Ahsa,43000,FALSE,6,Standard,Medium,Low,39511.34619,3488.653806,8.113148387
+Kia,Carnival,2016,Saudi,White,Semi Full,3.3,Gas,Automatic,160000,Jeddah,60000,FALSE,9,Budget,Large,Very High,58019.02932,1980.970678,3.301617796
+Honda,Accord,2018,Gulf Arabic,White,Semi Full,1.5,Gas,Automatic,53146,Riyadh,91500,FALSE,7,Standard,Medium,Medium,55871.4431,35628.5569,38.93831356
+Toyota,Hilux,2017,Gulf Arabic,White,Semi Full,2.7,Gas,Manual,18000,Jeddah,77000,FALSE,8,Standard,Large,Low,84624.10445,-7624.104452,-9.901434353
+Hyundai,Accent,2017,Saudi,Grey,Standard,1.4,Gas,Automatic,200000,Dammam,30000,FALSE,8,Budget,Small,Very High,26839.58774,3160.412258,10.53470753
+Hyundai,Elantra,2019,Saudi,Navy,Semi Full,2,Gas,Automatic,55000,Jeddah,60000,FALSE,6,Budget,Medium,Medium,55870.99966,4129.000337,6.881667228
+Mercedes,C,2015,Gulf Arabic,White,Full,2,Gas,Automatic,54000,Riyadh,120000,FALSE,10,Standard,Medium,Medium,128815.2396,-8815.239626,-7.346033021
+Ford,Mustang,2010,Other,Grey,Full,4.6,Gas,Manual,170,Dammam,42000,FALSE,15,Standard,Very Large,Low,34066.53802,7933.461976,18.88919518
+Toyota,Hilux,2016,Saudi,White,Semi Full,1,Gas,Manual,121,Al-Medina,60500,FALSE,9,Standard,Small,Low,61288.20264,-788.2026394,-1.30281428
+Hyundai,Elantra,2018,Saudi,Silver,Semi Full,1.6,Gas,Automatic,86000,Al-Ahsa,49000,FALSE,7,Budget,Medium,Medium,50322.35078,-1322.350777,-2.698675055
+GMC,Sierra,2002,Gulf Arabic,White,Standard,1.4,Gas,Manual,252000,Makkah,12500,FALSE,23,Standard,Small,Very High,17679.36547,-5179.365475,-41.4349238
+Audi,A6,2015,Saudi,Silver,Full,3,Gas,Automatic,77000,Riyadh,75000,FALSE,10,Luxury,Large,Medium,117360.8232,-42360.82318,-56.48109757
+Toyota,Previa,2004,Other,Another Color,Semi Full,1,Gas,Automatic,300,Dammam,12000,FALSE,21,Standard,Small,Low,24264.48019,-12264.48019,-102.2040016
+Toyota,Yaris,2019,Saudi,Silver,Standard,1.5,Gas,Automatic,59000,Dammam,41000,FALSE,6,Standard,Medium,Medium,36588.29666,4411.703343,10.76025206
+Toyota,4Runner,2018,Saudi,White,Full,6.1,Gas,Automatic,115150,Jeddah,95000,FALSE,7,Standard,Very Large,High,137614.6838,-42614.68383,-44.85756193
+Fiat,500,2019,Saudi,Grey,Semi Full,1.4,Gas,Automatic,28000,Makkah,62000,FALSE,6,Standard,Small,Low,50235.54365,11764.45635,18.97492959
+Mazda,CX9,2020,Saudi,White,Full,2,Gas,Automatic,9500,Qassim,132000,FALSE,5,Standard,Medium,Low,105781.8801,26218.11986,19.86221202
+GMC,Acadia,2012,Gulf Arabic,White,Full,3.6,Gas,Automatic,220000,Riyadh,40000,FALSE,13,Standard,Large,Very High,33870.36556,6129.63444,15.3240861
+Mercedes,S,2014,Gulf Arabic,Blue,Full,5,Gas,Automatic,124000,Dammam,215000,FALSE,11,Standard,Very Large,High,177228.0187,37771.98128,17.56836339
+Toyota,Innova,2016,Saudi,Silver,Semi Full,2.7,Gas,Automatic,179600,Dammam,51000,FALSE,9,Standard,Large,Very High,60331.77346,-9331.773458,-18.29759502
+Land Rover,Range Rover,2016,Gulf Arabic,White,Full,5,Gas,Automatic,132501,Riyadh,245000,FALSE,9,Luxury,Very Large,High,233259.5518,11740.4482,4.792019672
+Changan,CS75,2020,Saudi,Black,Full,1.8,Gas,Automatic,11000,Dammam,70000,FALSE,5,Standard,Medium,Low,72108.31391,-2108.313907,-3.011877011
+Toyota,Land Cruiser,2019,Saudi,White,Full,5.7,Gas,Automatic,6000,Dammam,298000,FALSE,6,Standard,Very Large,Low,257682.4249,40317.57511,13.52938762
+Hyundai,Elantra,2018,Saudi,White,Full,2,Gas,Automatic,142,Jeddah,52000,FALSE,7,Budget,Medium,Low,47444.25387,4555.746135,8.761050259
+Mazda,6,2014,Gulf Arabic,White,Semi Full,2.5,Gas,Automatic,149000,Jeddah,45000,FALSE,11,Standard,Large,High,57291.12638,-12291.12638,-27.31361417
+Ford,Flex,2013,Saudi,Red,Standard,3.5,Gas,Automatic,204000,Jeddah,32000,FALSE,12,Standard,Large,Very High,36810.72172,-4810.721715,-15.03350536
+Chevrolet,Impala,2017,Saudi,Navy,Semi Full,3.6,Gas,Automatic,122102,Riyadh,53500,FALSE,8,Standard,Large,High,67121.09085,-13621.09085,-25.4599829
+Mercedes,C,2016,Other,Grey,Full,2,Gas,Automatic,186000,Makkah,108000,FALSE,9,Standard,Medium,Very High,100739.4286,7260.571353,6.722751253
+Toyota,Avalon,2008,Other,White,Full,3.6,Gas,Automatic,201,Al-Jouf,30000,FALSE,17,Standard,Large,Low,30098.94471,-98.94470849,-0.329815695
+Toyota,Camry,2005,Saudi,Blue,Full,1.6,Gas,Manual,360000,Najran,22000,FALSE,20,Standard,Medium,Very High,16336.99783,5663.002166,25.74091894
+Toyota,Furniture,2020,Saudi,White,Full,4,Gas,Automatic,18000,Riyadh,128000,FALSE,5,Standard,Very Large,Low,140583.6265,-12583.6265,-9.8309582
+Hyundai,Azera,2020,Other,Grey,Semi Full,3.5,Gas,Automatic,37000,Tabouk,1846,FALSE,5,Budget,Large,Low,73449.52817,-71603.52817,-3878.84768
+Chevrolet,Malibu,2015,Saudi,Red,Full,2.4,Gas,Automatic,175500,Khobar,32000,FALSE,10,Standard,Medium,Very High,34201.7051,-2201.705101,-6.880328441
+Hyundai,H1,2018,Saudi,Silver,Full,2.4,Gas,Automatic,74000,Dammam,77000,FALSE,7,Budget,Medium,Medium,61805.8705,15194.1295,19.73263571
+BMW,The 7,2009,Saudi,Black,Full,1,Gas,Automatic,327000,Jeddah,48000,FALSE,16,Luxury,Small,Very High,45514.67806,2485.321942,5.177754047
+GMC,Terrain,2014,Saudi,Black,Full,3.6,Gas,Automatic,112000,Dammam,47000,FALSE,11,Standard,Large,High,60492.36705,-13492.36705,-28.70716393
+BMW,X,2020,Other,Black,Standard,3,Gas,Automatic,15900,Riyadh,270000,FALSE,5,Luxury,Large,Low,237359.5746,32640.42536,12.08904643
+Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,31000,Dammam,35000,FALSE,7,Budget,Small,Low,35224.16312,-224.1631176,-0.64046605
+MG,5,2020,Saudi,White,Standard,1.5,Gas,Automatic,41000,Al-Ahsa,988,FALSE,5,Standard,Medium,Low,42457.55098,-41469.55098,-4197.322973
+Mercedes,GL,2013,Saudi,White,Full,5,Gas,Automatic,147000,Makkah,160000,FALSE,12,Standard,Very Large,High,93786.73169,66213.26831,41.38329269
+Isuzu,Dyna,2014,Gulf Arabic,White,Full,6,Diesel,Manual,460000,Qassim,120000,FALSE,11,Standard,Very Large,Very High,59760.07268,60239.92732,50.19993943
+Mercedes,E,2016,Gulf Arabic,White,Full,3,Gas,Automatic,121929,Riyadh,128500,FALSE,9,Standard,Large,High,115913.154,12586.84602,9.795210914
+Toyota,Innova,2016,Saudi,White,Semi Full,2.7,Gas,Automatic,330,Hafar Al-Batin,46000,FALSE,9,Standard,Large,Low,64005.34428,-18005.34428,-39.14205278
+Cadillac,Escalade,2016,Other,White,Full,6.2,Gas,Automatic,119000,Dammam,178000,FALSE,9,Luxury,Very Large,High,176317.7032,1682.296802,0.945110563
+Toyota,Camry,2011,Saudi,Silver,Semi Full,2.4,Gas,Manual,85000,Aseer,52000,FALSE,14,Standard,Medium,Medium,32662.53055,19337.46945,37.18744124
+Hyundai,Accent,2014,Saudi,Black,Standard,1.4,Gas,Automatic,101231,Riyadh,21500,FALSE,11,Budget,Small,High,24179.54484,-2679.544843,-12.46299927
+Toyota,Rav4,2018,Saudi,White,Standard,2.5,Gas,Automatic,134000,Dammam,66000,FALSE,7,Standard,Large,High,73318.12905,-7318.129053,-11.08807432
+Hyundai,Sonata,2019,Saudi,Grey,Semi Full,2.4,Gas,Automatic,100000,Riyadh,50000,FALSE,6,Budget,Medium,High,56101.5129,-6101.512899,-12.2030258
+Jeep,Grand Cherokee,2011,Other,Golden,Full,5.7,Gas,Automatic,266000,Al-Ahsa,36000,FALSE,14,Standard,Very Large,Very High,52302.69931,-16302.69931,-45.28527587
+Ford,Explorer,2013,Saudi,Black,Full,3.5,Gas,Automatic,14606,Riyadh,83500,FALSE,12,Standard,Large,Low,56172.42364,27327.57636,32.72763636
+Toyota,Land Cruiser,2014,Gulf Arabic,Another Color,Semi Full,4.6,Gas,Automatic,106000,Riyadh,129000,FALSE,11,Standard,Very Large,High,145407.7868,-16407.78682,-12.71921459
+GMC,Sierra,2015,Saudi,Black,Full,5.3,Gas,Automatic,86500,Riyadh,98000,FALSE,10,Standard,Very Large,Medium,110337.3014,-12337.30141,-12.58908308
+Toyota,Camry,2017,Saudi,White,Standard,2.5,Gas,Automatic,126000,Dammam,63000,FALSE,8,Standard,Large,High,60724.51534,2275.484663,3.611880417
+Hyundai,Sonata,2018,Saudi,White,Semi Full,2.5,Gas,Automatic,90000,Jeddah,55000,FALSE,7,Budget,Large,Medium,58555.28105,-3555.281048,-6.46414736
+GMC,Yukon,2016,Gulf Arabic,White,Semi Full,5.3,Gas,Automatic,63000,Riyadh,140000,FALSE,9,Standard,Very Large,Medium,143482.5694,-3482.569386,-2.487549561
+BMW,X,2012,Other,Grey,Full,3,Gas,Automatic,294000,Jeddah,45000,FALSE,13,Luxury,Large,Very High,57010.29117,-12010.29117,-26.68953593
+Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,127000,Jeddah,33000,FALSE,7,Budget,Small,High,31240.99408,1759.005921,5.330320972
+Mercedes,C,2015,Gulf Arabic,Black,Semi Full,2,Gas,Automatic,85000,Qassim,119000,FALSE,10,Standard,Medium,Medium,99016.59199,19983.40801,16.79277984
+Bentley,Flying Spur,2011,Saudi,Navy,Full,6,Gas,Automatic,183000,Jeddah,100000,FALSE,14,Luxury,Very Large,Very High,73981.5509,26018.4491,26.0184491
+Ford,Fusion,2016,Saudi,Another Color,Standard,2.5,Gas,Automatic,107590,Riyadh,54500,FALSE,9,Standard,Large,High,67344.88358,-12844.88358,-23.56859373
+Lexus,ES,2017,Other,Golden,Full,3.5,Gas,Automatic,34593,Riyadh,148000,FALSE,8,Luxury,Large,Low,153796.4137,-5796.413681,-3.916495731
+Toyota,Corolla,2018,Saudi,Silver,Standard,1.6,Gas,Automatic,90000,Riyadh,48500,FALSE,7,Standard,Medium,Medium,46973.26035,1526.73965,3.147916803
+Porsche,Panamera,2011,Saudi,Silver,Full,3,Gas,Automatic,141000,Dammam,85000,FALSE,14,Luxury,Large,High,84749.9598,250.0402039,0.294164946
+MG,6,2020,Saudi,White,Full,2,Gas,Automatic,29814,Riyadh,61500,FALSE,5,Standard,Medium,Low,80360.75608,-18860.75608,-30.66789606
+Toyota,Hilux,2016,Saudi,White,Semi Full,2.7,Gas,Manual,156495,Riyadh,62500,FALSE,9,Standard,Large,Very High,65418.63092,-2918.630923,-4.669809477
+Hyundai,Accent,2017,Saudi,White,Standard,1.6,Gas,Automatic,112000,Dammam,32000,FALSE,8,Budget,Medium,High,31002.06619,997.9338149,3.118543172
+Renault,Fluence,2015,Saudi,White,Semi Full,1.6,Gas,Automatic,132000,Riyadh,23000,FALSE,10,Standard,Medium,High,25371.51999,-2371.51999,-10.31095648
+Nissan,Altima,2017,Saudi,Another Color,Standard,2.5,Gas,Automatic,105000,Riyadh,35000,FALSE,8,Standard,Large,High,53277.33141,-18277.33141,-52.22094687
+Ford,Taurus,2018,Saudi,Another Color,Standard,3.5,Gas,Automatic,63000,Jeddah,80000,FALSE,7,Standard,Large,Medium,78823.84555,1176.154448,1.47019306
+Honda,Accord,2018,Saudi,White,Semi Full,1.5,Gas,Automatic,140000,Khobar,85000,FALSE,7,Standard,Medium,High,41338.5969,43661.4031,51.36635659
+GMC,Yukon,2016,Gulf Arabic,Black,Semi Full,5.2,Gas,Automatic,104000,Riyadh,124000,FALSE,9,Standard,Very Large,High,134805.2915,-10805.29154,-8.713944792
+Kia,Sportage,2016,Saudi,Black,Full,2.4,Gas,Automatic,190000,Riyadh,62000,FALSE,9,Budget,Medium,Very High,53101.55049,8898.449512,14.35233792
+Mitsubishi,Pajero,2017,Saudi,White,Full,3.5,Gas,Automatic,136000,Dammam,67000,FALSE,8,Standard,Large,High,70613.11612,-3613.116119,-5.392710625
+GMC,Yukon,2020,Other,Black,Full,5.3,Gas,Automatic,63860,Jeddah,175000,FALSE,5,Standard,Very Large,Medium,134861.158,40138.84202,22.93648115
+Lexus,GS,2014,Saudi,Another Color,Full,3.5,Gas,Automatic,124000,Riyadh,136000,FALSE,11,Luxury,Large,High,98212.92973,37787.07027,27.78461049
+Volkswagen,Tiguan,2012,Unknown,Navy,Full,2,Gas,Automatic,170000,Jeddah,21000,FALSE,13,Standard,Medium,Very High,44223.05383,-23223.05383,-110.5859706
+Toyota,Land Cruiser,1997,Gulf Arabic,White,Full,4.6,Gas,Manual,344627,Makkah,45000,FALSE,28,Standard,Very Large,Very High,36713.72987,8286.270125,18.41393361
+Nissan,Navara,2013,Saudi,White,Semi Full,2.7,Gas,Automatic,189,Riyadh,35000,FALSE,12,Standard,Large,Low,47518.50132,-12518.50132,-35.76714664
+Ford,Expedition,2014,Saudi,White,Standard,5.4,Gas,Automatic,97000,Riyadh,55000,FALSE,11,Standard,Very Large,Medium,68745.49015,-13745.49015,-24.99180028
+Nissan,Patrol,1978,Saudi,White,Standard,4,Gas,Manual,30000,Abha,28000,FALSE,47,Standard,Very Large,Low,32542.23173,-4542.231733,-16.22225619
+Lexus,RX,2013,Gulf Arabic,White,Full,3.5,Gas,Automatic,190000,Riyadh,85000,FALSE,12,Luxury,Large,Very High,95304.8352,-10304.8352,-12.12333553
+Ford,Edge,2017,Gulf Arabic,White,Full,1.7,Gas,Automatic,60000,Al-Ahsa,105000,FALSE,8,Standard,Medium,Medium,76442.6073,28557.3927,27.19751686
+Mazda,6,2018,Saudi,White,Standard,2.5,Gas,Automatic,71169,Dammam,65000,FALSE,7,Standard,Large,Medium,63261.2554,1738.7446,2.674991692
+BMW,The 7,2012,Gulf Arabic,White,Standard,2,Gas,Automatic,224000,Riyadh,45000,FALSE,13,Luxury,Medium,Very High,50551.58872,-5551.588719,-12.33686382
+Kia,Sportage,2019,Saudi,Blue,Standard,1.6,Gas,Automatic,69358,Riyadh,60500,FALSE,6,Budget,Medium,Medium,56260.56003,4239.439968,7.007338789
+Toyota,Land Cruiser,2013,Saudi,White,Full,4.6,Gas,Automatic,275000,Riyadh,125000,FALSE,12,Standard,Very Large,Very High,119898.9823,5101.01769,4.080814152
+Toyota,Yaris,2015,Saudi,Silver,Standard,1.5,Gas,Automatic,193265,Dammam,26500,FALSE,10,Standard,Medium,Very High,23958.29554,2541.704461,9.59133759
+Toyota,Aurion,2015,Saudi,Red,Full,3.5,Gas,Automatic,240000,Jeddah,55000,FALSE,10,Standard,Large,Very High,77820.34301,-22820.34301,-41.49153275
+Audi,Q5,2018,Saudi,Another Color,Semi Full,2,Gas,Automatic,17859,Jeddah,141000,FALSE,7,Luxury,Medium,Low,158902.4605,-17902.4605,-12.6967805
+Kia,Cerato,2018,Gulf Arabic,White,Standard,1.6,Gas,Automatic,215000,Al-Medina,30000,FALSE,7,Budget,Medium,Very High,29509.24059,490.7594131,1.63586471
+Nissan,Patrol,2016,Saudi,Grey,Semi Full,4,Gas,Automatic,205,Riyadh,120000,FALSE,9,Standard,Very Large,Low,108828.3961,11171.60391,9.309669924
+Lincoln,Navigator,2008,Gulf Arabic,White,Full,5.7,Gas,Automatic,532000,Khobar,35000,FALSE,17,Standard,Very Large,Very High,72876.29945,-37876.29945,-108.2179984
+Chevrolet,Caprice,2013,Saudi,Silver,Standard,6,Gas,Automatic,74522,Riyadh,79500,FALSE,12,Standard,Very Large,Medium,79453.78871,46.21129292,0.058127412
+Toyota,Avalon,2014,Saudi,Black,Full,3.8,Gas,Automatic,156000,Al-Medina,73000,FALSE,11,Standard,Large,Very High,75468.58389,-2468.583889,-3.381621766
+Mazda,CX5,2020,Saudi,Red,Standard,2.5,Gas,Automatic,25000,Jeddah,84000,FALSE,5,Standard,Large,Low,88548.57589,-4548.575887,-5.414971294
+Toyota,Camry,2017,Saudi,White,Semi Full,2.5,Gas,Automatic,125000,Dammam,53000,FALSE,8,Standard,Large,High,59652.28421,-6652.284206,-12.55147963
+Land Rover,Range Rover,2006,Saudi,White,Full,5,Gas,Automatic,220000,Dammam,30000,FALSE,19,Luxury,Very Large,Very High,35078.91737,-5078.917366,-16.92972455
+Mazda,6,2019,Saudi,Grey,Standard,2.5,Gas,Automatic,64970,Riyadh,69500,FALSE,6,Standard,Large,Medium,67570.95224,1929.047763,2.775608292
+Toyota,Hilux,2015,Saudi,White,Standard,2.7,Gas,Manual,300000,Riyadh,75000,FALSE,10,Standard,Large,Very High,53204.074,21795.926,29.06123466
+GMC,Yukon,2017,Saudi,Golden,Standard,5.3,Gas,Automatic,175000,Riyadh,120000,FALSE,8,Standard,Very Large,Very High,125594.997,-5594.997031,-4.662497526
+Toyota,Land Cruiser,2018,Gulf Arabic,Black,Full,5.7,Gas,Automatic,42000,Riyadh,241000,FALSE,7,Standard,Very Large,Low,252995.3549,-11995.35489,-4.97732568
+Nissan,Sunny,2019,Saudi,Brown,Standard,1.5,Gas,Automatic,60700,Dammam,33000,FALSE,6,Standard,Medium,Medium,31769.27338,1230.726623,3.729474617
+GMC,Yukon,2019,Saudi,Another Color,Standard,5.3,Gas,Automatic,83000,Jeddah,165000,FALSE,6,Standard,Very Large,Medium,102655.4102,62344.58984,37.7845999
+Nissan,Sunny,2019,Saudi,Silver,Standard,1.5,Gas,Automatic,88795,Riyadh,26500,FALSE,6,Standard,Medium,Medium,27200.18872,-700.1887246,-2.642221602
+Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,33487,Riyadh,40500,FALSE,6,Budget,Small,Low,39503.07399,996.9260117,2.461545708
+Lexus,ES,2021,Saudi,Another Color,Standard,2.5,Gas,Automatic,6000,Dammam,175000,FALSE,4,Luxury,Large,Low,175567.0212,-567.021199,-0.324012114
+Hyundai,Elantra,2019,Saudi,Silver,Standard,1.6,Gas,Automatic,103358,Riyadh,48500,FALSE,6,Budget,Medium,High,46214.78593,2285.214071,4.711781589
+Land Rover,Range Rover,2009,Saudi,Blue,Full,5,Gas,Automatic,214000,Al-Medina,85000,FALSE,16,Luxury,Very Large,Very High,48583.06195,36416.93805,42.84345653
+Toyota,Yaris,2019,Saudi,White,Standard,1.5,Gas,Automatic,112000,Dammam,39500,FALSE,6,Standard,Medium,High,32135.82956,7364.170444,18.64346948
+Hyundai,Accent,2019,Saudi,Silver,Standard,1.4,Gas,Automatic,84273,Riyadh,38500,FALSE,6,Budget,Small,Medium,38491.76148,8.238516534,0.021398744
+Lexus,ES,2008,Saudi,White,Full,3.5,Gas,Automatic,390000,Dammam,36000,FALSE,17,Luxury,Large,Very High,28580.20049,7419.79951,20.6105542
+Kia,Cerato,2016,Saudi,White,Standard,1.6,Gas,Automatic,50000,Riyadh,29000,FALSE,9,Budget,Medium,Medium,30274.69131,-1274.691315,-4.395487292
+Toyota,Hiace,2018,Saudi,White,Standard,2.7,Gas,Manual,108000,Riyadh,110000,FALSE,7,Standard,Large,High,74901.70891,35098.29109,31.90753735
+Jeep,Wrangler,2018,Gulf Arabic,Orange,Standard,3.6,Gas,Manual,40000,Riyadh,115000,FALSE,7,Standard,Large,Low,115794.6235,-794.6235412,-0.690976992
+Toyota,Prado,2005,Gulf Arabic,White,Semi Full,2.7,Gas,Manual,315,Makkah,30000,FALSE,20,Standard,Large,Low,21762.7018,8237.298198,27.45766066
+GMC,Yukon,2017,Saudi,Black,Standard,4,Gas,Automatic,107,Riyadh,125000,FALSE,8,Standard,Very Large,Low,121394.4689,3605.531144,2.884424915
+Chrysler,S300,2015,Other,White,Semi Full,3.6,Gas,Automatic,106000,Jeddah,75000,FALSE,10,Standard,Large,High,73438.34733,1561.65267,2.08220356
+Lexus,ES,2017,Other,White,Full,3.5,Gas,Automatic,69000,Dammam,142000,FALSE,8,Luxury,Large,Medium,146308.342,-4308.341999,-3.034043661
+Toyota,Land Cruiser Pickup,2016,Gulf Arabic,Another Color,Full,4,Gas,Manual,243038,Riyadh,93500,FALSE,9,Standard,Very Large,Very High,98502.58058,-5002.580579,-5.35035356
+Mitsubishi,Pajero,2012,Saudi,White,Standard,3.8,Gas,Automatic,91782,Riyadh,41500,FALSE,13,Standard,Large,Medium,42544.64502,-1044.645018,-2.517216912
+Hyundai,Elantra,2019,Saudi,Grey,Semi Full,2,Gas,Automatic,35000,Jeddah,63500,FALSE,6,Budget,Medium,Low,58274.90653,5225.093471,8.228493655
+Chevrolet,Caprice,2013,Saudi,Grey,Standard,6,Gas,Automatic,130000,Riyadh,75000,FALSE,12,Standard,Very Large,High,70052.10578,4947.894219,6.597192291
+Toyota,Prado,2021,Saudi,White,Semi Full,4,Gas,Automatic,3000,Dammam,174000,FALSE,4,Standard,Very Large,Low,175259.5521,-1259.552127,-0.723880533
+Nissan,Patrol,2020,Saudi,Grey,Full,4,Gas,Automatic,26000,Riyadh,235000,FALSE,5,Standard,Very Large,Low,182351.7145,52648.28546,22.40352573
+Suzuki,Jimny,2013,Saudi,White,Standard,1.3,Gas,Manual,35700,Riyadh,16000,FALSE,12,Budget,Small,Low,33866.62527,-17866.62527,-111.666408
+Bentley,Flying Spur,2010,Saudi,Another Color,Full,5,Gas,Automatic,58000,Dammam,175000,FALSE,15,Luxury,Very Large,Medium,73783.46838,101216.5316,57.83801807
+Hyundai,Senta fe,2015,Saudi,White,Semi Full,3.3,Gas,Automatic,122,Jazan,45000,FALSE,10,Budget,Large,Low,44367.94625,632.0537538,1.404563897
+Nissan,Patrol,2019,Saudi,Black,Full,4,Gas,Automatic,42527,Riyadh,170000,FALSE,6,Standard,Very Large,Low,187327.6457,-17327.64568,-10.19273275
+Toyota,Hilux,2015,Saudi,White,Full,2.7,Gas,Manual,374000,Hail,72000,FALSE,10,Standard,Large,Very High,63085.27319,8914.726809,12.38156501
+Cadillac,Escalade,2019,Saudi,Grey,Full,6.2,Gas,Automatic,58678,Riyadh,261500,FALSE,6,Luxury,Very Large,Medium,205849.1949,55650.80509,21.28137862
+BMW,The 7,2015,Saudi,Another Color,Full,3.5,Gas,Automatic,110000,Jeddah,105000,FALSE,10,Luxury,Large,High,120905.7247,-15905.72473,-15.14830926
+Toyota,Corolla,2013,Saudi,White,Standard,2,Gas,Automatic,183000,Qassim,30000,FALSE,12,Standard,Medium,Very High,32383.80583,-2383.805829,-7.94601943
+Toyota,Land Cruiser 70,2012,Gulf Arabic,Brown,Semi Full,4,Gas,Manual,286000,Tabouk,66000,FALSE,13,Standard,Very Large,Very High,77577.55055,-11577.55055,-17.54174325
+Chevrolet,Silverado,2016,Saudi,Silver,Semi Full,5.3,Gas,Automatic,179000,Hail,95000,FALSE,9,Standard,Very Large,Very High,92416.24557,2583.754433,2.719741508
+Toyota,Hilux,2018,Saudi,White,Semi Full,2.7,Gas,Manual,20000,Aseer,115000,FALSE,7,Standard,Large,Low,77832.59416,37167.40584,32.31948334
+Toyota,Camry,2018,Gulf Arabic,White,Full,2.5,Gas,Automatic,42000,Riyadh,95000,FALSE,7,Standard,Large,Low,84033.57256,10966.42744,11.54360783
+Kia,Mohave,2014,Saudi,White,Full,3.8,Gas,Automatic,200350,Al-Ahsa,40000,FALSE,11,Budget,Large,Very High,49150.57911,-9150.579108,-22.87644777
+Hyundai,Accent,2017,Saudi,White,Standard,1.4,Gas,Automatic,135000,Jeddah,27500,FALSE,8,Budget,Small,High,27811.99041,-311.9904128,-1.134510592
+Hyundai,Senta fe,2013,Saudi,Another Color,Semi Full,3.3,Gas,Automatic,205000,Riyadh,48000,FALSE,12,Budget,Large,Very High,41912.63867,6087.36133,12.68200277
+Nissan,Navara,2014,Saudi,White,Semi Full,2.5,Gas,Automatic,178754,Riyadh,45000,FALSE,11,Standard,Large,Very High,40254.07202,4745.927975,10.54650661
+Lexus,LX,2012,Saudi,Another Color,Full,5.7,Gas,Automatic,346000,Riyadh,125000,FALSE,13,Luxury,Very Large,Very High,128732.0251,-3732.02513,-2.985620104
+Mazda,6,2014,Other,Black,Full,2.5,Gas,Manual,201000,Riyadh,42000,FALSE,11,Standard,Large,Very High,57471.71714,-15471.71714,-36.83742177
+Honda,Accord,2016,Gulf Arabic,Grey,Semi Full,2.4,Gas,Automatic,106000,Riyadh,66000,FALSE,9,Standard,Medium,High,68111.69316,-2111.693162,-3.199535093
+Chevrolet,Traverse,2016,Other,White,Full,3.5,Gas,Automatic,154000,Dammam,85000,FALSE,9,Standard,Large,Very High,76462.96515,8537.034851,10.04357041
+Geely,GS,2020,Saudi,Golden,Semi Full,1.8,Gas,Automatic,8400,Riyadh,58500,FALSE,5,Budget,Medium,Low,50436.18099,8063.819012,13.784306
+GMC,Suburban,2005,Saudi,Silver,Semi Full,5.3,Gas,Automatic,400000,Riyadh,25000,FALSE,20,Standard,Very Large,Very High,24836.44552,163.5544842,0.654217937
+Nissan,Altima,2006,Saudi,Bronze,Semi Full,2.5,Gas,Automatic,392000,Riyadh,12000,FALSE,19,Standard,Large,Very High,14622.60204,-2622.60204,-21.855017
+Daihatsu,Delta,2013,Saudi,White,Standard,3.7,Gas,Manual,157000,Jeddah,32000,FALSE,12,Budget,Large,Very High,42286.59211,-10286.59211,-32.14560034
+Nissan,Sentra,2016,Saudi,White,Standard,1.6,Gas,Automatic,139000,Riyadh,36000,FALSE,9,Standard,Medium,High,31144.08572,4855.914283,13.48865079
+Genesis,G80,2017,Saudi,White,Full,3.8,Gas,Automatic,158000,Qassim,95000,FALSE,8,Standard,Large,Very High,87620.11432,7379.885682,7.768300718
+GMC,Suburban,2005,Saudi,Another Color,Semi Full,5.3,Gas,Automatic,420000,Dammam,25000,FALSE,20,Standard,Very Large,Very High,25065.02329,-65.023289,-0.260093156
+Ford,Taurus,2018,Saudi,White,Standard,2,Gas,Automatic,82000,Riyadh,77000,FALSE,7,Standard,Medium,Medium,71964.74776,5035.25224,6.539288624
+Hyundai,Elantra,2006,Other,Golden,Standard,1,Gas,Manual,2500,Jeddah,9500,FALSE,19,Budget,Small,Low,11825.67591,-2325.675911,-24.48079906
+Ford,Taurus,2016,Other,White,Full,3.5,Gas,Automatic,148000,Al-Ahsa,77000,FALSE,9,Standard,Large,High,74938.17269,2061.82731,2.677697805
+Chevrolet,Tahoe,2016,Saudi,Another Color,Semi Full,5.3,Gas,Automatic,168000,Riyadh,114500,FALSE,9,Standard,Very Large,Very High,114893.0206,-393.0205569,-0.343249395
+Ford,Taurus,2019,Saudi,White,Standard,2,Gas,Automatic,60000,Dammam,78000,FALSE,6,Standard,Medium,Medium,78131.93069,-131.9306878,-0.169141907
+Mercedes,C,2016,Other,Navy,Full,2.2,Gas,Automatic,95000,Jeddah,127000,FALSE,9,Standard,Medium,Medium,115747.6372,11252.36276,8.860128159
+Toyota,Hilux,2018,Saudi,White,Standard,2.7,Gas,Manual,59000,Jeddah,66000,FALSE,7,Standard,Large,Medium,75126.07582,-9126.075819,-13.8273876
+Hyundai,Senta fe,2014,Saudi,Black,Full,3.3,Gas,Automatic,150,Jeddah,50000,FALSE,11,Budget,Large,Low,53004.91086,-3004.910865,-6.009821729
+Toyota,Aurion,2009,Saudi,Black,Full,3.5,Gas,Automatic,373000,Riyadh,33500,FALSE,16,Standard,Large,Very High,31804.02723,1695.972773,5.062605293
+Chevrolet,Impala,2018,Saudi,Silver,Standard,3.6,Gas,Automatic,63118,Riyadh,73500,FALSE,7,Standard,Large,Medium,78962.35077,-5462.350772,-7.431769758
+Honda,Accord,2016,Gulf Arabic,White,Full,1.6,Gas,Automatic,81000,Al-Ahsa,63000,FALSE,9,Standard,Medium,Medium,68982.46152,-5982.461522,-9.495970669
+Mazda,CX9,2020,Saudi,Brown,Full,3.5,Gas,Automatic,25182,Riyadh,120000,FALSE,5,Standard,Large,Low,159008.1098,-39008.1098,-32.50675817
+Hyundai,Elantra,2019,Saudi,White,Standard,1.6,Gas,Automatic,102000,Dammam,48000,FALSE,6,Budget,Medium,High,47614.42384,385.5761624,0.803283672
+Toyota,Corolla,2016,Saudi,White,Standard,1.6,Gas,Automatic,142478,Riyadh,44500,FALSE,9,Standard,Medium,High,34441.31215,10058.68785,22.60379291
+Mazda,CX5,2021,Saudi,Grey,Full,2.5,Gas,Automatic,845,Khobar,129000,FALSE,4,Standard,Large,Low,110884.2275,18115.77252,14.04323451
+Ford,Expedition,2016,Saudi,White,Full,3.5,Gas,Automatic,104000,Dammam,95000,FALSE,9,Standard,Large,High,86232.43505,8767.564945,9.229015732
+Ford,Taurus,2011,Saudi,Black,Semi Full,3.5,Gas,Automatic,230,Riyadh,35000,FALSE,14,Standard,Large,Low,37712.55765,-2712.557653,-7.750164722
+Hyundai,Accent,2016,Saudi,White,Standard,1.4,Gas,Automatic,178000,Dammam,25000,FALSE,9,Budget,Small,Very High,25691.01468,-691.0146756,-2.764058702
+Ford,Fusion,2014,Saudi,Blue,Standard,1.6,Gas,Automatic,167000,Jeddah,35000,FALSE,11,Standard,Medium,Very High,28870.47706,6129.522943,17.51292269
+Mercedes,C,2017,Other,Silver,Full,2,Gas,Automatic,96000,Dammam,170000,FALSE,8,Standard,Medium,Medium,147809.1426,22190.85738,13.05344552
+Chevrolet,Tahoe,2008,Saudi,Black,Semi Full,5.7,Gas,Automatic,230000,Riyadh,38000,FALSE,17,Standard,Very Large,Very High,42561.98916,-4561.989156,-12.00523462
+Mitsubishi,Attrage,2018,Saudi,White,Standard,1.2,Gas,Automatic,102000,Dammam,24500,FALSE,7,Standard,Small,High,28922.72057,-4422.720572,-18.0519207
+Toyota,FJ,2014,Saudi,Black,Full,4,Gas,Automatic,190000,Jeddah,85000,FALSE,11,Standard,Very Large,Very High,91936.42445,-6936.424454,-8.160499358
+Lexus,LX,2015,Saudi,White,Full,5.7,Gas,Automatic,247000,Riyadh,165000,FALSE,10,Luxury,Very Large,Very High,160599.7482,4400.251815,2.666819282
+Ford,Expedition,2016,Saudi,Red,Standard,3.5,Gas,Automatic,70263,Riyadh,89000,FALSE,9,Standard,Large,Medium,86472.19686,2527.803135,2.840228242
+Toyota,Land Cruiser,2014,Gulf Arabic,White,Full,4.6,Gas,Automatic,325000,Riyadh,126000,FALSE,11,Standard,Very Large,Very High,132015.1343,-6015.1343,-4.773916111
+Hyundai,H1,2012,Saudi,Grey,Full,2.4,Gas,Automatic,240,Al-Jouf,25000,FALSE,13,Budget,Medium,Low,30949.69746,-5949.697457,-23.79878983
+Kia,Sportage,2019,Saudi,Golden,Standard,1.6,Gas,Automatic,75000,Al-Ahsa,60000,FALSE,6,Budget,Medium,Medium,51930.51004,8069.48996,13.44914993
+Toyota,FJ,2020,Saudi,White,Standard,4,Gas,Automatic,68500,Riyadh,117000,FALSE,5,Standard,Very Large,Medium,117692.6121,-692.6121218,-0.591976172
+Toyota,Camry,2018,Saudi,Red,Full,3.5,Gas,Automatic,24000,Riyadh,106000,FALSE,7,Standard,Large,Low,110859.3552,-4859.355183,-4.584297342
+Ford,F150,2012,Saudi,Black,Standard,3,Gas,Automatic,352000,Riyadh,38000,FALSE,13,Standard,Large,Very High,31500.75392,6499.246078,17.10327915
+Hyundai,Azera,2016,Saudi,White,Semi Full,2.4,Gas,Automatic,36000,Riyadh,48000,FALSE,9,Budget,Medium,Low,51225.45269,-3225.452694,-6.719693113
+Chevrolet,Tahoe,2008,Saudi,Black,Full,5.3,Gas,Automatic,250000,Riyadh,32000,FALSE,17,Standard,Very Large,Very High,41121.46182,-9121.461817,-28.50456818
+Jeep,Cherokee,2016,Saudi,Black,Standard,2.4,Gas,Automatic,90000,Jeddah,41000,FALSE,9,Standard,Medium,Medium,66359.87717,-25359.87717,-61.85335895
+Hyundai,Tucson,2011,Saudi,White,Semi Full,2,Gas,Automatic,190000,Jeddah,25000,FALSE,14,Budget,Medium,Very High,26903.88675,-1903.886753,-7.615547012
+Dodge,Durango,2012,Other,Blue,Semi Full,5.7,Gas,Automatic,315,Riyadh,20000,FALSE,13,Standard,Very Large,Low,49564.59602,-29564.59602,-147.8229801
+Changan,CS75,2020,Saudi,Grey,Full,1.8,Gas,Automatic,46000,Al-Ahsa,62000,FALSE,5,Standard,Medium,Low,74212.4974,-12212.4974,-19.69757645
+Mercedes,S,2012,Saudi,Brown,Semi Full,3,Gas,Automatic,170000,Jeddah,85000,FALSE,13,Standard,Large,Very High,69457.58505,15542.41495,18.28519406
+Lexus,IS,2008,Saudi,Bronze,Semi Full,2,Gas,Automatic,400000,Riyadh,22000,FALSE,17,Luxury,Medium,Very High,21059.60486,940.3951394,4.274523361
+Toyota,Hiace,2015,Gulf Arabic,White,Semi Full,2.7,Gas,Manual,200000,Riyadh,47000,FALSE,10,Standard,Large,Very High,54141.93242,-7141.932419,-15.19560089
+Toyota,Prado,2016,Saudi,Grey,Full,4,Gas,Automatic,174000,Al-Medina,120000,FALSE,9,Standard,Very Large,Very High,118514.0038,1485.996229,1.238330191
+Mercedes,S,2015,Gulf Arabic,White,Full,3,Gas,Automatic,96500,Dammam,220000,FALSE,10,Standard,Large,Medium,174792.3824,45207.61755,20.54891707
+Hyundai,Azera,2019,Saudi,Grey,Standard,3,Gas,Automatic,74000,Riyadh,80000,FALSE,6,Budget,Large,Medium,71321.78896,8678.211039,10.8477638
+Mazda,CX9,2016,Other,White,Full,2.5,Gas,Automatic,104000,Dammam,105000,FALSE,9,Standard,Large,High,75563.55621,29436.44379,28.03470837
+Toyota,Hiace,2013,Saudi,White,Standard,2.7,Gas,Manual,300000,Jeddah,42000,FALSE,12,Standard,Large,Very High,42917.79182,-917.791821,-2.185218621
+Toyota,FJ,2015,Saudi,White,Full,2.7,Gas,Automatic,230000,Qassim,85000,FALSE,10,Standard,Large,Very High,58214.60067,26785.39933,31.51223451
+Genesis,Royal,2016,Saudi,White,Full,3.8,Gas,Automatic,55000,Riyadh,95000,FALSE,9,Standard,Large,Medium,97166.90407,-2166.904069,-2.280951652
